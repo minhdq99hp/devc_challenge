@@ -1,0 +1,15 @@
+#message {
+    display: flex;
+}
+
+#replayButton {
+    visibility: hidden;
+}
+
+h1 {
+    background-color: yellow;
+}
+
+#timerMessage {
+    visibility: hidden;
+}
