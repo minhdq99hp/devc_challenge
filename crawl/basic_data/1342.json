@@ -1,0 +1,25 @@
+{
+    "name": "Nui C\u00f4 B\u00e9o - Ng\u00f5 V\u0103n Ch\u01b0\u01a1ng",
+    "address": "244 Ng\u00f5 V\u0103n Ch\u01b0\u01a1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.0,
+        "price": 7.7,
+        "quality": 7.3,
+        "service": 6.9,
+        "location": 6.6,
+        "space": 6.2
+    },
+    "review_count": 41,
+    "opening_time": "09:00",
+    "closing_time": "20:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nui-co-beo-ngo-van-chuong"
+}

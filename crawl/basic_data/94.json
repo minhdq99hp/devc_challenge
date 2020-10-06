@@ -1,0 +1,25 @@
+{
+    "name": "Smoothies & Juices - B\u00e0 Tri\u1ec7u",
+    "address": "2B B\u00e0 Tri\u1ec7u, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.6,
+        "location": 8.5,
+        "space": 7.7,
+        "quality": 7.5,
+        "price": 7.1,
+        "service": 7.0
+    },
+    "review_count": 28,
+    "opening_time": "08:00",
+    "closing_time": "23:30",
+    "min_price": "10.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/smoothies-juices-ba-trieu"
+}

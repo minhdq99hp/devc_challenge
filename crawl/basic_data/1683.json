@@ -1,0 +1,26 @@
+{
+    "name": "Royaltea - M\u1ec5 Tr\u00ec",
+    "address": "S\u1ed1 5 Ng\u00f5 4 \u0110\u1ed3ng Me, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.9,
+        "location": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "price": 9.6
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "20:00",
+    "min_price": "30.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Tr\u1ebb em"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t,",
+    "url": "https://www.foody.vn/ha-noi/royaltea-me-tri"
+}

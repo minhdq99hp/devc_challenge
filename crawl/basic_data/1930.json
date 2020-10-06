@@ -1,0 +1,24 @@
+{
+    "name": "Ho\u00e0ng Hu\u1ec7 - C\u01a1m Rang & B\u00fan B\u00f2 Tr\u1ed9n - M\u1eadu L\u01b0\u01a1ng",
+    "address": "Ki \u1ed0t 15 M\u1eadu L\u01b0\u01a1ng, P. Ki\u1ebfn H\u01b0ng, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.2,
+        "price": 8.8,
+        "space": 8.3,
+        "quality": 8.1,
+        "location": 8.0,
+        "service": 7.8
+    },
+    "review_count": 10,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hoang-hue-com-rang-bun-bo-tron-mau-luong"
+}

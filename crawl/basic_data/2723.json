@@ -1,0 +1,25 @@
+{
+    "name": "Savoor - The House Of Panini - T\u00f4 Ng\u1ecdc V\u00e2n",
+    "address": "46 T\u00f4 Ng\u1ecdc V\u00e2n, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.3,
+        "service": 9.7,
+        "quality": 9.6,
+        "space": 9.2,
+        "price": 9.0,
+        "location": 8.9
+    },
+    "review_count": 39,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/savoor-the-house-of-panini"
+}

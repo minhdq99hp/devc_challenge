@@ -1,0 +1,25 @@
+{
+    "name": "Bom \u1ebech - Ph\u1ea1m V\u0103n \u0110\u1ed3ng",
+    "address": "K\u0110T Handiresco 78 Ng\u00f5 178 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.1,
+        "service": 9.0,
+        "location": 8.3,
+        "space": 8.3,
+        "price": 7.3,
+        "quality": 7.3
+    },
+    "review_count": 3,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "249.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bom-ech-pham-van-dong"
+}

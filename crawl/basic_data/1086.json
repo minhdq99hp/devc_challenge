@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Ngon 16 Th\u00e1i H\u00e0 - C\u01a1m V\u0103n Ph\u00f2ng",
+    "address": "\u0110\u1ea7u Ng\u00f5 18 Y\u00ean L\u00e3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.1,
+        "price": 8.6,
+        "quality": 8.2,
+        "service": 8.1,
+        "location": 7.9,
+        "space": 7.6
+    },
+    "review_count": 11,
+    "opening_time": "09:00",
+    "closing_time": "14:00 | 16:00",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ngon-16-thai-ha"
+}

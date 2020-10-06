@@ -1,0 +1,24 @@
+{
+    "name": "Le Monde Steak - Trung H\u00f2a",
+    "address": "84 Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 7.5,
+        "price": 7.9,
+        "space": 7.8,
+        "location": 7.6,
+        "service": 7.4,
+        "quality": 7.1
+    },
+    "review_count": 30,
+    "opening_time": "11:00",
+    "closing_time": "14:30 | 17:00",
+    "min_price": "100.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Ph\u00e1p",
+    "url": "https://www.foody.vn/ha-noi/le-monde-steak-trung-hoa"
+}

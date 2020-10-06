@@ -1,0 +1,26 @@
+{
+    "name": "Mochi Sweets - IPH Xu\u00e2n Th\u1ee7y",
+    "address": "T\u1ea7ng 2,\u00a0T\u1ea7ng 2, IPH, 241 Xu\u00e2n Th\u1ee7y, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.3,
+        "quality": 8.8,
+        "service": 7.5,
+        "location": 7.0,
+        "space": 6.9,
+        "price": 6.4
+    },
+    "review_count": 11,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "32.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng",
+        "Kh\u00e1ch du l\u1ecbch"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/mochi-sweets-iph-xuan-thuy"
+}

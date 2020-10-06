@@ -1,0 +1,26 @@
+{
+    "name": "Pizza Family - Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch",
+    "address": "17 Ng\u00f5 46A Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.9,
+        "price": 7.3,
+        "service": 7.0,
+        "quality": 7.0,
+        "location": 6.7,
+        "space": 6.5
+    },
+    "review_count": 129,
+    "opening_time": "10:00",
+    "closing_time": "21:30",
+    "min_price": "35.000",
+    "max_price": "240.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u00dd",
+    "url": "https://www.foody.vn/ha-noi/pizza-family-pham-ngoc-thach"
+}

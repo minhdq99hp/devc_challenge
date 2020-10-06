@@ -1,0 +1,24 @@
+{
+    "name": "C\u01a1m T\u1ea5m C\u01a1m Ni\u00eau Z\u00f4 Z\u00f4",
+    "address": "116B - D1 Tr\u1ea7n Huy Li\u1ec7u, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.9,
+        "service": 8.2,
+        "quality": 8.0,
+        "location": 7.8,
+        "price": 7.8,
+        "space": 7.6
+    },
+    "review_count": 5,
+    "opening_time": "11:00",
+    "closing_time": "14:00",
+    "min_price": "39.000",
+    "max_price": "49.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-com-nieu-zo-zo"
+}

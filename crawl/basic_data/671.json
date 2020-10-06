@@ -1,0 +1,23 @@
+{
+    "name": "B\u1ebfp Chay Malaysia",
+    "address": "16 Ng\u00f5 1160 \u0110\u01b0\u1eddng L\u00e1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.8,
+        "quality": 9.5,
+        "service": 9.5,
+        "price": 9.0,
+        "location": 8.0,
+        "space": 8.0
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "14:00",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/bep-chay-malaysia"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Mokchang - \u0110\u1ed3 \u0102n H\u00e0n Qu\u1ed1c",
+    "address": "8 Ng\u00f5 198 X\u00e3 \u0110\u00e0n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.3,
+        "service": 7.5,
+        "price": 7.3,
+        "location": 7.3,
+        "quality": 7.2,
+        "space": 7.2
+    },
+    "review_count": 294,
+    "opening_time": "10:00",
+    "closing_time": "14:30 | 17:00",
+    "min_price": "100.000",
+    "max_price": "300.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/mokchang-do-an-han-quoc"
+}

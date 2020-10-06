@@ -1,0 +1,25 @@
+{
+    "name": "Len & Li\u00ean - B\u00f4ng Lan Tr\u1ee9ng Mu\u1ed1i - Shop Online",
+    "address": "9 Ng\u00e1ch 45 Ng\u00f5 683 Nguy\u1ec5n Kho\u00e1i, P. Thanh Tr\u00ec, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.3,
+        "service": 10.0,
+        "quality": 9.8,
+        "space": 9.5,
+        "location": 8.8,
+        "price": 8.4
+    },
+    "review_count": 8,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "100.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/len-lien-bong-lan-trung-muoi-shop-online"
+}

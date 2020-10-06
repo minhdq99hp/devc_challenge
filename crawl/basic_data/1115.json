@@ -1,0 +1,25 @@
+{
+    "name": "Chaebon - Kimbap Ngon S\u1ed1 1 - Th\u00e1i Th\u1ecbnh",
+    "address": "20 Ng\u00f5 35 Th\u00e1i Th\u1ecbnh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.5,
+        "space": 8.6,
+        "service": 8.6,
+        "location": 8.6,
+        "quality": 8.5,
+        "price": 8.4
+    },
+    "review_count": 27,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/chaebon-kimbap-ngon-so-1"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u Qu\u1ea3ng Ninh - Mai Anh Tu\u1ea5n",
+    "address": "34 Mai Anh Tu\u1ea5n, P. \u00d4 Ch\u1ee3 D\u1eeba, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.7,
+        "location": 9.8,
+        "quality": 9.8,
+        "price": 9.7,
+        "space": 9.7,
+        "service": 9.6
+    },
+    "review_count": 44,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-quang-ninh-mai-anh-tuan"
+}

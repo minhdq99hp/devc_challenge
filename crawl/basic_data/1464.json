@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m C\u01a1m Vi\u1ec7t - Shop Online - Xu\u00e2n La",
+    "address": "21 Ng\u00e1ch 42/11 Ng\u00f5 105 Xu\u00e2n La, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-com-viet-shop-online"
+}

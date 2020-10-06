@@ -1,0 +1,25 @@
+{
+    "name": "Tra\u0300 S\u01b0\u0303a Tocotoco - Times City",
+    "address": "T\u1ea7ng H\u1ea7m 1,\u00a0K9-K10 \u0110\u01b0\u1eddng Thanh Ni\u00ean, T\u1ea7ng B1, T\u00f2a T8, TTTM Times City, 458 Minh Khai, P. V\u0129nh Tuy, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.2,
+        "service": 7.0,
+        "quality": 6.8,
+        "space": 6.6,
+        "price": 6.5
+    },
+    "review_count": 81,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-times-city"
+}

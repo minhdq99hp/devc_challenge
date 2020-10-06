@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh Tiramisu - Shop Online",
+    "address": "180 X\u00e3 \u0110\u00e0n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.3,
+        "price": 8.8,
+        "service": 8.6,
+        "quality": 8.6,
+        "location": 8.3,
+        "space": 7.3
+    },
+    "review_count": 48,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-tiramisu-shop-online"
+}

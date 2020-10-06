@@ -1,0 +1,25 @@
+{
+    "name": "Twitter Beans Coffee - Geleximco Ho\u00e0ng C\u1ea7u",
+    "address": "T\u00f2a Nh\u00e0 Geleximco, 36 Ho\u00e0ng C\u1ea7u, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 8.8,
+        "space": 8.8,
+        "service": 7.5,
+        "quality": 7.2,
+        "price": 6.7
+    },
+    "review_count": 6,
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "min_price": "28.000",
+    "max_price": "61.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/twitter-beans-cofee-geleximco-hoang-cau"
+}

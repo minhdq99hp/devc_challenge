@@ -1,0 +1,24 @@
+{
+    "name": "ThaiExpress - Times City",
+    "address": "T\u1ea7ng B1, Times City, 458 Minh Khai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 7.4,
+        "service": 7.7,
+        "quality": 7.6,
+        "space": 7.5,
+        "location": 7.4,
+        "price": 7.0
+    },
+    "review_count": 34,
+    "opening_time": "11:00",
+    "closing_time": "14:30 | 18:00",
+    "min_price": "10.000",
+    "max_price": "90.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Th\u00e1i",
+    "url": "https://www.foody.vn/ha-noi/thai-express-times-city"
+}

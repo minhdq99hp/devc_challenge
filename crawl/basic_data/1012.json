@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m G\u00e0 Kinh B\u1eafc - \u0110\u01b0\u1eddng L\u00e1ng",
+    "address": "3 Ng\u00f5 766 \u0110\u01b0\u1eddng L\u00e1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.6,
+        "service": 9.1,
+        "quality": 8.8,
+        "price": 8.8,
+        "location": 8.2,
+        "space": 8.1
+    },
+    "review_count": 16,
+    "opening_time": "10:30",
+    "closing_time": "14:00 | 17:30",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/com-ga-kinh-bac-duong-lang"
+}

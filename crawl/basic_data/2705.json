@@ -1,0 +1,24 @@
+{
+    "name": "BB House - B\u00fan B\u00f2 Tr\u1ed9n, Ch\u00e1o S\u01b0\u1eddn & \u0110\u1ed3 \u0102n V\u1eb7t",
+    "address": "77A L\u00e2m H\u1ea1, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bb-house-bun-bo-tron-chao-suon-do-an-vat"
+}

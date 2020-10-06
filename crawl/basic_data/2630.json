@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m C\u01a1m Ph\u00fac - Shop Online",
+    "address": "C\u1ed5ng Ch\u1ee3 Y\u00ean X\u00e1, Huy\u1ec7n Thanh Tr\u00ec H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.1,
+        "price": 9.5,
+        "quality": 9.5,
+        "location": 9.0,
+        "service": 9.0,
+        "space": 8.5
+    },
+    "review_count": 2,
+    "opening_time": "10:30",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-com-phuc-shop-online"
+}

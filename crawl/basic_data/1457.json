@@ -1,0 +1,25 @@
+{
+    "name": "\u0110\u00f4ng D\u01b0\u01a1ng Fruits - Tr\u00e1i C\u00e2y G\u1ecdt S\u1eb5n, Sinh T\u1ed1 & N\u01b0\u1edbc \u00c9p",
+    "address": "123 \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.7,
+        "location": 9.1,
+        "price": 8.7,
+        "quality": 8.6,
+        "service": 8.6,
+        "space": 8.5
+    },
+    "review_count": 19,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/dong-duong-fruits-trai-cay-got-san-sinh-to-nuoc-ep"
+}

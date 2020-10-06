@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 V\u1ecb M\u1ed9c - Ph\u1edf G\u00e0, B\u00fan Thang & X\u00f4i G\u00e0 Pate",
+    "address": "87 Giang V\u0103n Minh, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.0,
+        "location": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "price": 8.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "14:00 | 17:30",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-vi-moc-pho-ga-bun-thang-xoi-ga-pate"
+}

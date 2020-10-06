@@ -1,0 +1,25 @@
+{
+    "name": "Z\u1ed1p Bami - B\u00e1nh M\u00ec Th\u1ecbt N\u01b0\u1edbng & B\u01a1 N\u01b0\u1edbng M\u1eadt Ong - Nguy\u1ec5n V\u0103n Gi\u00e1p",
+    "address": "366 Nguy\u1ec5n V\u0103n Gi\u00e1p, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.4,
+        "quality": 8.8,
+        "service": 8.8,
+        "space": 8.4,
+        "price": 8.2,
+        "location": 8.0
+    },
+    "review_count": 5,
+    "opening_time": "06:00",
+    "closing_time": "20:30",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/zop-bami-nguyen-van-giap"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "\u00c2n B\u00e9o - B\u00fan H\u1ea3i S\u1ea3n - H\u00e0ng V\u00f4i",
+    "address": "29 H\u00e0ng V\u00f4i, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.0,
+        "location": 9.0,
+        "price": 9.0,
+        "quality": 9.0,
+        "service": 9.0,
+        "space": 9.0
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "20:00",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-beo-bun-hai-san-hang-voi"
+}

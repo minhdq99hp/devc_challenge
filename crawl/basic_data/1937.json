@@ -1,0 +1,24 @@
+{
+    "name": "Cha Go Tea & Caf'e - Nguy\u1ec5n Kh\u00e1nh To\u00e0n",
+    "address": "8 Nguy\u1ec5n Kh\u00e1nh To\u00e0n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.3,
+        "space": 7.5,
+        "location": 7.4,
+        "price": 7.3,
+        "quality": 7.2,
+        "service": 7.0
+    },
+    "review_count": 84,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/cha-go-tea-caf-e-nguyen-khanh-toan"
+}

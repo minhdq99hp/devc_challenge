@@ -1,0 +1,26 @@
+{
+    "name": "C\u00fac - Ch\u00e1o S\u01b0\u1eddn S\u1ee5n - \u0110\u1ed9i C\u1ea5n",
+    "address": "142D \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.9,
+        "quality": 7.5,
+        "price": 7.0,
+        "service": 6.9,
+        "location": 6.9,
+        "space": 6.3
+    },
+    "review_count": 80,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Tr\u1ebb em"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-suon-sun-doi-can"
+}

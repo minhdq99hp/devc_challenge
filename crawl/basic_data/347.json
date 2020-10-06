@@ -1,0 +1,24 @@
+{
+    "name": "Vi\u1ec7t C\u00f2i - B\u00fan \u0110\u1eadu",
+    "address": "3 E4 TT. \u0110\u1ea1i h\u1ecdc Y, T\u00f4n Th\u1ea5t T\u00f9ng (Ng\u00f5 \u0110\u1ed1i Di\u1ec7n Tam Kh\u01b0\u01a1ng), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.0,
+        "price": 7.7,
+        "location": 7.3,
+        "quality": 6.8,
+        "service": 6.8,
+        "space": 6.6
+    },
+    "review_count": 10,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/viet-coi-bun-dau-sach"
+}

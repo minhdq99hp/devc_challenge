@@ -1,0 +1,25 @@
+{
+    "name": "Ph\u00fa S\u01a1n - X\u00f4i & B\u00e1nh M\u00ec Pate H\u1ea3i Ph\u00f2ng",
+    "address": "101 C6 Tr\u1ea7n Huy Li\u1ec7u, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.3,
+        "quality": 9.6,
+        "service": 9.6,
+        "price": 9.3,
+        "location": 9.1,
+        "space": 9.1
+    },
+    "review_count": 14,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "12.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phu-son-xoi-banh-mi-pate-hai-phong"
+}

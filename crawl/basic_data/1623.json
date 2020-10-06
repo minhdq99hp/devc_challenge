@@ -1,0 +1,25 @@
+{
+    "name": "Xi\u00ean Que Chi\u00ean & M\u00ec Tr\u1ed9n Indomie - Shop Online",
+    "address": "12 Ng\u00f5 24 Kim M\u00e3, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.1,
+        "location": 9.1,
+        "service": 9.1,
+        "space": 9.1,
+        "price": 9.0,
+        "quality": 9.0
+    },
+    "review_count": 29,
+    "opening_time": "07:00",
+    "closing_time": "23:59",
+    "min_price": "3.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/xien-que-chien-mi-tron-indomie-shop-online"
+}

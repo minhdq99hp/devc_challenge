@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 B\u1ed1n M\u00f9a - Ch\u00e8, Ch\u00e1o & \u0110\u1ed3 \u0102n V\u1eb7t",
+    "address": "11 Ng\u00f5 161 Th\u00e1i H\u00e0, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.8,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "21:30",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bon-mua-quan-che-chao-do-an-vat"
+}

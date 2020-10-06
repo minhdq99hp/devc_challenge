@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n MoMo - Nguy\u1ec5n V\u0103n L\u1ed9c",
+    "address": "LK3 C2 Nguy\u1ec5n V\u0103n L\u1ed9c, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 8.6,
+        "quality": 8.6,
+        "service": 8.4,
+        "location": 8.4,
+        "space": 8.2
+    },
+    "review_count": 17,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/ga-ran-momo"
+}

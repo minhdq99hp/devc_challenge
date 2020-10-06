@@ -1,0 +1,25 @@
+{
+    "name": "A Mi - Tuy\u1ec7t \u0110\u1ec9nh M\u00ec Tr\u1ed9n & \u0102n V\u1eb7t Online",
+    "address": "7 Ng\u00f5 389 C\u1ed5 Nhu\u1ebf, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.8,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/a-mi-tuyet-dinh-mi-tron-an-vat-online"
+}

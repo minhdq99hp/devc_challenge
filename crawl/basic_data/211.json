@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Feeling Tea - Y\u00ean L\u00e3ng",
+    "address": "61 Y\u00ean L\u00e3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.0,
+        "price": 7.5,
+        "location": 7.2,
+        "quality": 6.9,
+        "space": 6.9,
+        "service": 6.6
+    },
+    "review_count": 30,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "14.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/feeling-tea-yen-lang"
+}

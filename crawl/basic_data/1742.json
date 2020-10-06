@@ -1,0 +1,24 @@
+{
+    "name": "C\u00f4 L\u00ea - Nem N\u01b0\u1edbng Nha Trang - Ao Sen",
+    "address": "16B Ng\u00f5 3 Ao Sen, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "price": 7.5,
+        "location": 7.5,
+        "service": 7.4,
+        "quality": 7.2,
+        "space": 6.7
+    },
+    "review_count": 26,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "18.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-le-nem-nuong-nha-trang-ao-sen"
+}

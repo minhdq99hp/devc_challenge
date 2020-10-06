@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan Mi\u1ebfn Ngan D2 - Nguy\u1ec5n Ng\u1ecdc Do\u00e3n",
+    "address": "41 Nguy\u1ec5n Ng\u1ecdc Do\u00e3n (105 D2 \u0110\u1eb7ng V\u0103n Ng\u1eef C\u0169), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.9,
+        "quality": 7.2,
+        "price": 7.1,
+        "location": 6.9,
+        "service": 6.8,
+        "space": 6.6
+    },
+    "review_count": 29,
+    "opening_time": "08:00",
+    "closing_time": "14:30 | 16:30",
+    "min_price": "30.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-ngan-mien-ngan-dang-van-ngu"
+}

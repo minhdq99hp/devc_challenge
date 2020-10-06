@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Ngon M\u1eb9 N\u1ea5u - Kim Giang",
+    "address": "41 Ng\u00f5 250 Kim Giang, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 9.0,
+        "quality": 9.0,
+        "service": 9.0,
+        "space": 8.0,
+        "location": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "10:30",
+    "closing_time": "20:30",
+    "min_price": "50.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ngon-me-nau-kim-giang"
+}

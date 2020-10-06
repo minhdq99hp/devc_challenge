@@ -1,0 +1,26 @@
+{
+    "name": "Ti\u1ec7m C\u01a1m Zon & Pi - Ho\u00e0ng C\u1ea7u",
+    "address": "6 Ng\u00e1ch 68 Ng\u00f5 34 Ho\u00e0ng C\u1ea7u, P. \u00d4 Ch\u1ee3 D\u1eeba, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.8,
+        "service": 9.8,
+        "quality": 9.3,
+        "location": 8.4,
+        "price": 8.4,
+        "space": 8.2
+    },
+    "review_count": 14,
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-com-zon-pi-hoang-cau"
+}

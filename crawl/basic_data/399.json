@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Seko Tea - M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng",
+    "address": "37 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.3,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 9.7,
+        "location": 9.3,
+        "space": 7.7
+    },
+    "review_count": 3,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/seko-tea-tra-sua-dai-loan"
+}

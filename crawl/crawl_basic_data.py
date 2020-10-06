@@ -1,6 +1,10 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 import os
+import re
 import sys
 import json
+import string
 import requests
 from tqdm import tqdm
 from time import sleep
@@ -20,10 +24,10 @@ def scrape_basic_data(url):
     Input: url (str)
     Output: data (dict)
     '''
-    res = requests.get(url, timeout=60, verify=False)
+    res = requests.get(url, timeout=60)
     binary_data = res.content
 
-    print(len(binary_data))
+    # print(binary_data)
     
     data = {}
     s = bs(binary_data, 'html.parser')
@@ -123,8 +127,8 @@ if __name__ == '__main__':
         urls = f.readlines()
     
     fail_count = 0  # count consecutive failed tasks
-    for i, url in enumerate(tqdm(urls[:5])):
-        print(url)
+    for i, url in enumerate(tqdm(urls)):
+        url = url.replace('\n', '')
         cache_path = os.path.join('basic_data', f"{i}.json")
 
         if os.path.exists(cache_path):
@@ -138,13 +142,14 @@ if __name__ == '__main__':
                 
                 fail_count = 0
             except Exception as e:
-                print(f'Failed {i} {e}')
+                # print(f'Failed {i} {e}')
                 fail_count += 1
             
 
-            if fail_count == 10:
-                print('Fail too much ! Exit process.')
-                break        
+            if fail_count == 700:
+                print('Fail too much ! Sleep for 3 mins.')
+                sleep(180)
+                continue
     
 
     print("Done !")

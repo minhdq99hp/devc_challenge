@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp C\u00f4 L\u00e0nh - Vegan Food & Cake",
+    "address": "C\u1ea1nh 66 Ng\u00e1ch 46 Ng\u00f5 Linh Quang, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.2,
+        "location": 8.5,
+        "price": 8.3,
+        "service": 8.3,
+        "quality": 8.0,
+        "space": 8.0
+    },
+    "review_count": 6,
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-co-lanh-vegan-food-cake"
+}

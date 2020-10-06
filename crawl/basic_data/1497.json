@@ -1,0 +1,24 @@
+{
+    "name": "Ph\u00f4 Mai Xinh - HotDog, G\u00e0 R\u00e1n H\u00e0n & \u0110\u1ed3 H\u00e0n",
+    "address": "106A C4 Ngh\u0129a T\u00e2n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.7,
+        "quality": 8.9,
+        "service": 8.9,
+        "price": 8.7,
+        "space": 8.7,
+        "location": 8.3
+    },
+    "review_count": 9,
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pho-mai-xinh-hot-dog-do-han"
+}

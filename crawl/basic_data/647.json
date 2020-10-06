@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m S\u01b0\u1eddn \u0110\u00e0o Duy T\u1eeb",
+    "address": "47 \u0110\u00e0o Duy T\u1eeb, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 7.0,
+        "quality": 6.7,
+        "space": 6.5,
+        "price": 6.3,
+        "service": 6.2
+    },
+    "review_count": 252,
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "66.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-suon-nuong-dao-duy-tu"
+}

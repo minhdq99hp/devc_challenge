@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e1o S\u01b0\u1eddn S\u1ee5n - \u00d4 Ch\u1ee3 D\u1eeba",
+    "address": "56 \u00d4 Ch\u1ee3 D\u1eeba M\u1edbi (101 \u00d4 Ch\u1ee3 D\u1eeba C\u0169), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.9,
+        "price": 7.4,
+        "service": 7.4,
+        "quality": 7.2,
+        "location": 6.8,
+        "space": 6.0
+    },
+    "review_count": 16,
+    "opening_time": "06:00",
+    "closing_time": "13:00 | 15:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-suon-sun-o-cho-dua"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u1ecb C\u00fac - B\u00fan Tr\u1ed9n Nam B\u1ed9 - \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng",
+    "address": "31 \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 8.0,
+        "quality": 8.0,
+        "service": 8.0,
+        "space": 8.0,
+        "price": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "45.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chi-cuc-bun-tron-nam-bo-dang-tien-dong"
+}

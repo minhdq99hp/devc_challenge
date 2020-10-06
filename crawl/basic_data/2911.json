@@ -1,0 +1,25 @@
+{
+    "name": "H\u00e0 Th\u1ea3o - Nem N\u01b0\u1edbng Nha Trang - H\u00e0ng B\u1ed3",
+    "address": "36 H\u00e0ng B\u1ed3, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.4,
+        "location": 9.6,
+        "quality": 9.5,
+        "price": 9.4,
+        "service": 9.3,
+        "space": 9.3
+    },
+    "review_count": 88,
+    "opening_time": "10:00",
+    "closing_time": "19:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ha-thao-nem-nuong-nha-trang"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - K\u0110T Xa La",
+    "address": "8 BT11 K\u0110T Xa La, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 9.0,
+        "service": 9.0,
+        "space": 9.0,
+        "location": 8.0,
+        "quality": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-kdt-xa-la"
+}

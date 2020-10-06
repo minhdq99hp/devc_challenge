@@ -1,0 +1,25 @@
+{
+    "name": "Potato King - Th\u1ebf Gi\u1edbi G\u00e0 & Khoai Online - Kh\u01b0\u01a1ng Th\u01b0\u1ee3ng",
+    "address": "1C Kh\u01b0\u01a1ng Th\u01b0\u1ee3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.6,
+        "quality": 10.0,
+        "service": 9.8,
+        "price": 9.8,
+        "location": 9.5,
+        "space": 8.9
+    },
+    "review_count": 30,
+    "opening_time": "08:00",
+    "closing_time": "23:59",
+    "min_price": "40.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/potato-king-the-gioi-ga-khoai-online-khuong-thuong"
+}

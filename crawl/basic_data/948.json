@@ -1,0 +1,24 @@
+{
+    "name": "G\u00e0 R\u00e1n Nh\u1eadt B\u1ea3n - Nh\u00e2n H\u00f2a",
+    "address": "6 Nh\u00e2n H\u00f2a, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.7,
+        "quality": 8.3,
+        "location": 8.0,
+        "price": 8.0,
+        "service": 7.7,
+        "space": 6.7
+    },
+    "review_count": 3,
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "min_price": "8.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-ran-nhat-ban-nhan-hoa"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m G\u00e0 Papa Gh\u1eb9 - Shop Online",
+    "address": "5 Ng\u00e1ch 49 Ng\u00f5 Ti\u1ebfn B\u1ed9, Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.1,
+        "quality": 9.5,
+        "price": 9.2,
+        "service": 9.1,
+        "space": 9.0,
+        "location": 8.8
+    },
+    "review_count": 32,
+    "opening_time": "06:00",
+    "closing_time": "23:59",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ga-papa-ghe-shop-online"
+}

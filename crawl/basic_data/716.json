@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp Nh\u00e0 Bun - Ch\u00e2n G\u00e0 S\u1ea3 \u1edat Online",
+    "address": "15A Ng\u00f5 580 Tr\u01b0\u1eddng Chinh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.3,
+        "quality": 7.7,
+        "price": 7.4,
+        "service": 7.4,
+        "location": 7.3,
+        "space": 6.9
+    },
+    "review_count": 65,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "90.000",
+    "max_price": "90.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-nha-bun-chan-ga-sa-ot-online"
+}

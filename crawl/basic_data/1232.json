@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Taster's Choice - Th\u00e1i H\u00e0",
+    "address": "338 Th\u00e1i H\u00e0, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.3,
+        "price": 7.6,
+        "service": 7.5,
+        "location": 7.4,
+        "quality": 7.1,
+        "space": 7.0
+    },
+    "review_count": 130,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-taster-s-choice-thai-ha"
+}

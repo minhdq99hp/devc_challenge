@@ -1,0 +1,25 @@
+{
+    "name": "Nem Chua Ch\u1ebf Linh - Shop Online",
+    "address": "12 Ng\u00f5 252 \u0110\u1ecbnh C\u00f4ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.4,
+        "price": 8.0,
+        "quality": 7.9,
+        "service": 7.9,
+        "location": 7.1,
+        "space": 6.1
+    },
+    "review_count": 9,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nem-chua-che-linh-shop-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Salades De Flora",
+    "address": "4 Ng\u00f5 294 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n, ",
+    "scores": {
+        "avg_score": 7.0,
+        "space": 7.7,
+        "location": 7.3,
+        "price": 7.0,
+        "service": 6.7,
+        "quality": 6.3
+    },
+    "review_count": 3,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "48.000",
+    "max_price": "85.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/salades-de-flora"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Vi\u1ec7t - D\u1ecbch V\u1ecdng H\u1eadu",
+    "address": "64 Ng\u00e1ch 18 Ng\u00f5 66 C\u1ed1m V\u00f2ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.3,
+        "space": 7.8,
+        "location": 7.6,
+        "service": 7.6,
+        "quality": 6.9,
+        "price": 6.7
+    },
+    "review_count": 10,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "38.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-viet-dich-vong-hau"
+}

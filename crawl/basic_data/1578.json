@@ -1,0 +1,24 @@
+{
+    "name": "Rau M\u00e1 L\u00e1 - \u0110\u1ed9i C\u1ea5n",
+    "address": "99A \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.5,
+        "price": 7.0,
+        "location": 6.7,
+        "service": 6.7,
+        "quality": 6.0,
+        "space": 6.0
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "12.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/rau-ma-la-shop-online"
+}

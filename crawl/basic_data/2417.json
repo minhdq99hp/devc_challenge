@@ -1,0 +1,25 @@
+{
+    "name": "Honu - Ti\u1ec7m Tr\u00e0 Chanh V\u0103n Qu\u00e1n",
+    "address": "Kiot 5, CT8B Nguy\u1ec5n Khuy\u1ebfn, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.1,
+        "quality": 9.3,
+        "price": 8.5,
+        "service": 8.0,
+        "location": 7.5,
+        "space": 7.0
+    },
+    "review_count": 4,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/honu-tiem-tra-chanh-van-quan"
+}

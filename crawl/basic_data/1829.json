@@ -1,0 +1,25 @@
+{
+    "name": "Bamicun - B\u00e1nh M\u00ec D\u00e2n T\u1ed5 - Nguy\u1ec5n C\u1ea3nh D\u1ecb",
+    "address": "Chung Cu\u031b Smile Bulidng, 1 Nguye\u0302\u0303n Ca\u0309nh Di\u0323, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.1,
+        "quality": 8.4,
+        "service": 8.4,
+        "space": 8.0,
+        "location": 7.8,
+        "price": 7.8
+    },
+    "review_count": 5,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bamicun-banh-mi-dan-to-nguyen-canh-di"
+}

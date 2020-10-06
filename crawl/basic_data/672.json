@@ -1,0 +1,24 @@
+{
+    "name": "V\u00e2n Nhi - Food & Dessert - Tr\u1ea7n Qu\u1ed1c To\u1ea3n",
+    "address": "2A Tr\u1ea7n Qu\u1ed1c To\u1ea3n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.6,
+        "space": 8.0,
+        "quality": 7.9,
+        "location": 7.7,
+        "service": 7.6,
+        "price": 7.0
+    },
+    "review_count": 32,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "12.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/van-nhi-food-dessert"
+}

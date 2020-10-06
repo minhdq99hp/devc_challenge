@@ -1,0 +1,24 @@
+{
+    "name": "Bami Sot - B\u00e1nh M\u00ec S\u1ed1t \u0110\u1eb7c Bi\u1ec7t - V\u0169 Tr\u1ecdng Ph\u1ee5ng",
+    "address": "96 V\u0169 Tr\u1ecdng Ph\u1ee5ng, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.4,
+        "service": 8.9,
+        "quality": 8.8,
+        "location": 8.4,
+        "price": 8.3,
+        "space": 7.8
+    },
+    "review_count": 27,
+    "opening_time": "06:30",
+    "closing_time": "21:10",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bami-sot-banh-mi-sot"
+}

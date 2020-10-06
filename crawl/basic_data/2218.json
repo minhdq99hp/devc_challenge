@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n S\u00e0i G\u00f2n - Nguy\u1ec5n Si\u00eau",
+    "address": "3 Nguy\u1ec5n Si\u00eau, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.3,
+        "quality": 7.8,
+        "price": 7.6,
+        "service": 7.6,
+        "location": 7.1,
+        "space": 6.4
+    },
+    "review_count": 147,
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-trang-tron-sai-gon-nguyen-sieu"
+}

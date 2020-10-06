@@ -1,0 +1,24 @@
+{
+    "name": "Cha Qian Sui - Ti\u1ec7m Tr\u00e0 Vua M\u00e8o",
+    "address": "48 Ng\u00f5 30 T\u1ea1 Quang B\u1eedu, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.6,
+        "service": 10.0,
+        "space": 9.9,
+        "quality": 9.7,
+        "location": 9.1,
+        "price": 9.1
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "39.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/cha-qian-sui-tiem-tra-vua-meo"
+}

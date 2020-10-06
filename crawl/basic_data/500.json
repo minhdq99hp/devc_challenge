@@ -1,0 +1,25 @@
+{
+    "name": "SugarKing - \u0110\u01b0\u1eddng N\u00e2u \u0110\u00e0i Loan - Th\u01b0\u1ee3ng \u0110\u00ecnh",
+    "address": "84 Th\u01b0\u1ee3ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.3,
+        "price": 7.6,
+        "location": 7.4,
+        "quality": 7.4,
+        "service": 7.0,
+        "space": 7.0
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/sugarking-duong-nau-dai-loan-thuong-dinh"
+}

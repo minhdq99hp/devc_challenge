@@ -1,0 +1,25 @@
+{
+    "name": "C\u00f4 Ngoe - B\u00fan H\u1ea3i S\u1ea3n & B\u00fan C\u00e1",
+    "address": "56 \u0110\u00ecnh Th\u00f4n, P. M\u1ef9 \u0110\u00ecnh, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.4,
+        "quality": 9.8,
+        "service": 9.6,
+        "location": 9.4,
+        "price": 9.2,
+        "space": 9.2
+    },
+    "review_count": 5,
+    "opening_time": "07:00",
+    "closing_time": "14:00 | 17:30",
+    "min_price": "30.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-ngoe-bun-hai-san-bun-ca"
+}

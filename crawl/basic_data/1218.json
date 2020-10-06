@@ -1,0 +1,25 @@
+{
+    "name": "LaJuicy - N\u01b0\u1edbc \u00c9p Nguy\u00ean Ch\u1ea5t & S\u1eefa Chua D\u1ebbo",
+    "address": "35B Nguy\u1ec5n H\u1eefu Hu\u00e2n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.4,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": 9.0,
+        "price": 9.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/lacafe"
+}

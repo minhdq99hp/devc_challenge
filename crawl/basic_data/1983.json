@@ -1,0 +1,25 @@
+{
+    "name": "Xu\u00e2n Food - M\u00ec Tr\u1ed9n Indomie",
+    "address": "\u0110\u1ed1i Di\u1ec7n C\u1ea7u Thang 2 Nh\u00e0 A1 Ng\u00f5 15 V\u0129nh H\u1ed3, P. Th\u1ecbnh Quang, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "min_price": "18.000",
+    "max_price": "36.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/xuan-food-mi-tron-indomie"
+}

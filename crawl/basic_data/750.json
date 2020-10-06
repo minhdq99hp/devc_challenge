@@ -1,0 +1,25 @@
+{
+    "name": "Tmore - Ti\u1ec7m Tr\u00e0 Chanh - Nguy\u1ec5n Kh\u00e1nh To\u00e0n",
+    "address": "Nguy\u1ec5n Kh\u00e1nh To\u00e0n (\u0110\u1ed1i Di\u1ec7n THCS D\u1ecbch V\u1ecdng), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.8,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "location": 9.0
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tmore-tiem-tra-chanh-nguyen-khanh-toan"
+}

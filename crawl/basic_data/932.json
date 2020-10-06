@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea Plus - Nguy\u1ec5n Ch\u00e1nh",
+    "address": "5 Ng\u00f5 2 Nguy\u1ec5n Ch\u00e1nh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.4,
+        "location": 7.6,
+        "space": 7.5,
+        "price": 7.5,
+        "service": 7.4,
+        "quality": 7.1
+    },
+    "review_count": 122,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-nguyen-chanh"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "M\u00ec G\u00e0 T\u1ea7n - 23 H\u00e0ng B\u1ed3",
+    "address": "23 H\u00e0ng B\u1ed3, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.8,
+        "service": 7.2,
+        "quality": 7.0,
+        "location": 6.8,
+        "price": 6.7,
+        "space": 6.3
+    },
+    "review_count": 12,
+    "opening_time": "16:00",
+    "closing_time": "23:59",
+    "min_price": "35.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pho-ga"
+}

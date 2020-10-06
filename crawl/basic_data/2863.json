@@ -1,0 +1,25 @@
+{
+    "name": "Bonchon Chicken - Nh\u00e0 Th\u1edd",
+    "address": "12 Nh\u00e0 Th\u1edd, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 7.7,
+        "location": 8.4,
+        "quality": 7.7,
+        "service": 7.6,
+        "price": 7.3,
+        "space": 7.3
+    },
+    "review_count": 27,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "100.000",
+    "max_price": "300.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/bonchon-chicken"
+}

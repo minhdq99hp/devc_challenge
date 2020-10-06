@@ -1,0 +1,24 @@
+{
+    "name": "Ng\u1ecdc Dung - Ch\u00e1o L\u00f2ng & B\u00e1nh \u0110a Tr\u1ed9n",
+    "address": "107 E2 V\u0129nh Ph\u00fac, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 7.7,
+        "quality": 7.6,
+        "service": 7.1,
+        "space": 6.7,
+        "location": 6.3
+    },
+    "review_count": 39,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ngoc-dung-chao-long"
+}

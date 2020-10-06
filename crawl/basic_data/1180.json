@@ -1,0 +1,25 @@
+{
+    "name": "Kaoya Hotpot - M\u00ec V\u1ecbt Quay & C\u01a1m X\u00e1 X\u00edu",
+    "address": "103 H\u00e0ng Bu\u1ed3m, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.1,
+        "quality": 8.8,
+        "service": 8.7,
+        "location": 8.3,
+        "space": 7.5,
+        "price": 7.4
+    },
+    "review_count": 17,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/kaoya-hotpot-mi-vit-quay-com-xa-xiu"
+}

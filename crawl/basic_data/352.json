@@ -1,0 +1,25 @@
+{
+    "name": "Minh Ho\u00e0ng Bakery - B\u00f4ng Lan Tr\u1ee9ng Mu\u1ed1i & \u0110\u1ed3 U\u1ed1ng Online",
+    "address": "58 Nguy\u1ec5n \u0110\u1ed5ng Chi, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.4,
+        "location": 9.1,
+        "service": 8.8,
+        "quality": 8.6,
+        "price": 8.5,
+        "space": 7.2
+    },
+    "review_count": 21,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "99.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/minh-hoang-bakery-shop-online"
+}

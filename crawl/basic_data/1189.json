@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Kai Tea - Do\u00e3n K\u1ebf Thi\u1ec7n",
+    "address": "6B Ng\u00f5 105 Ng\u00e1ch 56 Do\u00e3n K\u1ebf Thi\u1ec7n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.4,
+        "location": 7.5,
+        "price": 7.4,
+        "space": 7.4,
+        "service": 7.4,
+        "quality": 7.2
+    },
+    "review_count": 59,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-kai-tea-doan-ke-thien"
+}

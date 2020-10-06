@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Pozaa Tea - Linh \u0110\u00e0m",
+    "address": "Ki \u1ed0t 18, HH2B K\u0110T Linh \u0110\u00e0m, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.0,
+        "location": 9.0,
+        "price": 9.0,
+        "quality": 9.0,
+        "service": 9.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-pozaa-tea-linh-dam"
+}

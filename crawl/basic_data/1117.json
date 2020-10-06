@@ -1,0 +1,25 @@
+{
+    "name": "Mokchang Chicken - Shop Online - L\u00e1ng H\u1ea1",
+    "address": "16 Ng\u00f5 81 L\u00e1ng H\u1ea1, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.9,
+        "location": 8.7,
+        "service": 7.8,
+        "space": 7.8,
+        "price": 7.7,
+        "quality": 7.7
+    },
+    "review_count": 6,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/mokchang-chicken-shop-online-lang-ha"
+}

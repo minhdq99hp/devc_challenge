@@ -1,0 +1,26 @@
+{
+    "name": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n - 86 H\u00e0ng Tr\u1ed1ng",
+    "address": "86 H\u00e0ng Tr\u1ed1ng , Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 6.7,
+        "price": 6.7,
+        "quality": 6.2,
+        "service": 6.1,
+        "space": 6.1
+    },
+    "review_count": 35,
+    "opening_time": "19:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "25.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Mi\u1ec1n Nam",
+    "url": "https://www.foody.vn/ha-noi/banh-trang-bo-hang-trong"
+}

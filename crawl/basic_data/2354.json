@@ -1,0 +1,24 @@
+{
+    "name": "Unagi Sushi ",
+    "address": "7 Ng\u00f5 8 Li\u1ec5u Giai, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 8.3,
+        "service": 8.0,
+        "price": 7.8,
+        "quality": 7.5,
+        "space": 7.3
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "55.000",
+    "max_price": "550.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/unagi-sushi"
+}

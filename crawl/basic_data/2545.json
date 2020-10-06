@@ -1,0 +1,24 @@
+{
+    "name": "C\u01a1m Chay An Linh - Shop Online",
+    "address": "29 Ng\u00e1ch 70 Ng\u00f5 44 Tr\u1ea7n Th\u00e1i T\u00f4ng, P. D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.6,
+        "location": 10.0,
+        "quality": 9.8,
+        "price": 9.6,
+        "space": 9.6,
+        "service": 9.0
+    },
+    "review_count": 5,
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "min_price": "50.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-chay-an-linh-shop-online"
+}

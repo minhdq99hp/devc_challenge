@@ -1,0 +1,23 @@
+{
+    "name": "Quang Th\u1eafng - C\u01a1m Ngon V\u0103n Ph\u00f2ng",
+    "address": "106 Y9 Ng\u00f5 T\u1ef1 Do, Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, P. \u0110\u1ed3ng T\u00e2m, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 9.0,
+        "location": 8.5,
+        "quality": 8.5,
+        "service": 8.0,
+        "space": 8.0
+    },
+    "review_count": 2,
+    "opening_time": "10:30",
+    "closing_time": "14:00 | 17:30",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quang-thang-com-ngon-van-phong"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "66 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.1,
+        "location": 7.7,
+        "space": 7.2,
+        "service": 7.0,
+        "price": 6.8,
+        "quality": 6.7
+    },
+    "review_count": 43,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "46.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-tran-dai-nghia"
+}

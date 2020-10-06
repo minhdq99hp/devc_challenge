@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m S\u01b0\u1eddn N\u01b0\u1edbng - Ng\u00f5 234 Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t",
+    "address": "66 Ng\u00f5 234 Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "price": 8.0,
+        "location": 7.0,
+        "quality": 7.0,
+        "service": 7.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "10:30",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "25.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-suon-nuong-ngo-234-hoang-quoc-viet"
+}

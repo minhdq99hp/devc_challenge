@@ -1,0 +1,25 @@
+{
+    "name": "Midori House - Salad & \u0110\u1ed3 \u0102n Healthy",
+    "address": "80A L\u00e1ng H\u1ea1, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.3,
+        "service": 9.7,
+        "quality": 9.5,
+        "space": 9.4,
+        "location": 9.3,
+        "price": 8.9
+    },
+    "review_count": 20,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/midori-house-salad-do-an-heathy"
+}

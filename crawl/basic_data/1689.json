@@ -1,0 +1,25 @@
+{
+    "name": "M\u00ec Cay Seoul - Nguy\u1ec5n Xi\u1ec3n",
+    "address": "50 Nguy\u1ec5n Xi\u1ec3n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.3,
+        "service": 6.8,
+        "space": 6.8,
+        "quality": 6.6,
+        "price": 6.6
+    },
+    "review_count": 25,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "89.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/mi-cay-seoul-nguyen-xien"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m Tr\u00e0 Jisoo - Tr\u00e0 Chanh, Tr\u00e0 S\u1eefa & \u0110\u1ed3 \u0102n V\u1eb7t",
+    "address": "34 H\u01b0\u01a1ng Vi\u00ean, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.7,
+        "location": 8.7,
+        "space": 7.7,
+        "price": 7.6,
+        "quality": 7.3,
+        "service": 7.3
+    },
+    "review_count": 7,
+    "opening_time": "06:00",
+    "closing_time": "23:00",
+    "min_price": "10.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-tra-jisoo-tra-sua-nem-nuong-do-an-vat"
+}

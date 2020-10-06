@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u0110\u1eadu Gia Truy\u1ec1n H\u00e0 Th\u00e0nh - Nguy\u1ec5n Tu\u00e2n",
+    "address": "8A Ng\u00f5 172 Nguy\u1ec5n Tu\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.2,
+        "location": 10.0,
+        "quality": 9.5,
+        "service": 9.5,
+        "space": 9.5,
+        "price": 7.5
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "18:00",
+    "min_price": "10.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-cuon-bun-dau-gia-truyen-ha-thanh-nguyen-tuan"
+}

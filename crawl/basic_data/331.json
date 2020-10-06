@@ -1,0 +1,25 @@
+{
+    "name": "Ho\u00e0ng Hu\u1ec7 - C\u01a1m Rang & B\u00fan B\u00f2 Tr\u1ed9n",
+    "address": "8B Ng\u00f5 4 Ao Sen, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.3,
+        "price": 7.0,
+        "location": 6.4,
+        "space": 6.2,
+        "service": 6.1,
+        "quality": 6.1
+    },
+    "review_count": 38,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "23.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hoang-hue-com-rang-bun-bo-tron"
+}

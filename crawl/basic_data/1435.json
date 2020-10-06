@@ -1,0 +1,25 @@
+{
+    "name": "N\u1ed9m To\u00e0n B\u00e9o - H\u00e0m Long",
+    "address": "18 H\u00e0m Long, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "quality": 7.5,
+        "price": 7.3,
+        "service": 7.2,
+        "location": 7.0,
+        "space": 6.6
+    },
+    "review_count": 73,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "110.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/nom-toan-beo"
+}

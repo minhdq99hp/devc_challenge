@@ -1,0 +1,26 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Bobapop - H\u00e0ng L\u01b0\u1ee3c",
+    "address": "61 H\u00e0ng L\u01b0\u1ee3c, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.1,
+        "quality": 7.5,
+        "service": 7.4,
+        "location": 7.3,
+        "price": 7.2,
+        "space": 6.4
+    },
+    "review_count": 80,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "23.000",
+    "max_price": "48.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Tr\u1ebb em"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-bobapop-tran-nguyen-han"
+}

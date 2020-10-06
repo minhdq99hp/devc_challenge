@@ -1,0 +1,25 @@
+{
+    "name": "Bami Sot - B\u00e1nh M\u00ec S\u1ed1t \u0110\u1eb7c Bi\u1ec7t - T\u00f4 Hi\u1ec7u",
+    "address": "103B7 T\u00f4 Hi\u1ec7u, P. Ngh\u0129a T\u00e2n (\u0110\u1ed1i Di\u1ec7n 143 T\u00f4 Hi\u1ec7u), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.8,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bami-sot-banh-mi-sot-dac-biet-to-hieu"
+}

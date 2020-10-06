@@ -1,0 +1,25 @@
+{
+    "name": "Coco Food - B\u00e1nh Ng\u1ecdt Online - Tr\u01b0\u01a1ng \u0110\u1ecbnh",
+    "address": "14B Ng\u00e1ch 51 Ng\u00f5 521 Tr\u01b0\u01a1ng \u0110\u1ecbnh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.9,
+        "service": 8.3,
+        "location": 8.2,
+        "quality": 7.8,
+        "price": 7.7,
+        "space": 7.6
+    },
+    "review_count": 32,
+    "opening_time": "06:30",
+    "closing_time": "23:00",
+    "min_price": "45.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/coco-food-banh-ngot-online"
+}

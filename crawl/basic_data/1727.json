@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Hai M\u1eadp - S\u00e0nh V\u1ecb S\u00e0i G\u00f2n",
+    "address": "204 H\u00e0ng B\u00f4ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.4,
+        "quality": 8.3,
+        "service": 7.9,
+        "location": 7.7,
+        "space": 6.9,
+        "price": 6.1
+    },
+    "review_count": 7,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-hai-map-sanh-vi-sai-gon"
+}

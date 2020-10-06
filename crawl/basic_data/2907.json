@@ -1,0 +1,26 @@
+{
+    "name": "Twitter Beans Coffee - \u0110\u1ea1i L\u1ed9 Th\u0103ng Long",
+    "address": "T\u1ea7ng 1, T\u00f2a Nh\u00e0 Th\u0103ng Long Number 1, S\u1ed1 1 \u0110\u1ea1i L\u1ed9 Th\u0103ng Long, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.7,
+        "service": 8.4,
+        "quality": 7.9,
+        "location": 7.7,
+        "space": 7.6,
+        "price": 7.0
+    },
+    "review_count": 9,
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "min_price": "28.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u00dd",
+    "url": "https://www.foody.vn/ha-noi/twitter-beans-coffee-dai-lo-thang-long"
+}

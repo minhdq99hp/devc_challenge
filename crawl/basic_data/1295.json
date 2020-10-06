@@ -1,0 +1,25 @@
+{
+    "name": "Pizza Ch\u1ea3o - V\u0103n Qu\u00e1n",
+    "address": "A4TT17 K\u0110T V\u0103n Qu\u00e1n, Nguy\u1ec5n Khuy\u1ebfn, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.3,
+        "price": 7.6,
+        "location": 7.3,
+        "service": 7.3,
+        "space": 7.2,
+        "quality": 6.9
+    },
+    "review_count": 12,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "40.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "B\u00e1nh Pizza",
+    "url": "https://www.foody.vn/ha-noi/pizza-chao-van-quan"
+}

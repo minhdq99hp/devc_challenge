@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - Ho\u00e0ng C\u1ea7u ",
+    "address": "101 Ho\u00e0ng C\u1ea7u, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.6,
+        "location": 8.2,
+        "space": 8.1,
+        "quality": 7.5,
+        "service": 7.3,
+        "price": 6.9
+    },
+    "review_count": 126,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "25.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-hoang-cau"
+}

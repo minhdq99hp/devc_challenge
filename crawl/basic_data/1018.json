@@ -1,0 +1,24 @@
+{
+    "name": "YiFang - Taiwan Fruit Tea - Five Star",
+    "address": "Nh\u00e0 C5 Khu Bi\u1ec7t Th\u1ef1 Five Star, \u0110\u00ecnh Th\u00f4n, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "space": 7.8,
+        "location": 7.6,
+        "service": 7.3,
+        "price": 6.9,
+        "quality": 6.6
+    },
+    "review_count": 12,
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "min_price": "35.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/yifang-taiwan-fruit-tea-vinhomes-gardenia"
+}

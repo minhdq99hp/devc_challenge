@@ -1,0 +1,25 @@
+{
+    "name": "TAD Salad Bar",
+    "address": "106 A6 Tr\u1ea7n Huy Li\u1ec7u, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.0,
+        "quality": 7.2,
+        "location": 7.1,
+        "service": 7.1,
+        "price": 7.0,
+        "space": 6.6
+    },
+    "review_count": 45,
+    "opening_time": "09:00",
+    "closing_time": "13:30 | 15:30",
+    "min_price": "39.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/t-a-d-salad-bar"
+}

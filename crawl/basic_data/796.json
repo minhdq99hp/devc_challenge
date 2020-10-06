@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 D\u1eeba Th\u00e1i Lan 365 - Tr\u01b0\u01a1ng \u0110\u1ecbnh",
+    "address": "175 Tr\u01b0\u01a1ng \u0110\u1ecbnh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.9,
+        "price": 8.3,
+        "quality": 8.3,
+        "service": 7.9,
+        "space": 7.7,
+        "location": 7.1
+    },
+    "review_count": 9,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Th\u00e1i",
+    "url": "https://www.foody.vn/ha-noi/che-dua-thai-lan-truong-dinh"
+}

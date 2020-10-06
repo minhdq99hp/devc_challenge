@@ -1,0 +1,24 @@
+{
+    "name": "Dakgalbi - Ti\u1ec7m G\u00e0 R\u00e1n H\u00e0n Qu\u1ed1c",
+    "address": "3 Ng\u00f5 87 L\u00e1ng H\u1ea1, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 7.5,
+        "service": 7.4,
+        "quality": 7.4,
+        "location": 7.1,
+        "space": 6.2
+    },
+    "review_count": 76,
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "300.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/dakgalbi-restaurant-am-thuc-han-quoc"
+}

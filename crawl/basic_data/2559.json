@@ -1,0 +1,24 @@
+{
+    "name": "Qu\u00e1n Ch\u00e8 B\u00e0 Lan Gia Truy\u1ec1n",
+    "address": "32 H\u00e0ng \u0110\u00e0o, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.1,
+        "location": 7.4,
+        "price": 7.3,
+        "quality": 7.1,
+        "space": 7.0,
+        "service": 6.7
+    },
+    "review_count": 15,
+    "opening_time": "11:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/quan-che-ba-lan-gia-truyen"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan \u0110\u1eadu C\u00fac Cu - Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t",
+    "address": "11 Ng\u00f5 421 Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.9,
+        "location": 8.3,
+        "price": 8.2,
+        "service": 8.0,
+        "quality": 7.6,
+        "space": 7.3
+    },
+    "review_count": 42,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-met-cuc-cu-hoang-quoc-viet"
+}

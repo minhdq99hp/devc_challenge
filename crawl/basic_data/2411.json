@@ -1,0 +1,24 @@
+{
+    "name": "BeGaFood - G\u1ecfi Cu\u1ed1n & B\u00e1nh Ch\u01b0ng R\u00e1n Online",
+    "address": "1B Ng\u00e1ch 25 Ng\u00f5 93 Ho\u00e0ng Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.9,
+        "location": 8.3,
+        "service": 8.1,
+        "quality": 7.9,
+        "space": 7.9,
+        "price": 7.6
+    },
+    "review_count": 7,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "7.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/begafood-goi-cuon-banh-chung-ran-online"
+}

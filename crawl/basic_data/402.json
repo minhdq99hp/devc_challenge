@@ -1,0 +1,24 @@
+{
+    "name": "C\u00f3c, S\u1ea5u & Xo\u00e0i D\u1ea7m - Shop Online",
+    "address": "55 Kh\u01b0\u01a1ng Trung, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.7,
+        "service": 7.6,
+        "space": 7.0,
+        "location": 6.8,
+        "price": 6.2,
+        "quality": 6.0
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/coc-sau-xoai-dam-shop-online"
+}

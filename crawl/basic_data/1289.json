@@ -1,0 +1,25 @@
+{
+    "name": "Kim Oanh - B\u00e1nh M\u00ec B\u01a1 M\u1eadt Ong & Th\u1ecbt Xi\u00ean N\u01b0\u1edbng",
+    "address": "127 \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.4,
+        "price": 7.9,
+        "quality": 7.7,
+        "location": 7.4,
+        "service": 7.2,
+        "space": 6.7
+    },
+    "review_count": 61,
+    "opening_time": "14:00",
+    "closing_time": "19:00",
+    "min_price": "3.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-nuong-tam-mat-ong-dang-tien-dong"
+}

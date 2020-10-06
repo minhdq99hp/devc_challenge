@@ -1,0 +1,24 @@
+{
+    "name": "Siva Drrak Coffee",
+    "address": "35 Ng\u00f5 2 Trung K\u00ednh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.2,
+        "location": 9.5,
+        "quality": 9.5,
+        "service": 9.5,
+        "price": 9.0,
+        "space": 8.5
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "17:30",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/siva-drrak-coffee"
+}

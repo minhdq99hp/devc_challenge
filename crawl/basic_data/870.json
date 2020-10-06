@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Tuhu Bread - Th\u1ee5y Khu\u00ea",
+    "address": "15C Th\u1ee5y Khu\u00ea, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 8.0,
+        "quality": 8.8,
+        "service": 8.7,
+        "location": 8.5,
+        "price": 7.2,
+        "space": 6.7
+    },
+    "review_count": 6,
+    "opening_time": "06:00",
+    "closing_time": "19:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-the-farm"
+}

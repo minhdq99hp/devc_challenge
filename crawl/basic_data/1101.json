@@ -1,0 +1,24 @@
+{
+    "name": "V\u01b0\u1eddn X\u01b0a - B\u00e1nh Cu\u1ed1n Th\u1ecbt N\u01b0\u1edbng - \u0110\u00f4ng Thi\u00ean",
+    "address": "18 Ng\u00f5 36 \u0110\u00f4ng Thi\u00ean, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.1,
+        "service": 7.1,
+        "space": 6.9,
+        "quality": 6.9,
+        "price": 6.4
+    },
+    "review_count": 22,
+    "opening_time": "08:00",
+    "closing_time": "20:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bao-lam-banh-cuon-thit-nuong"
+}

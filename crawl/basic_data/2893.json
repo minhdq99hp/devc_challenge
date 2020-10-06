@@ -1,0 +1,24 @@
+{
+    "name": "Kem Dairy Queen - AEON Mall Long Bi\u00ean",
+    "address": "T\u1ea7ng 2, AEON Mall Long Bi\u00ean, 27 C\u1ed5 Linh, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "quality": 7.6,
+        "location": 7.6,
+        "service": 7.2,
+        "space": 7.0,
+        "price": 6.7
+    },
+    "review_count": 65,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/dairy-queen-aeon-mall-long-bien"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kai - M\u00ec Tr\u1ed9n Indomie",
+    "address": "4B Ng\u00e1ch 10 Ng\u00f5 814 \u0110\u01b0\u1eddng L\u00e1ng, P. L\u00e1ng Th\u01b0\u1ee3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.8,
+        "price": 9.0,
+        "quality": 9.0,
+        "service": 8.0,
+        "space": 7.0,
+        "location": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "31.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/kai-mi-tron-indomie"
+}

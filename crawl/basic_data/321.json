@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - T\u1ed1 H\u1eefu",
+    "address": "17 Li\u1ec1n K\u1ec1 Shophouse 24H, T\u1ed1 H\u1eefu, P. V\u1ea1n Ph\u00fac, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.0,
+        "location": 7.0,
+        "price": 7.0,
+        "quality": 7.0,
+        "service": 7.0,
+        "space": 7.0
+    },
+    "review_count": 6,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-to-huu"
+}

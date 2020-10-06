@@ -1,0 +1,23 @@
+{
+    "name": "Hoa Qu\u1ea3 Ngon & N\u01b0\u1edbc \u00c9p Tr\u00e1i C\u00e2y - Shop Online",
+    "address": "110C3 Ng\u00f5 35 Th\u00e1i Th\u1ecbnh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 7.4,
+        "service": 7.4,
+        "location": 7.1,
+        "quality": 7.1,
+        "space": 6.6
+    },
+    "review_count": 34,
+    "opening_time": "07:30",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/hoa-qua-ngon-nuoc-ep-trai-cay-shop-online"
+}

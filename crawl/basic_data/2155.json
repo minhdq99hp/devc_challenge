@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Mixue - L\u00ea V\u0103n Hi\u1ebfn",
+    "address": "139 L\u00ea V\u0103n Hi\u1ebfn, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.2,
+        "quality": 10.0,
+        "location": 9.3,
+        "service": 9.3,
+        "price": 8.7,
+        "space": 8.7
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-mixue-le-van-hien"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e1o Dinh D\u01b0\u1ee1ng Minh Huy",
+    "address": "28 Ng\u00e1ch 110 Ng\u00f5 99 \u0110\u1ecbnh C\u00f4ng H\u1ea1, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.3,
+        "service": 9.6,
+        "quality": 9.4,
+        "price": 8.4,
+        "location": 7.2,
+        "space": 7.0
+    },
+    "review_count": 5,
+    "opening_time": "06:00",
+    "closing_time": "12:30 | 16:00",
+    "min_price": "20.000",
+    "max_price": "22.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-dinh-duong-minh-huy"
+}

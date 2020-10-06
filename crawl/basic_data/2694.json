@@ -1,0 +1,25 @@
+{
+    "name": "Kou - M\u00f3n \u0102n Nh\u1eadt B\u1ea3n - Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch",
+    "address": "8 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, P. Kim Li\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.5,
+        "quality": 9.8,
+        "location": 9.7,
+        "space": 9.5,
+        "price": 9.3,
+        "service": 9.3
+    },
+    "review_count": 16,
+    "opening_time": "09:00",
+    "closing_time": "20:30",
+    "min_price": "35.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/kou-mon-an-nhat-ban-pham-ngoc-thach"
+}

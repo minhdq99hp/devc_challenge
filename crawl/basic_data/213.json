@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Feeling Tea - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "147 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.0,
+        "price": 7.3,
+        "location": 7.3,
+        "quality": 7.0,
+        "service": 6.9,
+        "space": 6.5
+    },
+    "review_count": 96,
+    "opening_time": "06:00",
+    "closing_time": "23:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/feeling-tea-147-tran-dai-nghia"
+}

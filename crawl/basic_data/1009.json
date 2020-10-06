@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh Su Kem Singapore Chewy Junior - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "64 Tr\u00e2\u0300n \u0110a\u0323i Nghi\u0303a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.9,
+        "quality": 8.5,
+        "service": 8.2,
+        "location": 7.9,
+        "price": 7.5,
+        "space": 7.4
+    },
+    "review_count": 53,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/banh-su-kem-chewy-junior-tran-dai-nghia"
+}

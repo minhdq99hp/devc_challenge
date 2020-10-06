@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 B\u00e1t Ph\u1ed1 C\u1ed5 - V\u0129nh Tuy",
+    "address": "Ki \u1ed0t 2 Ng\u00f5 124 V\u0129nh Tuy (\u0110\u1ed1i Di\u1ec7n 38 Ng\u00f5 124 V\u0129nh Tuy), Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.5,
+        "location": 9.8,
+        "service": 9.8,
+        "quality": 9.5,
+        "space": 9.3,
+        "price": 9.0
+    },
+    "review_count": 4,
+    "opening_time": "12:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-bat-pho-co-vinh-tuy"
+}

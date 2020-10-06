@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - H\u1ed3 G\u01b0\u01a1m Plaza",
+    "address": "T\u1ea7ng 1,\u00a0T\u1ea7ng 1, H\u1ed3 G\u01b0\u01a1m Plaza, 102 Tr\u1ea7n Ph\u00fa, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 7.7,
+        "space": 7.5,
+        "service": 7.2,
+        "quality": 7.1,
+        "price": 6.8
+    },
+    "review_count": 17,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "42.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-ho-guom-plaza"
+}

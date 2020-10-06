@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n C\u00e2y Xo\u00e0i - B\u00fan Mi\u1ebfn L\u01b0\u01a1n & B\u00e1nh \u0110a Cua",
+    "address": "M\u1eb7t Sau 102B A4, Khu T\u1eadp Th\u1ec3 B\u1eafc Th\u00e0nh C\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 8.5,
+        "service": 8.5,
+        "quality": 8.4,
+        "location": 8.2,
+        "space": 8.2
+    },
+    "review_count": 111,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-cay-xoai-bun-mien-luon-banh-da-cua"
+}

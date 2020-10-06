@@ -1,0 +1,25 @@
+{
+    "name": "Bonchon Chicken - L\u00fd Th\u01b0\u1eddng Ki\u1ec7t",
+    "address": "39 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.5,
+        "location": 9.1,
+        "service": 8.8,
+        "space": 8.5,
+        "quality": 8.3,
+        "price": 7.7
+    },
+    "review_count": 12,
+    "opening_time": "10:00",
+    "closing_time": "23:00 | 10:00",
+    "min_price": "50.000",
+    "max_price": "295.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bonchon-chicken-ly-thuong-kiet"
+}

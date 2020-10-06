@@ -1,0 +1,25 @@
+{
+    "name": "\u00dat My - B\u00fan B\u00f2 Gi\u00f2 Heo - \u0110\u01b0\u1eddng 19/5",
+    "address": "64 \u0110\u01b0\u1eddng 19/5, P. V\u0103n Qu\u00e1n, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.0,
+        "space": 7.7,
+        "location": 7.3,
+        "service": 7.2,
+        "price": 6.8,
+        "quality": 6.0
+    },
+    "review_count": 6,
+    "opening_time": "06:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Mi\u1ec1n Trung",
+    "url": "https://www.foody.vn/ha-noi/ut-my-bun-bo-gio-heo"
+}

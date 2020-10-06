@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m H\u1eb1ng",
+    "address": "12 Ng\u00f5 16 Hu\u1ef3nh Th\u00fac Kh\u00e1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "location": 6.8,
+        "service": 6.6,
+        "price": 6.6,
+        "space": 6.5,
+        "quality": 6.5
+    },
+    "review_count": 285,
+    "opening_time": "09:30",
+    "closing_time": "15:30 | 16:30",
+    "min_price": "35.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-hang"
+}

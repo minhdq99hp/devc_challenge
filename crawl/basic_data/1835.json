@@ -1,0 +1,25 @@
+{
+    "name": "Thanh V\u00e2n - Rau M\u00e1 & Sinh T\u1ed1 - Shop Online",
+    "address": "58 Nguy\u1ec5n \u0110\u1ed5ng Chi, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thanh-van-rau-ma-sinh-to-shop-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n Tok Tok - Shop Online - Kh\u00e2m Thi\u00ean",
+    "address": "31 Ng\u00f5 Lan B\u00e1, Kh\u00e2m Thi\u00ean (V\u00e0o Ng\u00f5 H\u1ed3 B\u00e3i C\u00e1t 10m R\u1ebd Tr\u00e1i), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.6,
+        "price": 8.0,
+        "service": 8.0,
+        "quality": 7.9,
+        "location": 7.3,
+        "space": 6.7
+    },
+    "review_count": 33,
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-ran-tok-tok-shop-online"
+}

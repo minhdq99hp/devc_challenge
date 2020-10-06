@@ -1,0 +1,24 @@
+{
+    "name": "An Bi\u00ean - M\u00f3n Ngon H\u1ea3i Ph\u00f2ng - Tri\u1ec7u Vi\u1ec7t V\u01b0\u01a1ng",
+    "address": "111 Tri\u1ec7u Vi\u1ec7t V\u01b0\u01a1ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.4,
+        "location": 7.7,
+        "space": 7.7,
+        "quality": 7.4,
+        "service": 7.4,
+        "price": 6.5
+    },
+    "review_count": 123,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "40.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n B\u1eafc",
+    "url": "https://www.foody.vn/ha-noi/an-bien-mon-ngon-hai-phong-trieu-viet-vuong"
+}

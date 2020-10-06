@@ -1,0 +1,25 @@
+{
+    "name": "Mi\u1ebfn Tr\u1ed9n Ri\u00eau B\u1ec1 B\u1ec1 Ho\u00e0ng C\u01b0\u1eddng",
+    "address": "Ki \u1ed0t 6 C\u1ed1m V\u00f2ng (\u0110\u1ed1i Di\u1ec7n 59 C\u1ed1m V\u00f2ng), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 8.4,
+        "quality": 7.8,
+        "space": 7.8,
+        "service": 7.6,
+        "price": 7.2
+    },
+    "review_count": 5,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hoang-cuong-mien-tron-rieu-be-be"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Thanh Long - B\u00fan, Mi\u1ebfn Ngan Tr\u1ed9n & V\u1ecbt N\u01b0\u1edbng V\u00e2n \u0110\u00ecnh",
+    "address": "115A15, M\u1eb7t \u0110\u01b0\u1eddng Ch\u1ee3 Ngh\u0129a T\u00e2n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.2,
+        "price": 8.4,
+        "service": 8.4,
+        "location": 8.3,
+        "quality": 8.3,
+        "space": 7.8
+    },
+    "review_count": 10,
+    "opening_time": "17:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n B\u1eafc",
+    "url": "https://www.foody.vn/ha-noi/thanh-long-vit-nuong-van-dinh"
+}

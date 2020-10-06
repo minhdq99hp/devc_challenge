@@ -1,0 +1,24 @@
+{
+    "name": "Huy Cafe - N\u01b0\u1edbc \u00c9p & Sinh T\u1ed1 \u0110\u00e1 Xay T\u01b0\u01a1i Ngon",
+    "address": "11 Ng\u00f5 211 X\u00e3 \u0110\u00e0n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.7,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": 9.4,
+        "space": 9.2
+    },
+    "review_count": 5,
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/huy-cafe-nuoc-ep-sinh-to-da-xay-tuoi-ngon"
+}

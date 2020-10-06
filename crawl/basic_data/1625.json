@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp M\u1eb9 B\u00e9o - M\u00ec Tr\u1ed9n & \u0110\u1ed3 \u0102n V\u1eb7t Online",
+    "address": "11 Ngh\u00e1ch 35 Ng\u00f5 T\u00f4 Ho\u00e0ng, P. C\u1ea7u D\u1ec1n, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 2,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-me-beo-mi-tron-do-an-vat-online"
+}

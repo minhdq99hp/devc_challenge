@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan Ch\u1ea3 Qu\u00ea - Ng\u00f5 B\u00e0 Tri\u1ec7u",
+    "address": "15C Ng\u00f5 B\u00e0 Tri\u1ec7u, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.7,
+        "service": 6.9,
+        "price": 6.8,
+        "quality": 6.8,
+        "location": 6.6,
+        "space": 6.3
+    },
+    "review_count": 12,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-cha-que-ngo-ba-trieu"
+}

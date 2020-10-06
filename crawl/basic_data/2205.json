@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u H\u1ea1 Long - L\u00fd Th\u01b0\u1eddng Ki\u1ec7t",
+    "address": "42D L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.0,
+        "location": 8.0,
+        "price": 7.0,
+        "quality": 7.0,
+        "service": 7.0,
+        "space": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-ha-long-ly-thuong-kiet"
+}

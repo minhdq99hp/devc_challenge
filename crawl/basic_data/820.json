@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - L\u00f2 \u0110\u00fac",
+    "address": "195 L\u00f2 \u0110\u00fac, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.6,
+        "space": 8.5,
+        "location": 7.9,
+        "quality": 7.7,
+        "service": 7.1,
+        "price": 7.0
+    },
+    "review_count": 22,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "30.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-cafe-lo-duc"
+}

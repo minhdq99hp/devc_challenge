@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Bobapop - \u00d4 Ch\u1ee3 D\u1eeba",
+    "address": "29 \u00d4 Ch\u1ee3 D\u1eeba, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "location": 7.9,
+        "price": 7.8,
+        "quality": 7.6,
+        "service": 7.4,
+        "space": 7.0
+    },
+    "review_count": 150,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-bobapop-o-cho-dua"
+}

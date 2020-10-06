@@ -1,0 +1,25 @@
+{
+    "name": "Linh Chi - B\u00e1nh Tr\u00e1ng Tr\u1ed9n",
+    "address": "66 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.2,
+        "price": 7.8,
+        "location": 7.4,
+        "service": 7.1,
+        "space": 6.9,
+        "quality": 6.5
+    },
+    "review_count": 21,
+    "opening_time": "10:00",
+    "closing_time": "19:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Mi\u1ec1n Nam",
+    "url": "https://www.foody.vn/ha-noi/linh-chi-banh-trang-tron"
+}

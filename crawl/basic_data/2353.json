@@ -1,0 +1,25 @@
+{
+    "name": "Family Juice - Sinh T\u1ed1 & N\u01b0\u1edbc \u00c9p Tr\u00e1i C\u00e2y T\u01b0\u01a1i Nguy\u00ean Ch\u1ea5t",
+    "address": "16C L\u00ea Du\u1ea9n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.9,
+        "space": 8.3,
+        "location": 8.2,
+        "price": 7.7,
+        "service": 7.7,
+        "quality": 7.5
+    },
+    "review_count": 6,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/family-juice-le-duan"
+}

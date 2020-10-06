@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Qu\u00ea - C\u01a1m V\u0103n Ph\u00f2ng",
+    "address": "6 Ng\u00f5 78 \u0110\u01b0\u1eddng 18M , Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.5,
+        "quality": 9.1,
+        "service": 8.9,
+        "space": 8.3,
+        "location": 8.1,
+        "price": 7.9
+    },
+    "review_count": 8,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-que-com-van-phong"
+}

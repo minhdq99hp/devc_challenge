@@ -1,0 +1,25 @@
+{
+    "name": "Lan Lan - B\u00fan Ch\u1ea3 & B\u00fan, Mi\u1ebfn Ngan M\u1ecdc",
+    "address": "\u0110\u1ea7u Ng\u00f5 230 Quan Nh\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 7.5,
+        "price": 7.5,
+        "service": 7.5,
+        "space": 7.5,
+        "quality": 6.0
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "14:00",
+    "min_price": "30.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/lan-lan-bun-cha-bun-mien-ngan-moc"
+}

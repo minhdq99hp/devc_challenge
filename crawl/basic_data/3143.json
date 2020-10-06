@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e2n G\u00e0 S\u1ea3 \u1edat M\u1eb9 Su - Shop Online - Kh\u00e2m Thi\u00ean",
+    "address": "97B L\u00ea\u0323nh C\u01b0, Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.9,
+        "location": 7.3,
+        "space": 7.3,
+        "price": 6.7,
+        "quality": 6.7,
+        "service": 6.7
+    },
+    "review_count": 3,
+    "opening_time": "18:30",
+    "closing_time": "23:30",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chan-ga-sa-ot-me-su-shop-online-kham-thien"
+}

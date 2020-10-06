@@ -1,0 +1,25 @@
+{
+    "name": "Nh\u00e0 Bim - M\u00ec Tr\u1ed9n Indomie - Shop Online",
+    "address": "26 Ng\u00f5 283 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.4,
+        "price": 9.6,
+        "service": 9.6,
+        "location": 9.3,
+        "quality": 9.3,
+        "space": 9.1
+    },
+    "review_count": 13,
+    "opening_time": "08:30",
+    "closing_time": "13:30 | 16:30",
+    "min_price": "2.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nha-bim-mi-tron-indomie-shop-online"
+}

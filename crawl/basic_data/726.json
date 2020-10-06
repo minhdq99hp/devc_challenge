@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp Nh\u00e0 Subeo - Yum M\u00ec Tr\u1ed9n Chua Ng\u1ecdt Online - \u0110\u00f4ng T\u00e1c",
+    "address": "509 T\u1eadp Th\u1ec3 B24 Kim Li\u00ean (C\u1ea7u Thang 3), Ng\u00f5 41 \u0110\u00f4ng T\u00e1c, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "20:00",
+    "min_price": "15.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-nha-subeo-yum-mi-tron-chua-ngot-online-dong-tac"
+}

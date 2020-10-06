@@ -1,0 +1,26 @@
+{
+    "name": "Vua S\u1eefa Chua - Nguy\u00ea\u0303n V\u0103n L\u00f4\u0323c",
+    "address": "LK 3B2 Nguy\u00ea\u0303n V\u0103n L\u00f4\u0323c, P. M\u1ed9 Lao, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.4,
+        "service": 9.7,
+        "quality": 9.6,
+        "price": 9.5,
+        "space": 9.2,
+        "location": 9.2
+    },
+    "review_count": 22,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/vua-sua-chua-nguyen-van-loc"
+}

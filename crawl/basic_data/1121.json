@@ -1,0 +1,25 @@
+{
+    "name": "L\u00ea Lan - B\u00fan, Ph\u1edf & B\u00e1nh M\u00ec S\u1ed1t Vang \u0110\u1eb7c Bi\u1ec7t Online",
+    "address": "Ph\u00f2ng 116 B15 L\u01b0\u01a1ng \u0110\u1ecbnh C\u1ee7a, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.0,
+        "quality": 8.4,
+        "service": 8.4,
+        "price": 8.2,
+        "location": 7.8,
+        "space": 7.4
+    },
+    "review_count": 5,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "2.000.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/le-lan-bun-mien-ngan-ga-tron-ha-thanh-online"
+}

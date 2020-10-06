@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n Popeyes - AEON Mall Long Bi\u00ean",
+    "address": "T\u1ea7ng 1, AEON Mall Long Bi\u00ean, 27 C\u1ed5 Linh, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 7.6,
+        "quality": 7.3,
+        "space": 7.3,
+        "service": 7.1,
+        "price": 6.9
+    },
+    "review_count": 84,
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/popeyes-chicken-aeon-mall-long-bien"
+}

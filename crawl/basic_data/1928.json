@@ -1,0 +1,25 @@
+{
+    "name": "\u0110\u1ee9c Food - M\u00ec Tr\u1ed9n Indomie - L\u1ea1c Long Qu\u00e2n",
+    "address": "6 Ng\u00f5 245 L\u1ea1c Long Qu\u00e2n, P. Ngh\u0129a \u0110\u00f4, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 8.0,
+        "price": 7.5,
+        "space": 7.5,
+        "service": 7.0,
+        "quality": 6.0
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "23:59",
+    "min_price": "5.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Indonesia",
+    "url": "https://www.foody.vn/ha-noi/duc-food-mi-tron-indomie-lac-long-quan"
+}

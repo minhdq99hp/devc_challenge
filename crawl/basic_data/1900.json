@@ -1,0 +1,25 @@
+{
+    "name": "C\u00f4 Li\u00ean - Ch\u00e8 \u0110\u00e0 N\u1eb5ng",
+    "address": "36 H\u00e0ng C\u00f3t, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.9,
+        "quality": 7.4,
+        "location": 7.2,
+        "price": 7.1,
+        "service": 6.8,
+        "space": 6.2
+    },
+    "review_count": 170,
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "min_price": "9.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Qu\u1ea3ng",
+    "url": "https://www.foody.vn/ha-noi/co-lien-che-da-nang"
+}

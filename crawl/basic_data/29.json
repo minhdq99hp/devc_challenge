@@ -1,0 +1,25 @@
+{
+    "name": "\u0110\u1eaby Cafe - N\u01b0\u1edbc \u00c9p & Sinh T\u1ed1",
+    "address": "36 Nguy\u1ec5n Kh\u1eafc Hi\u1ebfu, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.2,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 9.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/day-cafe-nuoc-ep-sinh-to"
+}

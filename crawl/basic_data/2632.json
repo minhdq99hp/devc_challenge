@@ -1,0 +1,25 @@
+{
+    "name": "Em Ph\u01b0\u01a1ng - Tr\u00e0 S\u1eefa & \u0110\u1ed3 \u0102n V\u1eb7t - Ph\u00fa Vi\u00ean",
+    "address": "4 Ng\u00f5 82 Ph\u00fa Vi\u00ean, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "space": 10.0,
+        "service": 9.8
+    },
+    "review_count": 4,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/em-phuong-tra-sua-do-an-vat"
+}

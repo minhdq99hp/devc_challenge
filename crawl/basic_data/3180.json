@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - Tr\u00e0 S\u1eefa H\u1ed3ng K\u00f4ng - Ng\u00f5 75 H\u1ed3 T\u00f9ng M\u1eadu",
+    "address": "1 Ng\u00f5 75 H\u1ed3 T\u00f9ng M\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.7,
+        "price": 7.9,
+        "quality": 7.8,
+        "space": 7.7,
+        "location": 7.6,
+        "service": 7.4
+    },
+    "review_count": 25,
+    "opening_time": "00:01",
+    "closing_time": "00:30 | 08:00",
+    "min_price": "25.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-de-la-thanh"
+}

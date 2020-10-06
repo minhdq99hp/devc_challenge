@@ -1,0 +1,25 @@
+{
+    "name": "Kombo - C\u01a1m Ni\u00eau Singapore - Ho\u00e0ng C\u1ea7u",
+    "address": "28 Ho\u00e0ng C\u1ea7u M\u1edbi, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 7.3,
+        "space": 7.3,
+        "price": 6.0,
+        "quality": 6.0,
+        "service": 6.0
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "110.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/kombo-com-nieu-singapore-hoang-cau"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp B\u00e0 Lan - M\u1ef9 \u0110\u00ecnh - Shop Online",
+    "address": "9 Thi\u00ean Hi\u1ec1n, P. M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.3,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": 8.3,
+        "space": 8.3
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "170.000",
+    "max_price": "500.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-ba-lan-my-dinh-shop-online"
+}

@@ -1,0 +1,23 @@
+{
+    "name": "C\u00f4 H\u01b0\u01a1ng - B\u00fan Ch\u1ea3 & C\u01a1m G\u00e0",
+    "address": "15 Ng\u00f5 Tr\u00e0ng Ti\u1ec1n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 6.8,
+        "service": 6.7,
+        "space": 6.6,
+        "price": 6.3,
+        "quality": 6.3
+    },
+    "review_count": 70,
+    "opening_time": "07:00",
+    "closing_time": "19:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-huong-bun-cha-com-ga"
+}

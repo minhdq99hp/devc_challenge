@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan \u0110\u1eadu C\u00f4 Nguy\u1ec7t",
+    "address": "5 Ng\u00e1ch 5/45 Ng\u00f5 5 Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 7.3,
+        "service": 6.5,
+        "quality": 6.3,
+        "space": 6.3,
+        "price": 6.0
+    },
+    "review_count": 4,
+    "opening_time": "06:00",
+    "closing_time": "14:00",
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-co-nguyet"
+}

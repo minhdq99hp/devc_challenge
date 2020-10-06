@@ -1,0 +1,25 @@
+{
+    "name": "Tiramisu & B\u00f4ng Lan Tr\u1ee9ng Mu\u1ed1i - X\u00e3 \u0110\u00e0n",
+    "address": "176 X\u00e3 \u0110\u00e0n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.9,
+        "service": 8.3,
+        "location": 8.3,
+        "quality": 7.9,
+        "price": 7.9,
+        "space": 7.3
+    },
+    "review_count": 46,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiramisu-bong-lan-trung-muoi-xa-dan"
+}

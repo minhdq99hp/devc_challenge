@@ -1,0 +1,25 @@
+{
+    "name": "Long Th\u1ee7y - B\u00fan Th\u00e1i H\u1ea3i S\u1ea3n - Ng\u0169 X\u00e3",
+    "address": "24 Ng\u0169 X\u00e3, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.7,
+        "price": 7.1,
+        "quality": 7.0,
+        "location": 6.9,
+        "service": 6.4,
+        "space": 6.2
+    },
+    "review_count": 231,
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/long-thuy-bun-thai-hai-san"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec3u Ng\u1ecdc - C\u01a1m Chay V\u0103n Ph\u00f2ng",
+    "address": "17 Ng\u00f5 105 \u0110\u00ecnh Th\u00f4n, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.5,
+        "quality": 9.9,
+        "price": 9.6,
+        "service": 9.5,
+        "space": 9.3,
+        "location": 9.1
+    },
+    "review_count": 15,
+    "opening_time": "07:00",
+    "closing_time": "19:00",
+    "min_price": "10.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tieu-ngoc-com-chay-van-phong"
+}
