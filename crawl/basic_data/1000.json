@@ -1,0 +1,23 @@
+{
+    "name": "T\u00e2m Qu\u00ea - B\u00fan \u0110\u1eadu M\u1eb9t & B\u00fan Gi\u1ea3 C\u1ea7y",
+    "address": "48 L\u0129nh Nam, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "quality": 7.8,
+        "price": 7.5,
+        "location": 7.0,
+        "service": 7.0,
+        "space": 6.8
+    },
+    "review_count": 4,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tam-que-long-ngon"
+}

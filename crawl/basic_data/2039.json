@@ -1,0 +1,25 @@
+{
+    "name": "Ph\u00fa Gia - B\u00e1nh Canh Gh\u1eb9",
+    "address": "Ki \u1ed0t 14 Ng\u00f5 298 T\u00e2y S\u01a1n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.9,
+        "service": 8.1,
+        "location": 7.9,
+        "quality": 7.9,
+        "space": 7.8,
+        "price": 7.7
+    },
+    "review_count": 13,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phu-gia-banh-canh-ghe"
+}

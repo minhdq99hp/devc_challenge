@@ -1,0 +1,25 @@
+{
+    "name": "Kem Swensen's - Times City",
+    "address": "T\u1ea7ng H\u1ea7m 1,\u00a0T\u1ea7ng B1 TTTM Times City, 458 Minh Khai, P. V\u0129nh Tuy, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.7,
+        "location": 8.2,
+        "quality": 8.2,
+        "service": 8.2,
+        "space": 7.8,
+        "price": 6.2
+    },
+    "review_count": 5,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "109.000",
+    "max_price": "490.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/kem-swensen-s-times-city"
+}

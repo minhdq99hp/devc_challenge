@@ -1,0 +1,24 @@
+{
+    "name": "Cha Go Tea & Caf'e - Tr\u1ea7n Ph\u00fa",
+    "address": "34 Tr\u1ea7n Ph\u00fa, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.4,
+        "space": 7.2,
+        "service": 6.6,
+        "price": 6.4,
+        "quality": 6.3
+    },
+    "review_count": 26,
+    "opening_time": "08:30",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/cha-go-tea-caf-e-tran-phu"
+}

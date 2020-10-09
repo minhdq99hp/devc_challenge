@@ -1,0 +1,26 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - Tri\u1ec7u Vi\u1ec7t V\u01b0\u01a1ng",
+    "address": "17 Tri\u1ec7u Vi\u1ec7t V\u01b0\u01a1ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "location": 7.8,
+        "space": 7.7,
+        "quality": 7.6,
+        "service": 7.4,
+        "price": 7.0
+    },
+    "review_count": 40,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "35.000",
+    "max_price": "77.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-trieu-viet-vuong"
+}

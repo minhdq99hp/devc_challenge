@@ -1,0 +1,24 @@
+{
+    "name": "\u0102n V\u1eb7t S\u00e0i G\u00f2n - Kh\u00e2m Thi\u00ean",
+    "address": "100 Ng\u00f5 Trung T\u1ea3, Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 9.4,
+        "quality": 9.4,
+        "service": 9.0,
+        "location": 7.2,
+        "space": 7.2
+    },
+    "review_count": 5,
+    "opening_time": "14:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-vat-sai-gon-kham-thien"
+}

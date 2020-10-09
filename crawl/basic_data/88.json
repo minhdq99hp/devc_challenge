@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh Cu\u1ed1n Gia Truy\u1ec1n Ba Duy",
+    "address": "2 Ng\u00f5 68 Tri\u1ec1u Kh\u00fac, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.5,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 9.8,
+        "location": 9.3,
+        "space": 8.5
+    },
+    "review_count": 4,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-cuon-bach-khoa"
+}

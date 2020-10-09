@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n 74 - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "12 Nh\u00e0 8 KTT Kinh T\u1ebf Qu\u1ed1c D\u00e2n, Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, P. \u0110\u1ed3ng T\u00e2m, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.1,
+        "service": 7.0,
+        "space": 6.8,
+        "price": 6.7,
+        "quality": 6.4
+    },
+    "review_count": 9,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-trang-tron-74-tran-dai-nghia"
+}

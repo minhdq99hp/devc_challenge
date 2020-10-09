@@ -1,0 +1,25 @@
+{
+    "name": "Papa Chicken - G\u00e0 R\u00e1n, C\u01a1m G\u00e0 & C\u01a1m V\u0103n Ph\u00f2ng - Ph\u1ed1 V\u1ecdng",
+    "address": "345 Ph\u1ed1 V\u1ecdng, P. \u0110\u1ed3ng T\u00e2m, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 8.0,
+        "price": 8.0,
+        "quality": 8.0,
+        "space": 8.0,
+        "service": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "23:59",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/papa-chicken-ga-ran-com-ga-com-van-phong-pho-vong"
+}

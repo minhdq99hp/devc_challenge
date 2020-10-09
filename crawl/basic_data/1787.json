@@ -1,0 +1,25 @@
+{
+    "name": "Hai Anh C\u1eadn - B\u00fan & M\u00ec Kim Chi B\u00f2 M\u1ef9",
+    "address": "Ng\u00f5 146 Gi\u1ea3ng V\u00f5, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.3,
+        "location": 8.4,
+        "price": 8.4,
+        "quality": 8.4,
+        "service": 8.3,
+        "space": 8.1
+    },
+    "review_count": 8,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "17.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hai-anh-can-bun-mi-kim-chi-bo-my"
+}

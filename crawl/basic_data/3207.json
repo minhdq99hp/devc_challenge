@@ -1,0 +1,25 @@
+{
+    "name": "Duy Nh\u1ea5t - Ph\u1edf B\u00f2 & C\u01a1m Rang",
+    "address": "4 Ng\u00f5 121 L\u00ea Thanh Ngh\u1ecb, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.9,
+        "price": 9.0,
+        "quality": 9.0,
+        "service": 8.9,
+        "location": 8.8,
+        "space": 8.8
+    },
+    "review_count": 37,
+    "opening_time": "07:00",
+    "closing_time": "14:30 | 17:00",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/duy-nhat-pho-bo-com-rang"
+}

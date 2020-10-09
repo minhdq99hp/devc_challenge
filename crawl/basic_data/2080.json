@@ -1,0 +1,24 @@
+{
+    "name": "V\u00e2n Chi\u1ebfn - B\u00fan Ngan Tr\u1ed9n Chua Ng\u1ecdt - Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch",
+    "address": "9 Ng\u00f5 21 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.7,
+        "quality": 8.0,
+        "location": 7.7,
+        "price": 7.7,
+        "service": 7.7,
+        "space": 7.7
+    },
+    "review_count": 3,
+    "opening_time": "08:00",
+    "closing_time": "14:00 | 16:30",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/van-chien-bun-ngan-tron-chua-ngot-pham-ngoc-thach"
+}

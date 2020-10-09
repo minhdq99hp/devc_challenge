@@ -1,0 +1,25 @@
+{
+    "name": "Tiger Sugar Delivery - \u0110\u01b0\u1eddng N\u00e2u S\u1eefa \u0110\u00e0i Loan - Th\u00e1i Phi\u00ean",
+    "address": "5 Th\u00e1i Phi\u00ean, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "price": 7.7,
+        "location": 7.6,
+        "service": 7.5,
+        "space": 7.4,
+        "quality": 7.4
+    },
+    "review_count": 103,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "29.000",
+    "max_price": "66.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-duong-nau-sua-dai-loan-thai-phien"
+}

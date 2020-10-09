@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u Houjicha - B\u1eafc Linh \u0110\u00e0m",
+    "address": "Ki \u1ed0t 08 CT2 B\u1eafc Linh \u0110\u00e0m, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.2,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 9.0,
+        "space": 9.0,
+        "service": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-houjicha-bac-linh-dam"
+}

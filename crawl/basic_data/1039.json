@@ -1,0 +1,24 @@
+{
+    "name": "Royaltea Vietnam By Hongkong - \u0110\u1ed7 Quang",
+    "address": "14A Ng\u00f5 1 \u0110\u1ed7 Quang, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 6.9,
+        "price": 6.7,
+        "space": 6.4,
+        "quality": 6.2,
+        "service": 6.1
+    },
+    "review_count": 14,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "65.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-vietnam-by-hongkong-do-quang"
+}

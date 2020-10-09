@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh Su Kem Singapore Chewy Junior - \u0110\u00e0o T\u1ea5n",
+    "address": "12 \u0110\u00e0o T\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.4,
+        "quality": 7.9,
+        "location": 7.7,
+        "service": 7.4,
+        "space": 7.2,
+        "price": 6.8
+    },
+    "review_count": 63,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "250.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/banh-su-kem-chewy-junior-dao-tan"
+}

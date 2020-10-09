@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n C\u01a1m 76 - Ng\u00f5 T\u1ef1 Do",
+    "address": "76 Ng\u00f5 T\u1ef1 Do, Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.2,
+        "quality": 9.0,
+        "service": 9.0,
+        "location": 8.0,
+        "price": 8.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-com-76-ngo-tu-do"
+}

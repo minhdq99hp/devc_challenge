@@ -1,0 +1,25 @@
+{
+    "name": "C\u00e0 Ph\u00ea S\u1ea1ch Nguy\u00ean Ch\u1ea5t - 37/2 D\u1ecbch V\u1ecdng",
+    "address": "1 Ng\u00e1ch 37/2 D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "21:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ca-phe-sach-nguyen-chat-37-2-dich-vong"
+}

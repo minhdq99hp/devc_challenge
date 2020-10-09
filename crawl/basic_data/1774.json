@@ -1,0 +1,25 @@
+{
+    "name": "C\u00f4 Li\u00ean - \u0102n V\u1eb7t Vi\u1ec7t H\u00e0n",
+    "address": "Ng\u00f5 47 Ngh\u0129a T\u00e2n (Nh\u00e0 Th\u1ee9 2 B\u00ean Tr\u00e1i), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 7.7,
+        "quality": 7.6,
+        "service": 7.4,
+        "location": 6.7,
+        "space": 6.1
+    },
+    "review_count": 45,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t,",
+    "url": "https://www.foody.vn/ha-noi/co-lien-mi-y-kem-tuoi"
+}

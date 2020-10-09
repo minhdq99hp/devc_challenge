@@ -1,0 +1,24 @@
+{
+    "name": "Mi\u0300 Tr\u00f4\u0323n & Xi\u00ean Que Shop & Go - \u00d4 Quan Ch\u01b0\u01a1\u0309ng",
+    "address": "3 \u00d4 Quan Ch\u01b0\u1edfng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 8.3,
+        "service": 8.1,
+        "quality": 7.8,
+        "price": 7.5,
+        "space": 7.4
+    },
+    "review_count": 12,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "5.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mi-tron-xien-que-o-quan-chuong"
+}

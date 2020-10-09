@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m M\u1ec5 Tr\u00ec",
+    "address": "33 Ng\u00f5 59 M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.4,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 9.0,
+        "service": 9.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-me-tri"
+}

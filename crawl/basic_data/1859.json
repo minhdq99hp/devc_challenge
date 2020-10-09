@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Pozaa Tea Online - D\u01b0\u01a1ng Qu\u1ea3ng H\u00e0m",
+    "address": "1 D\u01b0\u01a1ng Qu\u1ea3ng H\u00e0m, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.7,
+        "price": 7.8,
+        "quality": 6.8,
+        "location": 6.3,
+        "service": 6.3,
+        "space": 6.3
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-pozaa-tea-duong-quang-ham"
+}

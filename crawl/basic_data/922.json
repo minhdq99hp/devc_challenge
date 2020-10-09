@@ -1,0 +1,24 @@
+{
+    "name": "May Salad - Shop Online",
+    "address": "Ng\u00e1ch 51 H\u1ebbm 76 S\u1ed1 Nh\u00e0 8 Ng\u00f5 Linh Quang, V\u0103n Ch\u01b0\u01a1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.9,
+        "quality": 8.2,
+        "service": 8.0,
+        "price": 7.9,
+        "space": 7.8,
+        "location": 7.8
+    },
+    "review_count": 52,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "48.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/may-salad-shop-online"
+}

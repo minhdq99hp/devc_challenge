@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u1ecb Nhung - B\u00fan C\u00e1 & C\u01a1m Rang",
+    "address": "Kiot 13 Ng\u00f5 165 Ch\u00f9a B\u1ed9c, P. Trung Li\u1ec7t, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.6,
+        "price": 9.7,
+        "service": 9.6,
+        "space": 9.6,
+        "quality": 9.6,
+        "location": 9.6
+    },
+    "review_count": 22,
+    "opening_time": "06:00",
+    "closing_time": "23:59",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chi-nhung-bun-ca-com-rang"
+}

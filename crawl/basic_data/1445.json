@@ -1,0 +1,26 @@
+{
+    "name": "C\u01a1m Rang G\u00e0 Quay - B\u00e0 Tri\u1ec7u",
+    "address": "29 B\u00e0 Tri\u1ec7u, P. H\u00e0ng B\u00e0i, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.1,
+        "quality": 7.0,
+        "service": 6.8,
+        "price": 6.7,
+        "space": 6.2
+    },
+    "review_count": 205,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "55.000",
+    "max_price": "132.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-rang-ga-quay-ba-trieu"
+}

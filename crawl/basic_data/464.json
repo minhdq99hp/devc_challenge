@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n B\u1ed1p Bi",
+    "address": "234 Th\u1ee5y Khu\u00ea, P. Th\u1ee5y Khu\u00ea, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.5,
+        "price": 9.6,
+        "quality": 9.6,
+        "service": 9.6,
+        "space": 9.5,
+        "location": 9.4
+    },
+    "review_count": 25,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-ran-bop-bi"
+}

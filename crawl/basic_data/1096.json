@@ -1,0 +1,24 @@
+{
+    "name": "Tuti - B\u00f4ng Lan Tr\u1ee9ng Mu\u1ed1i Online",
+    "address": "4A9, TT. H\u1ecdc Vi\u1ec7n Nguy\u1ec5n \u00c1i Qu\u1ed1c, Ng\u00f5 66 \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.6,
+        "service": 7.1,
+        "price": 7.0,
+        "location": 6.8,
+        "quality": 6.1,
+        "space": 6.0
+    },
+    "review_count": 25,
+    "opening_time": "08:30",
+    "closing_time": "21:00",
+    "min_price": "70.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tuti-bong-lan-trung-muoi-online"
+}

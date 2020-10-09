@@ -1,0 +1,23 @@
+{
+    "name": "B\u00e1nh X\u00e8o T\u01b0 \u0110\u00f4ng - V\u0169 T\u00f4ng Phan",
+    "address": "29 V\u0169 T\u00f4ng Phan, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.6,
+        "price": 8.7,
+        "quality": 8.7,
+        "space": 8.7,
+        "service": 8.6,
+        "location": 8.4
+    },
+    "review_count": 7,
+    "opening_time": "15:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-xeo-tu-dong-pham-ngoc-thach"
+}

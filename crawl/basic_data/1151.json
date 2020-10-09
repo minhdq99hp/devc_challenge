@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - D\u01b0\u01a1ng \u0110\u00ecnh Ngh\u1ec7",
+    "address": "6 D\u01b0\u01a1ng \u0110\u00ecnh Ngh\u1ec7 (\u0110\u1ed1i Di\u1ec7n Star Tower), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.4,
+        "price": 6.6,
+        "service": 6.5,
+        "space": 6.4,
+        "location": 6.2,
+        "quality": 6.2
+    },
+    "review_count": 26,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-duong-dinh-nghe"
+}

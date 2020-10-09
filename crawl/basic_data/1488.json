@@ -1,0 +1,26 @@
+{
+    "name": "X\u00f4i B\u1ef1 - L\u00f2 \u0110\u00fac",
+    "address": "61 L\u00f2 \u0110\u00fac, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.7,
+        "quality": 8.4,
+        "service": 8.3,
+        "price": 7.6,
+        "location": 7.3,
+        "space": 6.7
+    },
+    "review_count": 40,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/xoi-bu-lo-duc"
+}

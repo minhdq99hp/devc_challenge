@@ -1,0 +1,25 @@
+{
+    "name": "T\u00fa Linh - C\u01a1m \u0110\u1ea3o G\u00e0 & C\u01a1m V\u0103n Ph\u00f2ng - Shop Online",
+    "address": "9 Ng\u00f5 64 L\u0129nh Nam, P. Mai \u0110\u1ed9ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "00:01",
+    "closing_time": "03:00 | 08:30",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tu-linh-com-dao-ga-com-van-phong-shop-online"
+}

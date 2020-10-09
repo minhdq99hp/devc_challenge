@@ -1,0 +1,25 @@
+{
+    "name": "Savor - B\u00e1nh M\u00ec & Tr\u00e0 S\u1eefa - Nguy\u1ec5n Tr\u00e3i",
+    "address": "486 Nguy\u1ec5n Tr\u00e3i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.0,
+        "price": 8.0,
+        "quality": 7.0,
+        "service": 7.0,
+        "space": 7.0,
+        "location": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "21:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/savor-banh-mi-tra-sua-nguyen-trai"
+}

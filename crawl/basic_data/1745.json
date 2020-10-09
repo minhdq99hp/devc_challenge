@@ -1,0 +1,25 @@
+{
+    "name": "Let's Sushi",
+    "address": "13B Qu\u1ed1c T\u1eed Gi\u00e1m, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.5,
+        "quality": 7.8,
+        "price": 7.8,
+        "service": 7.6,
+        "space": 7.2,
+        "location": 7.2
+    },
+    "review_count": 90,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "49.000",
+    "max_price": "89.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/let-s-sushi"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "N\u01b0\u1edbc \u00c9p Tr\u00e1i C\u00e2y - Qu\u00e1n S\u1ee9",
+    "address": "12 Qu\u00e1n S\u1ee9, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.0,
+        "price": 8.3,
+        "quality": 8.3,
+        "service": 8.3,
+        "location": 8.0,
+        "space": 7.2
+    },
+    "review_count": 6,
+    "opening_time": "13:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nuoc-ep-trai-cay-quan-su"
+}

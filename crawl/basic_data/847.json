@@ -1,0 +1,25 @@
+{
+    "name": "BUMTRO - B\u00fan Tr\u1ed9n Nam B\u1ed9 - \u0110\u00e0o T\u1ea5n",
+    "address": "26 Ngo\u0303 58 \u0110a\u0300o T\u00e2\u0301n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.4,
+        "price": 7.2,
+        "quality": 7.0,
+        "space": 6.4,
+        "service": 6.0
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bumtro-bun-tron-nam-bo-dao-tan"
+}

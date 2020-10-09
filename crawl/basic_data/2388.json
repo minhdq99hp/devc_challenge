@@ -1,0 +1,23 @@
+{
+    "name": "Ph\u01b0\u1ee3ng M\u1ef1c 36 - H\u00e0ng B\u1ed3",
+    "address": "36 H\u00e0ng B\u1ed3, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.7,
+        "service": 9.9,
+        "location": 9.8,
+        "space": 9.8,
+        "quality": 9.7,
+        "price": 9.6
+    },
+    "review_count": 16,
+    "opening_time": "14:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "400.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phuong-muc-36-hang-bo"
+}

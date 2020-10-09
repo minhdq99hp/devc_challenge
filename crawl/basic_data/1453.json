@@ -1,0 +1,24 @@
+{
+    "name": "Nem N\u01b0\u1edbng Nha Trang \u00dd Thi\u00ean - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "Ng\u00e1ch 98 Ng\u00f5 T\u1ef1 Do, Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.6,
+        "price": 8.0,
+        "service": 7.8,
+        "quality": 7.6,
+        "space": 7.5,
+        "location": 7.2
+    },
+    "review_count": 55,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Nha Trang",
+    "url": "https://www.foody.vn/ha-noi/y-thien-nem-nuong-nha-trang"
+}

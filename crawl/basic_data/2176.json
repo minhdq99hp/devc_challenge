@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan C\u00e1 Ch\u1ea5m B\u1ea7u T\u00e8o",
+    "address": "40 V\u00f5 V\u0103n D\u0169ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.9,
+        "price": 9.5,
+        "quality": 9.5,
+        "service": 9.3,
+        "location": 8.0,
+        "space": 8.0
+    },
+    "review_count": 4,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-ca-cham-bau-teo"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Grille6 - Salad, Steak & Pasta - H\u00e0o Nam",
+    "address": "184 H\u00e0o Nam, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 7.5,
+        "space": 7.8,
+        "service": 7.7,
+        "quality": 7.7,
+        "location": 7.4,
+        "price": 7.1
+    },
+    "review_count": 448,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00f4ng \u00c2u",
+    "url": "https://www.foody.vn/ha-noi/grille6-steakhouse"
+}

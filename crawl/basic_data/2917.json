@@ -1,0 +1,25 @@
+{
+    "name": "Mochi Sweets - Lotte Center",
+    "address": "T\u1ea7ng 3,\u00a0T\u1ea5ng 3, Lotte Center, 54 Li\u1ec5u Giai, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.3,
+        "quality": 8.1,
+        "location": 7.5,
+        "service": 7.3,
+        "space": 7.1,
+        "price": 6.5
+    },
+    "review_count": 15,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "32.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng",
+        "Kh\u00e1ch du l\u1ecbch"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/mochi-sweets-lotte-center"
+}

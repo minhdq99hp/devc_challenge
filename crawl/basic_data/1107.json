@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u01b0\u1eddng Sinh - B\u00e1nh M\u00ec, X\u00f4i, Ch\u00e1o S\u01b0\u1eddn & C\u01a1m",
+    "address": "77 Ng\u00f5 147B T\u00e2n Mai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.9,
+        "location": 9.7,
+        "price": 9.3,
+        "service": 9.0,
+        "quality": 8.3,
+        "space": 8.0
+    },
+    "review_count": 3,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/truong-sinh-banh-mi-xoi-chao-suon-com"
+}

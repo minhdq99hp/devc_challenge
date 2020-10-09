@@ -1,0 +1,25 @@
+{
+    "name": "An G\u00e0 B\u1ea3n - C\u01a1m V\u0103n Ph\u00f2ng Online",
+    "address": "101 D6 Gi\u1ea3ng V\u00f5, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.3,
+        "quality": 8.0,
+        "location": 7.8,
+        "service": 7.2,
+        "space": 6.8,
+        "price": 6.6
+    },
+    "review_count": 5,
+    "opening_time": "10:00",
+    "closing_time": "19:30",
+    "min_price": "30.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-ga-ban-com-van-phong-online"
+}

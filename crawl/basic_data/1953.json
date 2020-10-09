@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Pozaa Tea - Y\u00ean X\u00e1",
+    "address": "79 Y\u00ean X\u00e1, Huy\u1ec7n Thanh Tr\u00ec H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.7,
+        "location": 9.8,
+        "space": 9.8,
+        "quality": 9.7,
+        "service": 9.7,
+        "price": 9.5
+    },
+    "review_count": 11,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-pozaa-tea-yen-xa"
+}

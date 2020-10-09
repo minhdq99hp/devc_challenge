@@ -1,0 +1,25 @@
+{
+    "name": "M\u00ea Qu\u00e1n - N\u01b0\u1edbc \u00c9p 100% Nguy\u00ean Ch\u1ea5t",
+    "address": "12C3 Ng\u00f5 35 Kim M\u00e3 Th\u01b0\u1ee3ng, P. C\u1ed1ng V\u1ecb, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.4,
+        "quality": 10.0,
+        "service": 9.0,
+        "location": 8.0,
+        "price": 8.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/me-quan-nuoc-ep-100-nguyen-chat"
+}

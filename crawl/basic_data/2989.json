@@ -1,0 +1,25 @@
+{
+    "name": "KOMBO - C\u01a1m Ni\u00eau Singapore - Gi\u1ea3ng V\u00f5",
+    "address": "257 Gi\u1ea3ng V\u00f5, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.9,
+        "location": 7.4,
+        "quality": 7.1,
+        "service": 6.9,
+        "space": 6.7,
+        "price": 6.6
+    },
+    "review_count": 195,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "110.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Singapore",
+    "url": "https://www.foody.vn/ha-noi/kombo-com-nieu-singapore-giang-vo"
+}

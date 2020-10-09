@@ -1,0 +1,24 @@
+{
+    "name": "Ti\u1ec7m B\u00e1nh Ch\u00fa M\u1eadp - Shop Online",
+    "address": "53 \u0110\u01b0\u1eddng Th\u00e0nh, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.6,
+        "quality": 8.1,
+        "service": 8.1,
+        "price": 7.7,
+        "location": 7.3,
+        "space": 7.1
+    },
+    "review_count": 58,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "55.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-banh-chu-map-shop-online"
+}

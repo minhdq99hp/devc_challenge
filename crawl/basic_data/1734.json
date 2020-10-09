@@ -1,0 +1,25 @@
+{
+    "name": "Ng\u1ecdc Th\u1ea1ch Qu\u00e1n - S\u1eefa Chua & Caramen - T\u1ea1 Quang B\u1eedu",
+    "address": "107 K6A (M\u1eb7t Sau) Ng\u00f5 48 T\u1ea1 Quang B\u1eedu, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.0,
+        "location": 7.0,
+        "price": 7.0,
+        "quality": 7.0,
+        "service": 7.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "09:30",
+    "closing_time": "18:30",
+    "min_price": "14.000",
+    "max_price": "20.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ngoc-thach-quan-sua-chua-caramen-ta-quang-buu"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Qu\u00e1n B\u00fan Ch\u1ea3 S\u1ed1 38",
+    "address": "38 Mai H\u1eafc \u0110\u1ebf, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.9,
+        "location": 9.2,
+        "service": 9.2,
+        "space": 9.2,
+        "quality": 8.5,
+        "price": 8.3
+    },
+    "review_count": 6,
+    "opening_time": "10:00",
+    "closing_time": "15:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-bun-cha-so-38"
+}

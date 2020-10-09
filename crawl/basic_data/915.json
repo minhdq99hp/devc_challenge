@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e2n G\u00e0 Bay Online",
+    "address": "15 Ng\u00f5 182 L\u01b0\u01a1ng Th\u1ebf Vinh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.5,
+        "price": 8.1,
+        "service": 7.7,
+        "location": 7.6,
+        "quality": 7.4,
+        "space": 6.9
+    },
+    "review_count": 21,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chan-ga-bay-online"
+}

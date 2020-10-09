@@ -1,0 +1,25 @@
+{
+    "name": "Xanh L\u00e1 - B\u00e1nh M\u00ec V\u00e0 X\u00f4i Tr\u1ea7n Ph\u00fa",
+    "address": "24 Ng\u00e1ch 8 Ng\u00f5 108 Tr\u1ea7n Ph\u00fa, P. M\u1ed9 Lao, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.6,
+        "location": 10.0,
+        "quality": 10.0,
+        "space": 10.0,
+        "price": 9.0,
+        "service": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "20:30",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/xanh-la-banh-mi-va-xoi-tran-phu"
+}

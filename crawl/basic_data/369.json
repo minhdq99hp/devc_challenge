@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m M\u1ef9 V\u1ecb - Trung K\u00ednh",
+    "address": "22 Ng\u00f5 193 Trung K\u00ednh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 7.4,
+        "price": 7.3,
+        "quality": 7.1,
+        "service": 7.1,
+        "space": 7.1
+    },
+    "review_count": 11,
+    "opening_time": "10:30",
+    "closing_time": "20:30 | 11:00",
+    "min_price": "55.000",
+    "max_price": "110.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/donkin-deli-com-tam-my-vi"
+}

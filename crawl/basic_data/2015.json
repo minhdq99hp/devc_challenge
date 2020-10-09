@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m Ph\u1edf Cu\u1ed1n Ch\u00edn 2",
+    "address": "5 Ng\u00f5 121 L\u00ea Thanh Ngh\u1ecb, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.4,
+        "location": 9.5,
+        "price": 9.5,
+        "quality": 9.5,
+        "service": 9.5,
+        "space": 9.0
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-pho-cuon-chin-2"
+}

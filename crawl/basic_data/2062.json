@@ -1,0 +1,25 @@
+{
+    "name": "B\u1eb1ng Linh - Ch\u00e8 Th\u1eadp C\u1ea9m & S\u1eefa Chua M\u00edt",
+    "address": "12 Ng\u00f5 110 Tr\u1ea7n Duy H\u01b0ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.9,
+        "price": 8.2,
+        "location": 8.1,
+        "service": 8.0,
+        "quality": 7.9,
+        "space": 7.5
+    },
+    "review_count": 11,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "18.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bang-linh-sua-chua-mit-hoa-qua-dam"
+}

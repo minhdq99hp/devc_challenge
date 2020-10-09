@@ -1,0 +1,25 @@
+{
+    "name": "Ph\u1ed1 Ngon 37 - Indochina Plaza",
+    "address": "T\u1ea7ng 5, IPH, 239 Xu\u00e2n Th\u1ee7y, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.0,
+        "space": 8.4,
+        "location": 8.2,
+        "quality": 8.0,
+        "service": 7.9,
+        "price": 7.7
+    },
+    "review_count": 158,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "45.000",
+    "max_price": "66.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pho-ngon-37-37th-street"
+}

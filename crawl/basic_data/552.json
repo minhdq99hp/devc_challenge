@@ -1,0 +1,25 @@
+{
+    "name": "Khao Lao - Center Point",
+    "address": "T\u1ea7ng 5, TTTM H\u00e0 N\u1ed9i Centerpoint, 27 L\u00ea V\u0103n L\u01b0\u01a1ng, P. Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 7.5,
+        "location": 7.8,
+        "space": 7.8,
+        "price": 7.4,
+        "service": 7.4,
+        "quality": 7.3
+    },
+    "review_count": 10,
+    "opening_time": "11:00",
+    "closing_time": "13:30 | 18:00",
+    "min_price": "10.000",
+    "max_price": "79.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/khao-lao-center-point"
+}

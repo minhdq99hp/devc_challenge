@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e1o M\u00f3ng Gi\u00f2 Ng\u1ecdc Anh - Shop Online",
+    "address": "53 Ba\u0323ch \u0110\u0103\u0300ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.5,
+        "service": 10.0,
+        "quality": 9.5,
+        "price": 8.0,
+        "location": 7.5,
+        "space": 7.5
+    },
+    "review_count": 2,
+    "opening_time": "10:30",
+    "closing_time": "22:30",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-mong-gio-ngoc-anh-shop-online"
+}

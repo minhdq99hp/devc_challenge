@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan H\u1ea3i S\u1ea3n - Linh \u0110\u00e0m",
+    "address": "17TT2A, Ng\u00f5 15 B\u1eb1ng Li\u1ec7t, K\u0110T T\u00e2y Nam Linh \u0110\u00e0m, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.8,
+        "service": 9.2,
+        "quality": 9.1,
+        "price": 8.9,
+        "location": 8.6,
+        "space": 8.1
+    },
+    "review_count": 18,
+    "opening_time": "06:00",
+    "closing_time": "14:00",
+    "min_price": "20.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-hai-san-com-rang-linh-dam"
+}

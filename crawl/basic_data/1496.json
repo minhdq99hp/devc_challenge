@@ -1,0 +1,25 @@
+{
+    "name": "Let's Sushi - Y\u00ean L\u00e3ng",
+    "address": "173 Y\u00ean L\u00e3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.9,
+        "quality": 7.4,
+        "price": 7.3,
+        "service": 6.9,
+        "location": 6.5,
+        "space": 6.5
+    },
+    "review_count": 19,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "49.000",
+    "max_price": "89.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/let-s-sushi-yen-lang"
+}

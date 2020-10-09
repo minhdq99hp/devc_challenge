@@ -1,0 +1,26 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+    "address": "32 \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "space": 7.9,
+        "location": 7.9,
+        "quality": 7.5,
+        "service": 7.2,
+        "price": 6.8
+    },
+    "review_count": 65,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "35.000",
+    "max_price": "77.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-dien-bien-phu"
+}

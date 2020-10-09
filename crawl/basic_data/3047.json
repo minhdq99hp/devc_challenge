@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - T\u00f4 Hi\u1ec7u",
+    "address": "175 T\u00f4 Hi\u1ec7u, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 7.9,
+        "space": 7.6,
+        "price": 7.1,
+        "service": 6.9,
+        "quality": 6.7
+    },
+    "review_count": 30,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-to-hieu"
+}

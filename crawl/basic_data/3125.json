@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n Tr\u1ed9n H\u01b0ng B\u00e9o - Shop Online - L\u00ea V\u0103n H\u01b0u",
+    "address": "47 L\u00ea V\u0103n H\u01b0u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.7,
+        "quality": 9.9,
+        "service": 9.9,
+        "price": 9.8,
+        "location": 9.6,
+        "space": 9.5
+    },
+    "review_count": 10,
+    "opening_time": "10:30",
+    "closing_time": "20:30",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-tron-hung-beo-shop-online-le-van-huu"
+}

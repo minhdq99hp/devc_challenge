@@ -1,0 +1,23 @@
+{
+    "name": "Qu\u00e1n 152 - X\u00f4i, D\u1eeba D\u1ea7m & B\u00e1nh M\u00ec Que H\u1ea3i Ph\u00f2ng",
+    "address": "96 B\u00f9i Ng\u1ecdc D\u01b0\u01a1ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 6.8,
+        "quality": 6.7,
+        "price": 6.4,
+        "space": 6.3,
+        "service": 6.3
+    },
+    "review_count": 68,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-152-xoi-dua-dam-banh-mi-que-hai-phong"
+}

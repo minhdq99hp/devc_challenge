@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n & Tr\u00e0 S\u1eefa B\u1ebfp Nh\u00e0 C\u00e1m - Ngh\u0129a D\u0169ng",
+    "address": "96 Ngh\u0129a D\u0169ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.3,
+        "quality": 10.0,
+        "price": 9.8,
+        "service": 9.4,
+        "space": 9.2,
+        "location": 8.2
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-ran-tra-sua-bep-nha-cam-nghia-dung"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "C\u01b0\u1eddng Nga - Bia H\u01a1i H\u00e0 N\u1ed9i",
+    "address": "138 L\u00ea Du\u1ea9n, P. Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n nh\u1eadu",
+    "scores": {
+        "avg_score": 8.2,
+        "location": 9.0,
+        "price": 9.0,
+        "quality": 8.0,
+        "service": 8.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "5.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/cuong-nga-bia-hoi-ha-noi"
+}

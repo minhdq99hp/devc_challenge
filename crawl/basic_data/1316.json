@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u1ef3nh - B\u00fan M\u1eb9t, B\u00fan Ch\u1ea3 & C\u01a1m V\u0103n Ph\u00f2ng",
+    "address": "28 Ng\u00f5 282 Kim Giang, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "space": 8.0,
+        "location": 7.7,
+        "quality": 6.7,
+        "service": 6.7,
+        "price": 6.3
+    },
+    "review_count": 3,
+    "opening_time": "06:00",
+    "closing_time": "19:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-quynh-bun-met-bun-cha-banh-mi"
+}

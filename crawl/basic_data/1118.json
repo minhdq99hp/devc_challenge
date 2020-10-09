@@ -1,0 +1,25 @@
+{
+    "name": "Eatwell - Ngon Kh\u1ecfe C\u1ea3 Tu\u1ea7n",
+    "address": "63 Ng\u00f5 38 Ph\u01b0\u01a1ng Mai, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.5,
+        "quality": 8.7,
+        "service": 8.7,
+        "price": 8.6,
+        "location": 8.5,
+        "space": 8.2
+    },
+    "review_count": 17,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/eatwell-ngon-khoe-ca-tuan"
+}

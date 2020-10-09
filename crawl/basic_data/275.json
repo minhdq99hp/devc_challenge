@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp C\u1eebu - C\u01a1m V\u0103n Ph\u00f2ng Online",
+    "address": "33 Ng\u00e1ch 1 Ng\u00f5 376 \u0110\u01b0\u1eddng B\u01b0\u1edfi, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.7,
+        "location": 7.3,
+        "quality": 6.7,
+        "service": 6.7,
+        "space": 6.5,
+        "price": 6.2
+    },
+    "review_count": 6,
+    "opening_time": "08:30",
+    "closing_time": "20:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-cuu-com-van-phong-online"
+}

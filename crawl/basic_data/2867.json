@@ -1,0 +1,24 @@
+{
+    "name": "Savor - B\u00e1nh M\u00ec & Tr\u00e0 S\u1eefa - \u0110\u1ed9i C\u1ea5n",
+    "address": "187 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.3,
+        "service": 7.5,
+        "location": 7.5,
+        "quality": 7.5,
+        "price": 7.2,
+        "space": 7.0
+    },
+    "review_count": 17,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/savor-banh-mi-xoi-doi-can"
+}

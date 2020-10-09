@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 Con - Th\u1ea1ch D\u1eeba & N\u01b0\u1edbc \u00c9p Hoa Qu\u1ea3 Online",
+    "address": "39 Nguy\u1ec5n Qu\u00fd \u0110\u1ee9c, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.3,
+        "location": 7.7,
+        "price": 7.3,
+        "quality": 7.3,
+        "service": 7.1,
+        "space": 7.1
+    },
+    "review_count": 7,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-con-thach-dua-nuoc-ep-hoa-qua-online"
+}

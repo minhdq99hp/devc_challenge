@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - Tr\u00e0 S\u1eefa H\u1ed3ng K\u00f4ng - C\u1ea7u Di\u1ec5n",
+    "address": "Ki \u1ed0t 1 C\u1ed5ng Ch\u1ee3 \u0110\u1ea7u M\u1ed1i Minh Khai, C\u1ea7u Di\u1ec5n, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.9,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 9.7,
+        "space": 9.7
+    },
+    "review_count": 3,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "45.000",
+    "max_price": "90.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-tra-sua-hong-kong-cau-dien"
+}

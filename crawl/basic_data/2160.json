@@ -1,0 +1,25 @@
+{
+    "name": "Fenghuang - K\u0110T Linh \u0110\u00e0m",
+    "address": "L\u00f4 CX14 K\u0110T Linh \u0110\u00e0m (C\u1ea1nh b\u1ec3 b\u01a1i Linh \u0110\u00e0m), Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 8.2,
+        "space": 8.8,
+        "service": 8.8,
+        "quality": 8.4,
+        "price": 7.7,
+        "location": 7.3
+    },
+    "review_count": 17,
+    "opening_time": "11:00",
+    "closing_time": "14:00 | 18:00",
+    "min_price": "50.000",
+    "max_price": "250.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Trung Hoa",
+    "url": "https://www.foody.vn/ha-noi/fenghuang-kdt-linh-dam"
+}

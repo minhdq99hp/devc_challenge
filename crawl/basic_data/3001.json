@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Bobapop - Th\u00e1i H\u00e0",
+    "address": "290 Th\u00e1i H\u00e0, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "price": 7.4,
+        "quality": 7.3,
+        "location": 7.3,
+        "service": 7.1,
+        "space": 7.0
+    },
+    "review_count": 102,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "23.000",
+    "max_price": "48.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-bobapop-thai-ha"
+}

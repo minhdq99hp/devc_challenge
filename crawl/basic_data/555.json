@@ -1,0 +1,25 @@
+{
+    "name": "Sushi Kei - AEON Mall Long Bi\u00ean",
+    "address": "T\u1ea7ng 3, AEON Mall Long Bi\u00ean, 27 C\u1ed5 Linh, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.9,
+        "location": 7.6,
+        "quality": 7.4,
+        "space": 7.0,
+        "service": 6.7,
+        "price": 6.0
+    },
+    "review_count": 20,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 17:30",
+    "min_price": "10.000",
+    "max_price": "199.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/sushi-kei-aeon-mall-long-bien"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Feeling Tea - IPH Xu\u00e2n Th\u1ee7y",
+    "address": "T\u1ea7ng 1,\u00a0T\u1ea7ng 1, Gian K1 - 2A, T\u00f2a Nh\u00e0 IPH, 241 Xu\u00e2n Th\u1ee7y, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.9,
+        "price": 7.5,
+        "location": 7.4,
+        "service": 6.7,
+        "quality": 6.6,
+        "space": 6.3
+    },
+    "review_count": 63,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/feeling-tea-iph-xuan-thuy"
+}

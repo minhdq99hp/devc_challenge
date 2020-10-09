@@ -1,0 +1,24 @@
+{
+    "name": "C\u00f4 Ba Duy\u00ean - Nem N\u01b0\u1edbng Nha Trang",
+    "address": "27B Ng\u00f5 31 V\u0103n H\u1ed9i, P. \u0110\u1ee9c Th\u1eafng, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-ba-duyen-nem-nuong-nha-trang"
+}

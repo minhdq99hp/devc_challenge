@@ -1,0 +1,24 @@
+{
+    "name": "Ki\u1ec1u L\u01b0\u01a1ng - B\u00e1nh M\u00ec B\u01a1 M\u1eadt Ong & Th\u1ecbt Xi\u00ean",
+    "address": "127 \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.6,
+        "price": 7.9,
+        "quality": 7.9,
+        "location": 7.5,
+        "service": 7.3,
+        "space": 7.2
+    },
+    "review_count": 29,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/kieu-luong-banh-mi-bo-mat-ong-thit-xien"
+}

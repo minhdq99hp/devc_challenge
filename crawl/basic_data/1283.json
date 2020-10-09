@@ -1,0 +1,25 @@
+{
+    "name": "Mina - G\u00e0 R\u00e1n & C\u01a1m G\u00e0",
+    "address": "8 L\u00ea Lai, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.0,
+        "quality": 8.6,
+        "service": 8.5,
+        "price": 8.1,
+        "space": 7.7,
+        "location": 7.4
+    },
+    "review_count": 11,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mina-com-van-phong-mi-y"
+}

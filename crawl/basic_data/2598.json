@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan \u0110\u1eadu M\u1eafm T\u00f4m - \u0110\u00ea La Th\u00e0nh",
+    "address": "69 \u0110\u00ea La Th\u00e0nh Nh\u1ecf, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8, ",
+    "scores": {
+        "avg_score": 7.1,
+        "quality": 7.5,
+        "location": 7.0,
+        "price": 7.0,
+        "service": 7.0,
+        "space": 7.0
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "14:00",
+    "min_price": "15.000",
+    "max_price": "20.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-mam-tom-de-la-thanh"
+}

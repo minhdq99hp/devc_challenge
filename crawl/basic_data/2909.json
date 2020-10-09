@@ -1,0 +1,24 @@
+{
+    "name": "B\u1ebfp M\u1eb9 B\u00e9o - B\u00e1nh M\u00ec, X\u00f4i & N\u01b0\u1edbc \u00c9p - Qu\u1ef3nh Mai",
+    "address": "119 E6 Qu\u1ef3nh Mai (Ng\u00f5 E6 Qu\u1ef3nh Mai), Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.0,
+        "quality": 9.6,
+        "service": 9.2,
+        "location": 9.1,
+        "price": 9.0,
+        "space": 8.2
+    },
+    "review_count": 12,
+    "opening_time": "07:00",
+    "closing_time": "20:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-me-beo-banh-mi-xoi-nuoc-ep-quynh-mai"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Lan Anh - C\u01a1m V\u0103n Ph\u00f2ng Online",
+    "address": "17 Ng\u00f5 50 Ch\u00f9a Qu\u1ef3nh, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "00:01",
+    "closing_time": "02:00 | 10:00",
+    "min_price": "35.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/lan-anh-com-van-phong-online"
+}

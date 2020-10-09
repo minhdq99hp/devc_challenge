@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Pozaa Tea - \u0110\u1ea1i H\u1ecdc H\u00e0 N\u1ed9i",
+    "address": "9 C\u1ed5ng Tr\u01b0\u1eddng \u0110\u1ea1i H\u1ecdc H\u00e0 N\u1ed9i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 8.0,
+        "price": 8.0,
+        "quality": 7.9,
+        "service": 7.6,
+        "space": 7.5
+    },
+    "review_count": 44,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-pozaa-tea-dai-hoc-ha-noi"
+}

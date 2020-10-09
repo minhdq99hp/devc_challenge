@@ -1,0 +1,24 @@
+{
+    "name": "BaMi SaMi - Juice & FastFood",
+    "address": "Ki \u1ed0t 12B T\u00f2a B4 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.1,
+        "location": 8.4,
+        "space": 8.4,
+        "price": 8.0,
+        "service": 7.8,
+        "quality": 7.6
+    },
+    "review_count": 12,
+    "opening_time": "06:00",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bami-sami-juice-fastfood"
+}

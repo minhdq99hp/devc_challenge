@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Chee Chee - Shop Online",
+    "address": "6 Ng\u00f5 H\u1ea1 H\u1ed3i, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 9.0,
+        "location": 8.7,
+        "quality": 8.7,
+        "service": 8.2,
+        "space": 7.7
+    },
+    "review_count": 6,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "18.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-chee-chee-shop-online"
+}

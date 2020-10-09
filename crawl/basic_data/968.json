@@ -1,0 +1,25 @@
+{
+    "name": "Rau M\u00e1 Plus - B\u1ea1ch Mai",
+    "address": "307C B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.0,
+        "price": 8.3,
+        "location": 7.9,
+        "quality": 7.9,
+        "service": 7.9,
+        "space": 7.9
+    },
+    "review_count": 10,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/rau-ma-plus-bach-mai"
+}

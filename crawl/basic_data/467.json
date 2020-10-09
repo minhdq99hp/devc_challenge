@@ -1,0 +1,25 @@
+{
+    "name": "Bu N\u00f3 Qu\u00e1n - B\u00e1nh Cu\u1ed1n & \u0110\u1ed3 \u0102n V\u1eb7t Online",
+    "address": "48 V\u00f5ng Th\u1ecb, P. B\u01b0\u1edfi, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "23:00",
+    "min_price": "7.000",
+    "max_price": "54.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bu-no-quan-banh-cuon-do-an-vat-online"
+}

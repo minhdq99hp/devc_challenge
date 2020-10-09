@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp Bum - B\u00fan Tr\u1ed9n B\u00f2 & B\u00fan \u0110\u1eadu - V\u0129nh Qu\u1ef3nh",
+    "address": "38 V\u0129nh Qu\u1ef3nh, Huy\u1ec7n Thanh Tr\u00ec H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.5,
+        "quality": 9.8,
+        "location": 9.6,
+        "space": 9.6,
+        "price": 9.2,
+        "service": 9.2
+    },
+    "review_count": 5,
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-bum-bun-tron-bo-bun-dau-vinh-quynh"
+}

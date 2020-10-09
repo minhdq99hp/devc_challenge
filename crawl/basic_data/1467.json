@@ -1,0 +1,25 @@
+{
+    "name": "Ph\u1edf Tr\u1ed9n C\u00f4 Li\u00ean",
+    "address": "16A Ch\u1ee3 Ng\u1ecdc H\u00e0, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.8,
+        "quality": 9.0,
+        "location": 8.3,
+        "price": 7.7,
+        "space": 7.7,
+        "service": 6.3
+    },
+    "review_count": 3,
+    "opening_time": "18:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pho-tron-co-lien"
+}

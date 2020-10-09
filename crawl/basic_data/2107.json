@@ -1,0 +1,25 @@
+{
+    "name": "Ng\u1ecdc Th\u1ea1ch Qu\u00e1n - S\u1eefa Chua & Caramen - Ph\u00f9ng Khoang",
+    "address": "12 L\u00f4 6 Ng\u00f5 67 Ph\u00f9ng Khoang, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.2,
+        "price": 9.0,
+        "quality": 9.0,
+        "location": 8.0,
+        "service": 8.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ngoc-thach-quan-sua-chua-caramen-phung-khoang"
+}

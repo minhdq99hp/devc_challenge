@@ -1,0 +1,25 @@
+{
+    "name": "Chick Garden - Ch\u00e8 Khoai D\u1ebbo - Nguy\u1ec5n Ng\u1ecdc Do\u00e3n",
+    "address": "105 C3 Nguy\u1ec5n Ng\u1ecdc Do\u00e3n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 6.9,
+        "space": 6.7,
+        "price": 6.4,
+        "quality": 6.3,
+        "service": 6.3
+    },
+    "review_count": 83,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chick-garden-food-drink"
+}

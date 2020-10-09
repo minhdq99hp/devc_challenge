@@ -1,0 +1,25 @@
+{
+    "name": "BUMTRO - B\u00fan Tr\u1ed9n Nam B\u1ed9 - T\u00e2n Mai",
+    "address": "71A Ng\u00f5 260 T\u00e2n Mai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "quality": 7.0,
+        "location": 6.0,
+        "price": 6.0,
+        "service": 6.0,
+        "space": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bumtro-bun-tron-nam-bo-tan-mai"
+}

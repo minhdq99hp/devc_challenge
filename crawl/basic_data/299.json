@@ -1,0 +1,25 @@
+{
+    "name": "The 1989 - Vietnam Milktea - T\u00e2n Mai",
+    "address": "184 T\u00e2n Mai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.4,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 9.0,
+        "space": 8.0
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/the-1989-vietnam-milktea-tan-mai"
+}

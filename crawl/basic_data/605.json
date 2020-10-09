@@ -1,0 +1,23 @@
+{
+    "name": "L\u00f2ng L\u1ee3n & Ch\u00e1o L\u00f2ng Kh\u01b0\u01a1ng \u0110\u00ecnh - Quan Nh\u00e2n",
+    "address": "50B Ng\u00f5 144 Quan Nh\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n nh\u1eadu",
+    "scores": {
+        "avg_score": 7.9,
+        "price": 8.2,
+        "quality": 8.1,
+        "service": 8.0,
+        "location": 7.9,
+        "space": 7.6
+    },
+    "review_count": 37,
+    "opening_time": "07:00",
+    "closing_time": "19:00",
+    "min_price": "60.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/long-lon-sieu-sach-khuong-dinh"
+}

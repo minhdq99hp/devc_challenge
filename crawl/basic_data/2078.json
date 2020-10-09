@@ -1,0 +1,25 @@
+{
+    "name": "Mr.Pan Kimbap - D\u01b0\u01a1ng Khu\u00ea",
+    "address": "50 D\u01b0\u01a1ng Khu\u00ea, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.0,
+        "space": 8.5,
+        "quality": 8.3,
+        "price": 8.0,
+        "service": 7.8,
+        "location": 7.5
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "27.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/mr-pan-kimbap-duong-khue"
+}

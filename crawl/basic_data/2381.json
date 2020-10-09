@@ -1,0 +1,25 @@
+{
+    "name": "Pizza Bami H\u00e0 \u0110\u00f4ng",
+    "address": "8 Ng\u00e1ch 9 Ng\u00f5 61 V\u1ea1n Ph\u00fac, P. V\u1ea1n Ph\u00fac, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "min_price": "9.000",
+    "max_price": "400.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/pizza-bami-ha-dong"
+}

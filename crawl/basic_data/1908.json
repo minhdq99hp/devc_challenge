@@ -1,0 +1,25 @@
+{
+    "name": "Titalee - Tr\u00e0 S\u1eefa & Coffee - L\u1ea1c Long Qu\u00e2n",
+    "address": "23, Ng\u00f5 647 L\u1ea1c Long Qu\u00e2n, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.4,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "location": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/titalee-coffee-lac-long-quan"
+}

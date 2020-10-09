@@ -1,0 +1,25 @@
+{
+    "name": "Mokchang - \u0110\u1ed3 \u0102n H\u00e0n Qu\u1ed1c - L\u00e1ng H\u1ea1",
+    "address": "14 - 16 Ng\u00f5 81 L\u00e1ng H\u1ea1, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.7,
+        "location": 8.1,
+        "service": 7.7,
+        "space": 7.7,
+        "quality": 7.5,
+        "price": 7.3
+    },
+    "review_count": 21,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 16:30",
+    "min_price": "19.000",
+    "max_price": "299.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mokchang-do-an-han-quoc-lang-ha"
+}

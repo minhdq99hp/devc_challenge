@@ -1,0 +1,25 @@
+{
+    "name": "Nh\u00e0 H\u00e0ng Spice Vi\u1ec7t",
+    "address": "46 Nguy\u1ec5n Tr\u01b0\u1eddng T\u1ed9, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 9.1,
+        "quality": 10.0,
+        "service": 9.5,
+        "space": 9.3,
+        "location": 8.5,
+        "price": 8.3
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "45.000",
+    "max_price": "350.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Kh\u00e1ch du l\u1ecbch"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/spice-viet-hanoi"
+}

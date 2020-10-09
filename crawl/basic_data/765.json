@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n 98 - Shop Online",
+    "address": "101 B\u00f9i X\u01b0\u01a1ng Tr\u1ea1ch, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.5,
+        "price": 7.0,
+        "location": 6.8,
+        "space": 6.8,
+        "quality": 6.0,
+        "service": 6.0
+    },
+    "review_count": 4,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-trang-tron-98-shop-online"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Th\u1eafng V\u1eb9o - Ch\u00e1o L\u00f2ng Ngon",
+    "address": "36 H\u1ed3 M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.1,
+        "price": 8.8,
+        "quality": 8.6,
+        "service": 8.1,
+        "location": 7.8,
+        "space": 7.1
+    },
+    "review_count": 28,
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thang-veo-chao-long-ngon"
+}

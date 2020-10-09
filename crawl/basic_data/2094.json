@@ -1,0 +1,24 @@
+{
+    "name": "Soya Garden - M\u1ef9 \u0110\u00ecnh Plaza 2",
+    "address": "T\u1ea7ng 1, M\u1ef9 \u0110\u00ecnh Plaza 2, 2 Nguy\u1ec5n Ho\u00e0ng, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.3,
+        "location": 7.9,
+        "space": 7.9,
+        "service": 7.3,
+        "quality": 6.8,
+        "price": 6.5
+    },
+    "review_count": 16,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "31.000",
+    "max_price": "69.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/soya-garden-my-dinh-plaza-2"
+}

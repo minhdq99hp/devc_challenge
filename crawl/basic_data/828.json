@@ -1,0 +1,26 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - H\u00e0ng \u0110i\u1ebfu",
+    "address": "54 H\u00e0ng \u0110i\u1ebfu, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.3,
+        "location": 7.8,
+        "quality": 7.4,
+        "service": 7.2,
+        "space": 7.2,
+        "price": 7.0
+    },
+    "review_count": 19,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-hang-dieu"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "C\u00f4 Tu\u00e2n - H\u1ee7 Ti\u1ebfu & B\u00fan B\u00f2 Nam B\u1ed9",
+    "address": "49C Tr\u1ea7n Qu\u1ed1c To\u1ea3n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "quality": 7.6,
+        "price": 7.3,
+        "location": 7.1,
+        "service": 6.9,
+        "space": 6.4
+    },
+    "review_count": 82,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "35.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/co-tuan-bun-bo-hu-tiu-xa-xiu-chien"
+}

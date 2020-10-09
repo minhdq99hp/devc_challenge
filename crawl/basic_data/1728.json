@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9t \u0110i\u1ec7n Qu\u00e1n - B\u00e1nh M\u00ec Ch\u1ea3o - B\u1ea1ch Mai",
+    "address": "403 B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 7.0,
+        "space": 7.0,
+        "price": 6.0,
+        "quality": 6.0,
+        "service": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cot-dien-quan-banh-mi-chao-bach-mai"
+}

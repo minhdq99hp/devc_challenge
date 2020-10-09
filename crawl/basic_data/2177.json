@@ -1,0 +1,25 @@
+{
+    "name": "Auntie Anne's - Coffee & Pretzels - H\u00e0ng Khay",
+    "address": "31 H\u00e0ng Khay, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "quality": 7.8,
+        "location": 7.7,
+        "service": 7.7,
+        "price": 7.5,
+        "space": 6.8
+    },
+    "review_count": 11,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/auntie-anne-s-coffee-pretzels-hang-khay"
+}

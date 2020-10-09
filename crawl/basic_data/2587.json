@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp M\u1eb9 Su - Ph\u1edf T\u00edu - Shop Online",
+    "address": "4 Ng\u00e1ch 47 Ng\u00f5 111 L\u00e2m H\u1ea1, P. B\u1ed3 \u0110\u1ec1, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.8,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "location": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "13:30",
+    "min_price": "3.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-me-su-pho-tiu-shop-online"
+}

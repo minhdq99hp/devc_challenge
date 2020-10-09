@@ -1,0 +1,24 @@
+{
+    "name": "Tiger Sugar Vi\u1ec7t Nam - L\u00f2 \u0110\u00fac ",
+    "address": "26D3 Ng\u00f5 190 L\u00f2 \u0111\u00fac, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.0,
+        "price": 7.3,
+        "quality": 7.3,
+        "service": 7.3,
+        "space": 6.8,
+        "location": 6.5
+    },
+    "review_count": 4,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-viet-nam-lo-duc"
+}

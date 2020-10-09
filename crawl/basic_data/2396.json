@@ -1,0 +1,25 @@
+{
+    "name": "Chim Quay & D\u1eeba D\u1ea7m - T\u00e2n Tri\u1ec1u",
+    "address": "105A T\u00e2n Tri\u1ec1u, Huy\u1ec7n Thanh Tr\u00ec H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.2,
+        "quality": 10.0,
+        "location": 9.0,
+        "price": 9.0,
+        "service": 9.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chim-quay-dua-dam-do-an-vat"
+}

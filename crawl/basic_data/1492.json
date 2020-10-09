@@ -1,0 +1,25 @@
+{
+    "name": "V\u00e2n Chi\u1ebfn - B\u00fan Ngan Tr\u1ed9n Chua Ng\u1ecdt - B\u00e0 Tri\u1ec7u",
+    "address": "326 B\u00e0 Tri\u1ec7u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "quality": 7.8,
+        "price": 7.7,
+        "service": 7.2,
+        "location": 6.8,
+        "space": 6.3
+    },
+    "review_count": 43,
+    "opening_time": "10:30",
+    "closing_time": "14:00 | 16:30",
+    "min_price": "30.000",
+    "max_price": "44.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/bun-mien-ngan-326-ba-trieu"
+}

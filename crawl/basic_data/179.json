@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan C\u00e1 + - 460 Kh\u01b0\u01a1ng \u0110\u00ecnh",
+    "address": "40A Ng\u00f5 460 Kh\u01b0\u01a1ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.7,
+        "quality": 9.2,
+        "location": 8.8,
+        "service": 8.7,
+        "space": 8.6,
+        "price": 8.3
+    },
+    "review_count": 9,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-ca"
+}

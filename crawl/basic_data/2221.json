@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 Chanh B\u1ee5i Ph\u1ed1 - Mai Anh Tu\u1ea5n",
+    "address": "12 Mai Anh Tu\u1ea5n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "space": 10.0,
+        "service": 9.9
+    },
+    "review_count": 7,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-chanh-bui-pho-mai-anh-tuan"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u Houjicha - T\u00e2y S\u01a1n",
+    "address": "32 Ng\u00f5 298 T\u00e2y S\u01a1n (\u0110\u1ed1i Di\u1ec7n Ki \u1ed0t 9 ), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "location": 8.0,
+        "space": 7.9,
+        "price": 7.6,
+        "quality": 7.4,
+        "service": 6.9
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-houjicha-tay-son"
+}

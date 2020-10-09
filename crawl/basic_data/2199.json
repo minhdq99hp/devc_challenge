@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9t \u0110i\u1ec7n Qu\u00e1n - B\u00e1nh M\u00ec Ch\u1ea3o - Ngh\u0129a T\u00e2n",
+    "address": "104 -105B C3 T\u1eadp Th\u1ec3 Ngh\u0129a T\u00e2n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "price": 7.0,
+        "quality": 6.8,
+        "service": 6.6,
+        "location": 6.4,
+        "space": 6.1
+    },
+    "review_count": 392,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cot-dien-quan-banh-mi-chao-nghia-tan"
+}

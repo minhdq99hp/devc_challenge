@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n Top - C\u01a1m Chi\u00ean H\u1ea1t Gi\u00f2n Online",
+    "address": "45 Ng\u00f5 97 Th\u00e1i Th\u1ecbnh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.9,
+        "space": 9.0,
+        "service": 8.7,
+        "location": 7.7,
+        "quality": 7.3,
+        "price": 7.0
+    },
+    "review_count": 3,
+    "opening_time": "08:45",
+    "closing_time": "21:00",
+    "min_price": "50.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-top-com-chien-hat-gion-online"
+}

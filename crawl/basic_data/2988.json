@@ -1,0 +1,25 @@
+{
+    "name": "KOMBO - C\u01a1m Ni\u00eau Singapore - Linh \u0110\u00e0m",
+    "address": "Ki \u1ed0t 18 T\u00f2a Rainbow, K\u0110T T\u00e2y Nam Linh \u0110\u00e0m, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 8.3,
+        "location": 9.3,
+        "quality": 8.8,
+        "space": 8.3,
+        "service": 8.0,
+        "price": 7.0
+    },
+    "review_count": 4,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "110.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Singapore",
+    "url": "https://www.foody.vn/ha-noi/kombo-com-nieu-singapore-linh-dam"
+}

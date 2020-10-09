@@ -1,0 +1,23 @@
+{
+    "name": "Nh\u01b0 M\u00e2y - B\u00e1nh \u0110a Tr\u1ed9n",
+    "address": "2 Ng\u00f5 38 D\u1ed1c Th\u1ecd L\u00e3o, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.4,
+        "price": 7.9,
+        "service": 7.6,
+        "location": 7.5,
+        "quality": 7.3,
+        "space": 6.6
+    },
+    "review_count": 20,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nhu-may-banh-da-tron"
+}

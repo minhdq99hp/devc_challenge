@@ -1,0 +1,24 @@
+{
+    "name": "C\u00f4 L\u00ea - Nem N\u01b0\u1edbng Nha Trang - Xu\u00e2n Th\u1ee7y",
+    "address": "19H2 Ng\u00f5 130 Xu\u00e2n Th\u1ee7y, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.4,
+        "service": 7.7,
+        "price": 7.6,
+        "quality": 7.3,
+        "space": 7.2,
+        "location": 7.2
+    },
+    "review_count": 56,
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "min_price": "18.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Nha Trang",
+    "url": "https://www.foody.vn/ha-noi/co-le-nem-nuong-nha-trang"
+}

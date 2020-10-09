@@ -1,0 +1,24 @@
+{
+    "name": "Di\u1ec5m Nh\u01b0 - B\u00e1nh Tr\u00e1ng Tr\u1ed9n T\u00e2y Ninh",
+    "address": "62 \u00c1i M\u1ed9, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.5,
+        "location": 7.8,
+        "price": 7.8,
+        "service": 7.5,
+        "quality": 7.3,
+        "space": 7.3
+    },
+    "review_count": 4,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/diem-nhu-banh-trang-tron-tay-ninh"
+}

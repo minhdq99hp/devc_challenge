@@ -1,0 +1,25 @@
+{
+    "name": "Fenghuang - L\u00ea \u0110\u1ee9c Th\u1ecd",
+    "address": "T\u1ea7ng 1, T\u00f2a Nh\u00e0 Sun Square, 21 L\u00ea \u0110\u1ee9c Th\u1ecd, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.7,
+        "space": 8.1,
+        "price": 7.9,
+        "location": 7.8,
+        "quality": 7.7,
+        "service": 7.2
+    },
+    "review_count": 51,
+    "opening_time": "11:00",
+    "closing_time": "13:00 | 18:00",
+    "min_price": "150.000",
+    "max_price": "300.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Trung Hoa",
+    "url": "https://www.foody.vn/ha-noi/fenghuang-dimsum-lau-trung-hoa"
+}

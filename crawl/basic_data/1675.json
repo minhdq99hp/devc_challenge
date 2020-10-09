@@ -1,0 +1,24 @@
+{
+    "name": "B\u1ebfp B\u00f4ng - Healthy Eating Online",
+    "address": "22B Hai B\u00e0 Tr\u01b0ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.3,
+        "location": 8.4,
+        "service": 8.4,
+        "space": 8.4,
+        "price": 8.1,
+        "quality": 8.0
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "10.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bong-bee-qua-vat-online-nguyen-van-to"
+}

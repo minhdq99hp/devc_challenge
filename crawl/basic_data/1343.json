@@ -1,0 +1,25 @@
+{
+    "name": "T\u00edt - Ch\u00e8 Kh\u00fac B\u1ea1ch & Tr\u00e1i C\u00e2y S\u1ea5y",
+    "address": "92 T\u00e2y S\u01a1n, P. Quang Trung, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.0,
+        "location": 6.0,
+        "price": 6.0,
+        "quality": 6.0,
+        "service": 6.0,
+        "space": 6.0
+    },
+    "review_count": 10,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tit-che-khuc-bach-trai-cay-say"
+}

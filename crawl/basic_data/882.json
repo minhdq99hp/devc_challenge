@@ -1,0 +1,25 @@
+{
+    "name": "XINYI - C\u01a1m V\u1ecbt Quay, G\u00e0 N\u01b0\u1edbng & Ch\u00e8 Kem \u0110\u00e0i Loan - Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch",
+    "address": "112 C4 Trung T\u1ef1 (Ng\u00f5 46C Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.5,
+        "quality": 8.2,
+        "service": 7.7,
+        "price": 7.5,
+        "location": 7.4,
+        "space": 6.8
+    },
+    "review_count": 18,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "60.000",
+    "max_price": "75.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/xin-yi-taiwan-tam-y-dai-loan"
+}

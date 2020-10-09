@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - Tam Kh\u01b0\u01a1ng",
+    "address": "50 Tam Kh\u01b0\u01a1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.8,
+        "quality": 8.5,
+        "price": 8.0,
+        "location": 7.5,
+        "service": 7.5,
+        "space": 7.5
+    },
+    "review_count": 2,
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-truong-chinh"
+}

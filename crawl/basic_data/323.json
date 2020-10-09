@@ -1,0 +1,24 @@
+{
+    "name": "Royaltea - Gi\u00e1p Nh\u1ea5t",
+    "address": "3 Gi\u00e1p Nh\u1ea5t, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.7,
+        "service": 6.8,
+        "space": 6.8,
+        "location": 6.8,
+        "price": 6.6,
+        "quality": 6.5
+    },
+    "review_count": 22,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Trung Hoa",
+    "url": "https://www.foody.vn/ha-noi/royaltea-giap-nhat"
+}

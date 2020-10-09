@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - Tr\u1ea7n Quang Di\u1ec7u",
+    "address": "46 Tr\u1ea7n Quang Di\u1ec7u, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 7.5,
+        "price": 7.4,
+        "service": 7.3,
+        "space": 7.2,
+        "quality": 6.9
+    },
+    "review_count": 40,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "35.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-tran-quang-dieu"
+}

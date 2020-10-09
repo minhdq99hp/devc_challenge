@@ -1,0 +1,25 @@
+{
+    "name": "Su's House - B\u00e1nh Su Kem Singapore - T\u00f4 Hi\u1ebfn Th\u00e0nh",
+    "address": "82C T\u00f4 Hi\u1ebfn Th\u00e0nh, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 6.8,
+        "quality": 7.1,
+        "location": 7.0,
+        "price": 6.7,
+        "service": 6.7,
+        "space": 6.4
+    },
+    "review_count": 28,
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/su-s-house-banh-su-kem-singapore"
+}

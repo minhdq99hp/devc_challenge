@@ -1,0 +1,25 @@
+{
+    "name": "Sushi Kei - Nguy\u1ec5n Ch\u00ed Thanh",
+    "address": "T\u1ea7ng 1, T\u00f2a M3 - M4, 91 Nguy\u1ec5n Ch\u00ed Thanh, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 7.1,
+        "location": 7.7,
+        "space": 7.2,
+        "quality": 7.0,
+        "service": 6.9,
+        "price": 6.5
+    },
+    "review_count": 13,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 17:30",
+    "min_price": "10.000",
+    "max_price": "199.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/sushi-kei-nguyen-chi-thanh"
+}

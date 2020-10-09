@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh Cu\u1ed1n Ch\u1ecb S\u1ef1 - Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch",
+    "address": "1C3 Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch, P. L\u00e1ng H\u1ea1, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.5,
+        "quality": 6.8,
+        "location": 6.7,
+        "price": 6.6,
+        "service": 6.3,
+        "space": 6.1
+    },
+    "review_count": 43,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chi-su-banh-cuon-bun-cha"
+}

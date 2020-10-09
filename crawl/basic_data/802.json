@@ -1,0 +1,25 @@
+{
+    "name": "C\u00fac - Ch\u00e1o S\u01b0\u1eddn S\u1ee5n - L\u00ea Thanh Ngh\u1ecb",
+    "address": "254 L\u00ea Thanh Ngh\u1ecb, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.7,
+        "service": 7.0,
+        "location": 6.7,
+        "price": 6.7,
+        "quality": 6.7,
+        "space": 6.7
+    },
+    "review_count": 3,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cuc-chao-suon-sun-le-thanh-nghi"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "C\u00f4 Ti's Kitchen - C\u01a1m, Salad & \u0102n V\u1eb7t Online",
+    "address": "51 Ng\u00f5 262B Nguy\u1ec5n Tr\u00e3i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 6,
+    "opening_time": "09:00",
+    "closing_time": "23:59",
+    "min_price": "25.000",
+    "max_price": "120.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-ti-s-kitchen-com-salad-an-vat-online"
+}

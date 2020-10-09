@@ -1,0 +1,25 @@
+{
+    "name": "Soya Garden - L\u00f2 \u0110\u00fac",
+    "address": "58 L\u00f2 \u0110\u00fac, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.9,
+        "location": 8.7,
+        "space": 8.1,
+        "quality": 8.0,
+        "service": 7.7,
+        "price": 7.1
+    },
+    "review_count": 7,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "31.000",
+    "max_price": "69.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/soya-garden-lo-duc"
+}

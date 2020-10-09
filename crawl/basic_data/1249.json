@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Mixue - Tr\u1ea7n Ph\u00fa",
+    "address": "96 Tr\u1ea7n Ph\u00fa (C\u0103ng Tin HV B\u01b0u Ch\u00ednh Vi\u1ec5n Th\u00f4ng), Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.2,
+        "location": 10.0,
+        "price": 9.5,
+        "quality": 9.5,
+        "service": 9.5,
+        "space": 7.5
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-mixue-tran-phu"
+}

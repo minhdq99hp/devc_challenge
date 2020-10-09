@@ -1,0 +1,25 @@
+{
+    "name": "Tiger Sugar Delivery - \u0110\u01b0\u1eddng N\u00e2u S\u1eefa \u0110\u00e0i Loan - H\u00e0m Nghi",
+    "address": "B4-26 Vinhomes Gardenia, H\u00e0m Nghi, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.0,
+        "location": 9.5,
+        "price": 9.5,
+        "service": 9.0,
+        "space": 8.8,
+        "quality": 8.0
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tigersugar-delivery-duong-nau-sua-ham-nghi"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "XINYI - C\u01a1m V\u1ecbt Quay, G\u00e0 N\u01b0\u1edbng & Ch\u00e8 Kem \u0110\u00e0i Loan - T\u00f4 Hi\u1ec7u",
+    "address": "102D2 Ng\u00e1ch 1 Ng\u00f5 233 T\u00f4 Hi\u1ec7u, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.1,
+        "quality": 8.9,
+        "price": 8.4,
+        "service": 8.0,
+        "space": 7.9,
+        "location": 7.6
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/xinyi-com-vit-quay-ga-nuong-che-kem-dai-loan-to-hieu"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Yo Tea - Savico Long Bi\u00ean T\u1ea7ng B1",
+    "address": "T\u1ea7ng B1, TTTM Savico Long Bi\u00ean, 7 - 9 Nguy\u1ec5n V\u0103n Linh, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-yo-tea-savico-long-bien-tang-b1"
+}

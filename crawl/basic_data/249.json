@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan B\u00f2 Hu\u1ebf Nam Minh - \u0110\u1ed9i C\u1ea5n",
+    "address": "216 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.1,
+        "quality": 9.6,
+        "location": 9.4,
+        "price": 9.4,
+        "service": 9.0,
+        "space": 8.0
+    },
+    "review_count": 5,
+    "opening_time": "07:00",
+    "closing_time": "14:00 | 16:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-bo-hue-nam-minh-doi-can"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Nem R\u00e1n H\u00e0 Th\u00e0nh - Shop Online",
+    "address": "506A5 Ng\u00f5 29 L\u1ea1c Trung, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 7.5,
+        "location": 7.4,
+        "quality": 7.1,
+        "service": 7.1,
+        "space": 6.5
+    },
+    "review_count": 13,
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "min_price": "7.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nem-ran-ha-thanh-shop-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "H\u1ed9p \u0110\u1ee7 Ch\u1ea5t - \u0110\u1ed3 \u0102n Nh\u1eadt B\u1ea3n - Shop Online",
+    "address": "52 Ng\u00f5 232 Tr\u1ea7n \u0110i\u1ec1n, P. \u0110\u1ecbnh C\u00f4ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "price": 9.0,
+        "location": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "20.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/hop-du-chat-do-an-nhat-ban-shop-online"
+}

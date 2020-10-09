@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Bobapop - \u0110\u00e0o T\u1ea5n",
+    "address": "103 \u0110\u00e0o T\u1ea5n, P. Ng\u1ecdc Kh\u00e1nh, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "location": 7.7,
+        "quality": 7.6,
+        "service": 7.5,
+        "price": 7.4,
+        "space": 7.1
+    },
+    "review_count": 168,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "23.000",
+    "max_price": "48.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-bobapop-dao-tan"
+}

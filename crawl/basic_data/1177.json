@@ -1,0 +1,25 @@
+{
+    "name": "M\u00ec Tr\u1ed9n Indomie \u0110\u1ed9i C\u1ea5n - Shop Online",
+    "address": "3 Ng\u00f5 341 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.8,
+        "quality": 9.8,
+        "service": 9.3,
+        "price": 9.0,
+        "location": 8.3,
+        "space": 7.8
+    },
+    "review_count": 4,
+    "opening_time": "10:00",
+    "closing_time": "23:30",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mi-tron-indomie-doi-can-shop-online"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "H\u01b0\u01a1ng V\u1ecb Vi\u1ec7t - G\u00e0 R\u00e1n & Khoai Lang L\u1eafc - 148 B\u00f9i X\u01b0\u01a1ng Tr\u1ea1ch",
+    "address": "148 B\u00f9i X\u01b0\u01a1ng Tr\u1ea1ch, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.4,
+        "location": 8.0,
+        "price": 8.0,
+        "quality": 8.0,
+        "service": 7.0,
+        "space": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/huong-vi-viet-ga-ran-khoai-lang-lac-148-bui-xuong-trach"
+}

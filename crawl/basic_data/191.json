@@ -1,0 +1,25 @@
+{
+    "name": "Tutafood - Shop Online",
+    "address": "58 Ng\u00f5 204 T\u00f4n \u0110\u1ee9c Th\u1eafng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.9,
+        "service": 8.3,
+        "quality": 8.1,
+        "location": 8.0,
+        "price": 7.9,
+        "space": 7.4
+    },
+    "review_count": 28,
+    "opening_time": "11:00",
+    "closing_time": "20:00",
+    "min_price": "22.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tutafood-shop-online"
+}

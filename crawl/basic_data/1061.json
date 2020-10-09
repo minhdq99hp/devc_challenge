@@ -1,0 +1,25 @@
+{
+    "name": "Grille6 - Salad, Steak & Pasta - L\u00ea V\u0103n H\u01b0u",
+    "address": "21 L\u00ea V\u0103n H\u01b0u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 8.4,
+        "quality": 9.0,
+        "service": 9.0,
+        "location": 8.0,
+        "price": 8.0,
+        "space": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c2u",
+    "url": "https://www.foody.vn/ha-noi/grille6-salad-steak-pasta-le-van-huu"
+}

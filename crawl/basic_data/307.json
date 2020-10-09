@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - V\u0169 T\u00f4ng Phan",
+    "address": "307 V\u0169 T\u00f4ng Phan, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 7.5,
+        "service": 7.4,
+        "space": 7.3,
+        "price": 7.0,
+        "quality": 6.7
+    },
+    "review_count": 34,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-vu-tong-phan"
+}

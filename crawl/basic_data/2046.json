@@ -1,0 +1,23 @@
+{
+    "name": "Nem N\u01b0\u1edbng Hoa Gi\u1ea5y - Ch\u00e1nh Hi\u1ec7u \u0110\u1eb7ng V\u0103n Quy\u00ean Nha Trang",
+    "address": "108A1 Ng\u00f5 27 T\u1ea1 Quang B\u1eedu, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.0,
+        "service": 8.2,
+        "quality": 8.1,
+        "space": 7.9,
+        "location": 7.8,
+        "price": 7.7
+    },
+    "review_count": 50,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Nha Trang",
+    "url": "https://www.foody.vn/ha-noi/tiem-an-hoa-giay-nem-nuong-nha-trang"
+}

@@ -1,0 +1,26 @@
+{
+    "name": "Smoothies & Juices - Ng\u00f4 Quy\u1ec1n",
+    "address": "8B Ng\u00f4 Quy\u1ec1n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.1,
+        "location": 7.8,
+        "quality": 7.4,
+        "price": 7.0,
+        "service": 6.9,
+        "space": 6.7
+    },
+    "review_count": 28,
+    "opening_time": "09:00",
+    "closing_time": "23:59",
+    "min_price": "25.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/smoothies-juices-ngo-quyen"
+}

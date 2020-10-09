@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m T\u00f4 L\u01b0\u01a1ng - C\u01a1m S\u01b0\u1eddn & C\u01a1m G\u00e0",
+    "address": "6 Ng\u00f5 295 \u0110\u1ecbnh C\u00f4ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.3,
+        "price": 8.6,
+        "space": 8.6,
+        "quality": 8.2,
+        "location": 8.1,
+        "service": 7.9
+    },
+    "review_count": 9,
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-to-luong-com-suon-com-ga"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m B\u00e1nh Lula",
+    "address": "145 \u0110\u01b0\u1eddng 19/5, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 8.1,
+        "location": 8.9,
+        "service": 8.3,
+        "price": 7.9,
+        "quality": 7.9,
+        "space": 7.4
+    },
+    "review_count": 8,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/tiem-banh-lula"
+}

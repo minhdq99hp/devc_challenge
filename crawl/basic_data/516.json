@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u1ecb C\u00fac - B\u00fan Tr\u1ed9n Nam B\u1ed9 - Nguy\u1ec5n Tu\u00e2n",
+    "address": "174 Nguy\u1ec5n Tu\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "service": 6.8,
+        "price": 6.7,
+        "location": 6.6,
+        "space": 6.5,
+        "quality": 6.4
+    },
+    "review_count": 10,
+    "opening_time": "06:45",
+    "closing_time": "21:00",
+    "min_price": "45.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chi-cuc-bun-tron-nam-bo"
+}

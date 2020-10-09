@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n \u0102n C\u00f4 H\u1eb1ng - B\u00fan C\u00e1c M\u00f3n",
+    "address": "431 V\u0129nh H\u01b0ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.0,
+        "location": 6.0,
+        "price": 6.0,
+        "quality": 6.0,
+        "service": 6.0,
+        "space": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "16:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-an-co-hang-bun-cac-mon"
+}

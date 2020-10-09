@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh M\u00ec Umbala",
+    "address": "V\u01b0\u1eddn Hoa \u0110\u1ed9c L\u1eadp Ng\u00f5 35 Ng\u00f4 Th\u00ec S\u1ef9, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.1,
+        "location": 7.3,
+        "service": 7.3,
+        "space": 7.0,
+        "price": 6.9,
+        "quality": 6.8
+    },
+    "review_count": 9,
+    "opening_time": "06:30",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-umbala"
+}

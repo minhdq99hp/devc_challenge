@@ -1,0 +1,24 @@
+{
+    "name": "Master Tea \u7f8e\u8336 - L\u00f2 \u0110\u00fac",
+    "address": "184 L\u00f2 \u0110\u00fac, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 7.3,
+        "location": 7.2,
+        "quality": 7.1,
+        "service": 7.0,
+        "space": 6.8
+    },
+    "review_count": 218,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "26.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/master-tea"
+}
