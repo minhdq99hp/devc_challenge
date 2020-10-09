@@ -18,7 +18,7 @@ from selenium.webdriver.support import expected_conditions as EC
 if __name__ == '__main__':
     # start web driver
     options = webdriver.FirefoxOptions()
-    # options.headless = True
+    options.headless = True
     driver = webdriver.Firefox(options=options)
     print("Driver is started !")
 
