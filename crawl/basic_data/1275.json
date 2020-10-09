@@ -1,0 +1,25 @@
+{
+    "name": "D\u01b0\u01a1ng - C\u01a1m T\u1ea5m S\u00e0i G\u00f2n",
+    "address": "P115 C16 Thanh Xu\u00e2n B\u1eafc (\u0110\u1ea7u Nguy\u1ec5n Qu\u00fd \u0110\u1ee9c), Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.0,
+        "location": 6.4,
+        "price": 6.4,
+        "space": 6.3,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 7,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "25.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-duong-vu-huu"
+}

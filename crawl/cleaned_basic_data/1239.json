@@ -1,0 +1,25 @@
+{
+    "name": "Anh B\u00e9o - B\u00fan & B\u00e1nh \u0110a Tr\u1ed9n - Minh Khai",
+    "address": "22 Ng\u00f5 H\u00f2a B\u00ecnh 2, Minh Khai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.2,
+        "location": 9.0,
+        "space": 8.5,
+        "quality": 8.0,
+        "service": 8.0,
+        "price": 7.5
+    },
+    "review_count": 2,
+    "opening_time": "07:30",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/anh-beo-bun-banh-da-tron"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - Nguy\u1ec5n Huy T\u01b0\u1edfng",
+    "address": "To\u00e0 A, Imperial Garden, 203 Nguy\u1ec5n Huy T\u01b0\u1edfng, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.8,
+        "quality": 8.0,
+        "service": 8.0,
+        "space": 8.0,
+        "price": 7.7,
+        "location": 7.3
+    },
+    "review_count": 3,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "30.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-nguyen-huy-tuong"
+}

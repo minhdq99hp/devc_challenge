@@ -1,0 +1,25 @@
+{
+    "name": "Thanh S\u01a1n - Nem Chua R\u00e1n",
+    "address": "40 Ng\u00f5 T\u1ea1m Th\u01b0\u01a1ng, H\u00e0ng B\u00f4ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 5.0,
+        "location": 6.5,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "23:59",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thanh-son-nem-chua-ran"
+}

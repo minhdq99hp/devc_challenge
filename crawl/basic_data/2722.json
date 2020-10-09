@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u H\u1ea1 Long Qu\u1ea3ng Ninh - Ng\u1ecdc Tr\u00ec",
+    "address": "102 Ng\u1ecdc Tr\u00ec, T\u1ed5 7 C\u1ed5 Linh, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "5.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-ha-long-quang-ninh-co-linh"
+}

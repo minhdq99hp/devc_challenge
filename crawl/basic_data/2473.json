@@ -1,0 +1,24 @@
+{
+    "name": "G\u00e0 Ngon 58",
+    "address": "69 Ng\u00f5 32 Ph\u1ed1 \u0110\u1ed3ng Me, P. M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:30",
+    "closing_time": "23:00",
+    "min_price": "35.000",
+    "max_price": "350.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-ngon-58"
+}

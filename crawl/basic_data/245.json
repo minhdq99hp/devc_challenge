@@ -1,0 +1,24 @@
+{
+    "name": "C\u01a1m H\u1eb1ng Ph\u1ed1 C\u1ed5",
+    "address": "20B H\u00e0ng M\u00e0nh, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.2,
+        "price": 6.0,
+        "location": null,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 3,
+    "opening_time": "10:00",
+    "closing_time": "14:00",
+    "min_price": "45.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-hang-pho-co"
+}

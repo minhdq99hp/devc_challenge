@@ -1,0 +1,24 @@
+{
+    "name": "Tiger Sugar Fruit & Tea - C\u1eeda B\u1eafc",
+    "address": "88 C\u1eeda B\u1eafc, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.7,
+        "price": 7.1,
+        "service": 6.7,
+        "space": 6.7,
+        "location": 6.6,
+        "quality": 6.6
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-88-cua-bac"
+}

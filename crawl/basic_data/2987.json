@@ -1,0 +1,25 @@
+{
+    "name": "KOMBO - C\u01a1m Ni\u00eau Singapore - Nguy\u1ec5n C\u01a1 Th\u1ea1ch",
+    "address": "Ki \u1ed0t C3-4 Ch\u01b0ng C\u01b0 C3 Nguy\u1ec5n C\u01a1 Th\u1ea1ch, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.2,
+        "space": 6.8,
+        "location": 6.6,
+        "price": 6.4,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "110.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/kombo-com-nieu-singapore-nguyen-co-thach"
+}

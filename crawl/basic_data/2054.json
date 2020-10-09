@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u1ed0c S\u01b0\u1eddn C\u00f4 S\u00e1u - Nguy\u1ec5n Ho\u00e0ng",
+    "address": "26 Nguy\u1ec5n Ho\u00e0ng, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.4,
+        "space": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-oc-suon-co-sau-nguyen-hoang"
+}

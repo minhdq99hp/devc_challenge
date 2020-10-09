@@ -1,0 +1,25 @@
+{
+    "name": "H\u00e0 Th\u1ee7y - \u0110\u1ed3 H\u00e0n & \u0102n V\u1eb7t",
+    "address": "16BT1A K\u0110T V\u0103n Qu\u00e1n, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.2,
+        "space": 6.1,
+        "location": null,
+        "service": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 8,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/ha-thuy-do-han-an-vat"
+}

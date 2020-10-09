@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m V\u0103n Ph\u00f2ng & C\u01a1m Sinh Vi\u00ean Shop Online",
+    "address": "20 Ng\u00f5 325 Nguy\u1ec5n Khang, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 4.2,
+        "location": null,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "21:30",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-van-phong-com-sinh-vien-shop-online"
+}

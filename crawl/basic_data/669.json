@@ -1,0 +1,25 @@
+{
+    "name": "Bami Sot - B\u00e1nh M\u00ec \u0110en - K\u0110T T\u00e2y Nam Linh \u0110\u00e0m",
+    "address": "Kiot 4, T\u1eadp \u0110o\u00e0n Vinh Quang, K\u0110T T\u00e2y Nam Linh \u0110\u00e0m, P. Ho\u00e0ng Li\u1ec7t, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bami-sot-banh-mi-sot-kdt-tay-nam-linh-dam"
+}

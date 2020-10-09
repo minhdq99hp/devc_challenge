@@ -1,0 +1,25 @@
+{
+    "name": "T\u00e2n Gia Nh\u01b0 H\u1ea3i - \u0110\u1ed3 \u0102n V\u1eb7t - Shop Online",
+    "address": "20 Ng\u00f5 246 Xu\u00e2n \u0110\u1ec9nh, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "00:01",
+    "closing_time": "23:59",
+    "min_price": "10.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Indonesia",
+    "url": "https://www.foody.vn/ha-noi/tan-gia-nhu-hai-do-an-vat-shop-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ba Duy - C\u01a1m G\u00e0 X\u00e1 X\u00edu - Shop Online",
+    "address": "23 Ng\u00f5 251 Kim M\u00e3, P. Kim M\u00e3, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "45.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ba-duy-com-ga-xa-xiu-shop-online"
+}

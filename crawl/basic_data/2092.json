@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Yo Tea - Times City",
+    "address": "T\u1ea7ng B1, Times City, 458 Minh Khai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 3.9,
+        "quality": null,
+        "service": null,
+        "space": null,
+        "location": null,
+        "price": null
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-yo-tea-times-city"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u H\u1ea1 Long - B\u1ea1ch Mai",
+    "address": "431 B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.6,
+        "location": 7.8,
+        "quality": 7.8,
+        "service": 7.7,
+        "price": 7.3,
+        "space": 7.3
+    },
+    "review_count": 6,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-ha-long-bach-mai"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rau M\u00e1 Plus - Th\u01b0\u1ee3ng \u0110\u00ecnh",
+    "address": "24 Th\u01b0\u1ee3ng \u0110\u00ecnh, P. Th\u01b0\u1ee3ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/rau-ma-plus-thuong-dinh"
+}

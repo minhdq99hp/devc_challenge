@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp Nh\u00e0 B\u00f4ng - C\u01a1m V\u0103n Ph\u00f2ng Online - Ch\u1ee3 Kh\u00e2m Thi\u00ean",
+    "address": "43 Ng\u00e1ch 59 Ng\u00f5 100 ng\u00f5 Ch\u1ee3 Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "35.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-nha-bong-com-van-phong-online-cho-kham-thien"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "KYANI - C\u01a1m Bento & \u0110\u1ed3 \u0102n Phong C\u00e1ch Nh\u1eadt B\u1ea3n - \u0110\u01b0\u1eddng L\u00e1ng",
+    "address": "1124 \u0110\u01b0\u1eddng L\u00e1ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.9,
+        "price": null,
+        "service": null,
+        "space": null,
+        "location": null,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/kyani-com-bento-do-an-phong-cach-nhat-ban-xuan-thuy"
+}

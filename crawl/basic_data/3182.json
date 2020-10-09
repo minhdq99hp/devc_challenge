@@ -1,0 +1,25 @@
+{
+    "name": "Pasta Deli - M\u00ec \u00dd & G\u00e0 R\u00e1n - Th\u00e1i Th\u1ecbnh",
+    "address": "38 Ng\u00f5 113 Th\u00e1i Th\u1ecbnh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u00dd",
+    "url": "https://www.foody.vn/ha-noi/pasta-deli-mi-y-ga-ran-thai-thinh"
+}

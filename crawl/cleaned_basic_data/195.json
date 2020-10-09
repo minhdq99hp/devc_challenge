@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Feeling Tea - Gi\u1ea3ng V\u00f5",
+    "address": "155 Gi\u1ea3ng V\u00f5, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "price": 7.8,
+        "location": 7.6,
+        "quality": 7.1,
+        "service": 6.7,
+        "space": 6.7
+    },
+    "review_count": 152,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "10.000",
+    "max_price": "22.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-feeling-tea-giang-vo"
+}

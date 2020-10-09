@@ -1,0 +1,24 @@
+{
+    "name": "Cha Go Tea & Caf'e - Tr\u1ea7n H\u01b0ng \u0110\u1ea1o",
+    "address": "68B Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.9,
+        "location": 6.4,
+        "price": 6.2,
+        "space": 6.2,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 5,
+    "opening_time": "08:30",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/cha-go-tea-caf-e-tran-hung-dao"
+}

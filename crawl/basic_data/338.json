@@ -1,0 +1,25 @@
+{
+    "name": "Nh\u1ea5t Ch\u00e1o - Nguy\u1ec5n Kh\u00e1nh To\u00e0n",
+    "address": "1 Ng\u00f5 5 Nguy\u1ec5n Kh\u00e1nh To\u00e0n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "quality": 6.3,
+        "service": 6.3,
+        "location": 6.2,
+        "price": 6.2,
+        "space": 6.2
+    },
+    "review_count": 13,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "300.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/nhat-chao-nguyen-khanh-toan"
+}

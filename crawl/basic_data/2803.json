@@ -1,0 +1,25 @@
+{
+    "name": "Gymfood - \u0110\u1ed3 \u0102n Gi\u1ea3m C\u00e2n - Shop Online",
+    "address": "101 Gi\u00e1p B\u00e1t, P. Gi\u00e1p B\u00e1t, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "14:00",
+    "min_price": "45.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/gymfood-do-an-giam-can-shop-online"
+}

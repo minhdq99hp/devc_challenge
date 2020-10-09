@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 Lu\u1ed9c Ch\u00edn Ch\u00edn - Shop Online - Gi\u00e1p B\u00e1t",
+    "address": "96 Gi\u00e1p B\u00e1t, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.8,
+        "price": 9.1,
+        "location": 8.1,
+        "quality": 7.3,
+        "service": 7.3,
+        "space": 7.1
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "99.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-luoc-chin-chin-shop-online"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "C\u00f4 Hu\u1ec7 - B\u00e1nh \u0110a Cua \u0110\u1ed3ng",
+    "address": "162 Ch\u00f9a L\u00e1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.6,
+        "price": 6.0,
+        "location": null,
+        "service": null,
+        "quality": null,
+        "space": null
+    },
+    "review_count": 10,
+    "opening_time": "07:00",
+    "closing_time": "15:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-hue-banh-da-cua-dong"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp M\u1ed9c - C\u01a1m T\u1ea5m S\u01b0\u1eddn N\u01b0\u1edbng",
+    "address": "14 Ng\u00f5 44 Nh\u00e2n Ho\u00e0, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.6,
+        "location": null,
+        "space": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "14:00",
+    "min_price": "30.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-moc-com-tam-suon-nuong"
+}

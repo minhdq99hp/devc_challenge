@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u00ea\u0323m Ba\u0301nh C\u00f4 B\u00f4\u0301ng - Shop Online",
+    "address": "4A9, TT. H\u1ecdc Vi\u1ec7n Nguy\u1ec5n \u00c1i Qu\u1ed1c, Ng\u00f5 66 \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.6,
+        "location": 9.6,
+        "quality": 9.6,
+        "service": 9.6,
+        "space": 9.6,
+        "price": 9.4
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-banh-co-bong-shop-online"
+}

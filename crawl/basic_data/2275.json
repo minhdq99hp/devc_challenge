@@ -1,0 +1,21 @@
+{
+    "name": "Le Monde Steak - Vincom B\u00e0 Tri\u1ec7u",
+    "address": "Gh - L5 - 01, T\u00f2a A Vincom Center B\u00e0 Tri\u1ec7u, 191 B\u00e0 Tri\u1ec7u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 8.6,
+        "location": 8.7,
+        "price": 8.6,
+        "quality": 8.6,
+        "space": 8.5,
+        "service": 8.4
+    },
+    "review_count": 17,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "100.000",
+    "max_price": "200.000",
+    "audiences": null,
+    "cuisine": "Ph\u00e1p",
+    "url": "https://www.foody.vn/ha-noi/le-monde-steak-vincom-ba-trieu"
+}

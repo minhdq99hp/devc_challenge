@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa LeeTee - X\u00e3 \u0110\u00e0n",
+    "address": "157 X\u00e3 \u0110\u00e0n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.4,
+        "location": 7.8,
+        "service": 7.5,
+        "space": 7.5,
+        "quality": 7.3,
+        "price": 6.9
+    },
+    "review_count": 148,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/leetee-tea-juice"
+}

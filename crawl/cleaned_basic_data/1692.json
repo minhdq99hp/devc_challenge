@@ -1,0 +1,24 @@
+{
+    "name": "D\u0169ng H\u1ea1nh - B\u00e1nh M\u00ec Gi\u00f2 Ch\u1ea3 - Nguy\u00ean H\u1ed3ng",
+    "address": "26 Nguy\u00ean H\u1ed3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.6,
+        "price": 8.3,
+        "location": 8.2,
+        "service": 7.3,
+        "quality": 7.2,
+        "space": 6.8
+    },
+    "review_count": 6,
+    "opening_time": "06:00",
+    "closing_time": "19:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/dung-hanh-banh-mi-gio-cha-nguyen-hong"
+}

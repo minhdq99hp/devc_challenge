@@ -1,0 +1,24 @@
+{
+    "name": "L\u1eafc Tea - Tr\u00e0 T\u1eafc X\u00ed Mu\u1ed9i - Kh\u01b0\u01a1ng Th\u01b0\u1ee3ng",
+    "address": "69 kh\u01b0\u01a1ng Th\u01b0\u1ee3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.6,
+        "price": 10.0,
+        "location": 8.0,
+        "quality": 8.0,
+        "space": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "8.000",
+    "max_price": "20.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/lac-tea-tra-tac-xi-muoi-khuong-thuong"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Hoa B\u00e9o - Nem N\u01b0\u1edbng Ninh H\u00f2a - Nguy\u1ec5n Tr\u00e3i",
+    "address": "90 Ng\u00f5 72 Nguy\u1ec5n Tr\u00e3i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.0,
+        "location": 8.0,
+        "price": 8.0,
+        "quality": 8.0,
+        "service": 8.0,
+        "space": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "min_price": "5.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hoa-beo-nem-nuong-ninh-hoa-nguyen-trai"
+}

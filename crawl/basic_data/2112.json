@@ -1,0 +1,24 @@
+{
+    "name": "G\u00e0 T\u01b0\u01a1i M\u1ea1nh Ho\u1ea1ch - Ph\u00fa L\u01b0\u01a1ng",
+    "address": "215 T\u1ed5 1, P. Ph\u00fa L\u01b0\u01a1ng, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.1,
+        "location": 6.5,
+        "price": 6.5,
+        "space": 6.5,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 4,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-tuoi-manh-hoach-phu-luong"
+}

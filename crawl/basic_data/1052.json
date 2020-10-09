@@ -1,0 +1,25 @@
+{
+    "name": "Korea House - \u0110\u1ed3 \u0102n H\u00e0n Qu\u1ed1c - Do\u00e3n K\u1ebf Thi\u1ec7n",
+    "address": "89 Do\u00e3n K\u1ebf Thi\u1ec7n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.1,
+        "location": null,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 66,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/korea-house-do-an-han-quoc"
+}

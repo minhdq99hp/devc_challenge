@@ -1,0 +1,24 @@
+{
+    "name": "V\u0169 Thu H\u1eb1ng - C\u01a1m Ngon Hanoi - Shop Online - B\u1ea1ch Mai",
+    "address": "101 B10 T\u1eadp Th\u1ec3 Tr\u1ea1i G\u0103ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 4.7,
+        "price": null,
+        "location": null,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 3,
+    "opening_time": "08:30",
+    "closing_time": "21:30",
+    "min_price": "44.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/vu-thu-hang-com-ngon-hanoi-shop-online-bach-mai"
+}

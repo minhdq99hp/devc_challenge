@@ -1,0 +1,24 @@
+{
+    "name": "M\u1ed9c Qu\u00e1n - \u0110\u1ec7 Nh\u1ea5t G\u00e0 - K\u0110T V\u0103n Kh\u00ea",
+    "address": "\u00d4 33 Li\u1ec1n K\u1ec1 6 K\u0110T V\u0103n Kh\u00ea, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "45.000",
+    "max_price": "500.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/moc-quan-de-nhat-ga"
+}

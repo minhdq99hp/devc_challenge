@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh M\u00ec Que Ph\u00e1p - Ng\u00f5 V\u0103n Ch\u01b0\u01a1ng 2",
+    "address": "122 Ng\u00f5 V\u0103n Ch\u01b0\u01a1ng 2, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:00",
+    "closing_time": "20:00",
+    "min_price": "4.000",
+    "max_price": "20.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-que-phap-ngo-van-chuong-2"
+}

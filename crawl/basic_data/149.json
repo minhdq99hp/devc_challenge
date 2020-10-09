@@ -1,0 +1,24 @@
+{
+    "name": "Yihetang - Tr\u00e0 S\u1eefa N\u01b0\u1edbng - Quang Trung",
+    "address": "109D Quang Trung, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 2.3,
+        "location": null,
+        "service": null,
+        "price": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/yihetang-tra-sua-nuong-quang-trung"
+}

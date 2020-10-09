@@ -1,0 +1,24 @@
+{
+    "name": "C\u00f4 M\u1ef9 - C\u01a1m V\u0103n Ph\u00f2ng - Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch",
+    "address": "C9A Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch (\u0110\u1ed1i Di\u1ec7n 48 Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.1,
+        "price": 6.5,
+        "location": 6.2,
+        "space": 6.0,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 32,
+    "opening_time": "10:00",
+    "closing_time": "14:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-my-com-van-phong"
+}

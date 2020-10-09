@@ -1,0 +1,21 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - L\u00fd Th\u01b0\u1eddng Ki\u1ec7t",
+    "address": "4 L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, P. Phan Chu Trinh, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.4,
+        "space": 7.9,
+        "location": 7.7,
+        "service": 7.4,
+        "quality": 7.3,
+        "price": 7.0
+    },
+    "review_count": 25,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "30.000",
+    "max_price": "70.000",
+    "audiences": null,
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-ly-thuong-kiet"
+}

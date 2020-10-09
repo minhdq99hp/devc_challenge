@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp T\u0103m - C\u01a1m Ngon V\u0103n Ph\u00f2ng",
+    "address": "185 \u0110\u1eb7ng Ti\u1ebfn \u0110\u00f4ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-tam-bun-mien-tron"
+}

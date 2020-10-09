@@ -1,0 +1,25 @@
+{
+    "name": "Ng\u1ecdc - Ch\u00e1o L\u00f2ng Ngon & B\u00fan \u0110\u1eadu M\u1eb9t",
+    "address": "50 Gi\u1ea3ng V\u00f5, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.3,
+        "location": 7.0,
+        "price": 6.5,
+        "quality": 6.5,
+        "service": 6.5,
+        "space": null
+    },
+    "review_count": 2,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ngoc-chao-long-ngon-bun-dau-met"
+}

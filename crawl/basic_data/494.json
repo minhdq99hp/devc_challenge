@@ -1,0 +1,24 @@
+{
+    "name": "Khoa G\u00e0 - G\u00e0 Kh\u00f4ng L\u1ed1i Tho\u00e1t Online - Tr\u1ea7n Huy Li\u1ec7u",
+    "address": "104 D5 Tr\u1ea7n Huy Li\u1ec7u, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 3.2,
+        "location": null,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "10:00",
+    "closing_time": "23:59",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/khoa-ga-ga-khong-loi-thoat-online"
+}

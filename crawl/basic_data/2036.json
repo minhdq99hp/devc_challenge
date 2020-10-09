@@ -1,0 +1,24 @@
+{
+    "name": "C\u00f4 Thoa - C\u01a1m Rang X\u00e1 X\u00edu",
+    "address": "10 Ng\u00f5 Tr\u00e0ng Ti\u1ec1n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8, ",
+    "scores": {
+        "avg_score": 5.9,
+        "location": 6.7,
+        "price": 6.5,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 11,
+    "opening_time": "07:00",
+    "closing_time": "19:00",
+    "min_price": "5.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-thoa-com-rang-xa-xiu"
+}

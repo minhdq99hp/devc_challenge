@@ -1,0 +1,24 @@
+{
+    "name": "Gourmet Salad - Shop Online",
+    "address": "47K Khu Nh\u00e0 47 Ng\u00f5 27 V\u00f5ng Th\u1ecb, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.0,
+        "quality": 7.5,
+        "service": 7.5,
+        "location": 7.0,
+        "space": 6.9,
+        "price": 6.1
+    },
+    "review_count": 22,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "85.000",
+    "max_price": "115.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/gourmet-salad-shop-online"
+}

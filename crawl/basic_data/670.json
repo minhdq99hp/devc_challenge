@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 T\u00e2m Dung - \u0110\u1ea1i H\u1ecdc Th\u1ee7y L\u1ee3i",
+    "address": "Kiot 2 C\u1ed5ng Sau \u0110\u1ea1i H\u1ecdc Th\u1ee7y L\u1ee3i, Ng\u00f5 165 Ch\u00f9a B\u1ed9c, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "20.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-tam-dung-dai-hoc-thuy-loi"
+}

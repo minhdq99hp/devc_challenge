@@ -1,0 +1,25 @@
+{
+    "name": "Pizza Home - \u0110\u1ea1i C\u1ed3 Vi\u1ec7t",
+    "address": "28 \u0110\u1ea1i C\u1ed3 Vi\u1ec7t, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 3.1,
+        "price": null,
+        "location": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 75,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "165.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u00dd",
+    "url": "https://www.foody.vn/ha-noi/pizza-home-dai-co-viet"
+}

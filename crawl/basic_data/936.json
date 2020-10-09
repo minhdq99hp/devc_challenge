@@ -1,0 +1,25 @@
+{
+    "name": "Co\u031bm Ta\u0302\u0301m Anh Ba - Ta\u0323 Quang Bu\u031b\u0309u",
+    "address": "Cu\u1ed1i Ng\u00f5 1 T\u1ea1 Quang B\u1eedu (Ng\u00f5 Sau B\u1ed9 Gi\u00e1o D\u1ee5c), Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.3,
+        "service": 6.6,
+        "price": 6.5,
+        "quality": 6.5,
+        "location": 6.3,
+        "space": null
+    },
+    "review_count": 11,
+    "opening_time": "09:30",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Mi\u1ec1n Nam",
+    "url": "https://www.foody.vn/ha-noi/anh-ba-com-tam-sai-gon-ta-quang-buu"
+}

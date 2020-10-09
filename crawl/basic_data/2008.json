@@ -1,0 +1,25 @@
+{
+    "name": "\u00dd Nh\u01b0 D\u01b0\u01a1ng - \u0110\u1ed3 \u0102n H\u00e0n Qu\u1ed1c Online",
+    "address": "145A Ng\u00f5 209 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:30",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/y-nhu-duong-do-an-han-quoc-online"
+}

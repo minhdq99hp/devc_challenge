@@ -1,0 +1,25 @@
+{
+    "name": "\u0102n V\u1eb7t Nh\u00e0 Chu\u1ed1i - Ph\u1edf Cu\u1ed1n & N\u01b0\u1edbc \u00c9p Online",
+    "address": "8 Ng\u00f5 599/16/1 Ph\u1ea1m V\u0103n \u0110\u1ed3ng, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-vat-nha-chuoi-pho-cuon-nuoc-ep-online"
+}

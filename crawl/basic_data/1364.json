@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u H\u1ea1 Long - T\u00e2n Mai",
+    "address": "116 T\u00e2n Mai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.5,
+        "service": 7.5,
+        "space": 7.5,
+        "price": 6.0,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-ha-long-tan-mai"
+}

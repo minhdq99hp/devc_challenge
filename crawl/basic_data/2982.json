@@ -1,0 +1,25 @@
+{
+    "name": "KOMBO - C\u01a1m Ni\u00eau Singapore - Nguy\u1ec5n Phong S\u1eafc",
+    "address": "86 Nguy\u1ec5n Phong S\u1eafc, P. D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.2,
+        "location": 7.0,
+        "space": 6.4,
+        "quality": null,
+        "service": null,
+        "price": null
+    },
+    "review_count": 92,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "110.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Singapore",
+    "url": "https://www.foody.vn/ha-noi/kombo-com-nieu-singapore-nguyen-phong-sac"
+}

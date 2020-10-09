@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m S\u01b0\u1eddn N\u01b0\u1edbng - L\u00f2 \u0110\u00fac",
+    "address": "87 L\u00f2 \u0110\u00fac, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.0,
+        "location": 6.7,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 31,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-suon-nuong-lo-duc"
+}

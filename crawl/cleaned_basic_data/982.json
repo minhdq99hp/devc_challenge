@@ -1,0 +1,24 @@
+{
+    "name": "My Healthy Corner - Shop Online",
+    "address": "14 Ng\u00f5 8 B\u00f9i Ng\u1ecdc D\u01b0\u01a1ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.7,
+        "service": 6.9,
+        "quality": 6.9,
+        "price": 6.7,
+        "location": 6.6,
+        "space": 6.4
+    },
+    "review_count": 57,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "35.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/my-healthy-corner-shop-online"
+}

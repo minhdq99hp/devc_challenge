@@ -1,0 +1,25 @@
+{
+    "name": "Ho\u00e0ng Th\u00e0nh - C\u01a1m G\u00e0 & C\u01a1m S\u01b0\u1eddn",
+    "address": "75 V\u0169 H\u1eefu, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "14:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hoang-thanh-com-ga-com-suon"
+}

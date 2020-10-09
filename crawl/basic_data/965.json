@@ -1,0 +1,25 @@
+{
+    "name": "Tiger Sugar Delivery - \u0110\u01b0\u1eddng N\u00e2u S\u1eefa \u0110\u00e0i Loan - V\u0129nh Tuy",
+    "address": "18 V\u0129nh Tuy, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.0,
+        "price": 10.0,
+        "location": 9.0,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:30",
+    "closing_time": "23:00",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-delivery-duong-nau-sua-dai-loan-vinh-tuy"
+}

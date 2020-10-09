@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua D\u1ebbo - B\u1ea1ch Mai",
+    "address": "226 B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.1,
+        "quality": 7.6,
+        "price": 7.3,
+        "service": 7.1,
+        "location": 6.9,
+        "space": 6.9
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-deo-bach-mai"
+}

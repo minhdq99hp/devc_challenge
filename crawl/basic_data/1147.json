@@ -1,0 +1,25 @@
+{
+    "name": "Oyakodon - C\u01a1m G\u00e0 Nh\u1eadt B\u1ea3n Online - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "21 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 1.7,
+        "price": null,
+        "quality": null,
+        "location": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 9,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/oyakodon-com-ga-nhat-ban-online"
+}

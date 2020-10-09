@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e1o Dinh D\u01b0\u1ee1ng Duy\u00ean H\u1ea3i",
+    "address": "56 \u0110\u01b0\u1eddng 19 Th\u00e1ng 5, K\u0110T V\u0103n Qu\u00e1n, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-dinh-duong-duyen-hai"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - H\u1ed3 G\u01b0\u01a1m Plaza",
+    "address": "T\u1ea7ng 1,\u00a0T\u1ea7ng 1, H\u1ed3 G\u01b0\u01a1m Plaza, 110 Tr\u1ea7n Ph\u00fa, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 6.8,
+        "service": 6.6,
+        "price": 6.5,
+        "quality": 6.4,
+        "space": 6.1
+    },
+    "review_count": 28,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-ho-guom-plaza"
+}

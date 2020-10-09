@@ -1,0 +1,24 @@
+{
+    "name": "Quequefood - \u0110\u1ed3 \u0102n H\u00e0n Qu\u1ed1c Online",
+    "address": "15 Ng\u00e1ch 134 Ng\u00f5 1277 Gi\u1ea3i Ph\u00f3ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.3,
+        "quality": 8.7,
+        "service": 8.7,
+        "price": 8.5,
+        "location": 7.9,
+        "space": 7.5
+    },
+    "review_count": 10,
+    "opening_time": "09:00",
+    "closing_time": "13:30 | 16:00",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/quequefood-do-an-han-quoc-online"
+}

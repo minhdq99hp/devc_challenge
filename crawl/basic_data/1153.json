@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Ngon H\u1ea3i H\u1eadu - Shop Online",
+    "address": "1 Ng\u00f5 40/8 Ch\u00ednh Kinh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hai-hau-com-ngon-online"
+}

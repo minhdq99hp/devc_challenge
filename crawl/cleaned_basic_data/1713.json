@@ -1,0 +1,25 @@
+{
+    "name": "LeeTee Yogurt - S\u1eefa Chua Tr\u00e2n Ch\u00e2u H\u1ea1 Long - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "187 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.2,
+        "price": 9.4,
+        "space": 9.4,
+        "service": 9.2,
+        "location": 9.0,
+        "quality": 9.0
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/leetee-yogurt-sua-chua-tran-chau-ha-long-tran-dai-nghia"
+}

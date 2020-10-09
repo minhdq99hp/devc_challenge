@@ -1,0 +1,25 @@
+{
+    "name": "Saukun Chicken - G\u00e0 R\u00e1n Online - H\u00e0m T\u1eed Quan",
+    "address": "14 Ng\u00f5 128 H\u00e0m T\u1eed Quan, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.2,
+        "service": 8.1,
+        "price": 7.5,
+        "location": 7.4,
+        "quality": 7.3,
+        "space": null
+    },
+    "review_count": 8,
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/saukun-chicken-ga-ran-online-ham-tu-quan"
+}

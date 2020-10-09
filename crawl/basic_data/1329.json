@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Minh Nh\u1eadt - K\u0110T B\u1eafc Linh \u0110\u00e0m",
+    "address": "Ki \u1ed0t 4, HH1A, K\u0110T B\u1eafc Linh \u0110\u00e0m, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 4.9,
+        "space": null,
+        "location": null,
+        "price": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 10,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-minh-nhat-kdt-bac-linh-dam"
+}

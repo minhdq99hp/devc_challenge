@@ -1,0 +1,24 @@
+{
+    "name": "Ng\u1ecdc Linh Food - Qu\u1ea9y \u0110\u00f9i G\u00e0",
+    "address": "20 Nguy\u1ec5n Tu\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.5,
+        "quality": 9.7,
+        "service": 9.6,
+        "price": 9.5,
+        "location": 9.3,
+        "space": 9.2
+    },
+    "review_count": 130,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ngoc-linh-food-quay-dui-ga"
+}

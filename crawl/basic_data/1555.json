@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp C\u00f4 3 - C\u01a1m S\u01b0\u1eddn Cay",
+    "address": "8 Ho\u00e0ng C\u1ea7u, P. \u00d4 Ch\u1ee3 D\u1eeba, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "11:00",
+    "closing_time": "21:30",
+    "min_price": "15.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-co-3-com-suon-cay"
+}

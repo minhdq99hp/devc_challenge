@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - Nguy\u1ec5n V\u0103n T\u1ed1",
+    "address": "2 Nguy\u1ec5n V\u0103n T\u1ed1, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 7.8,
+        "quality": 6.6,
+        "price": 6.0,
+        "service": null,
+        "space": null
+    },
+    "review_count": 20,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "42.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-nguyen-van-to"
+}

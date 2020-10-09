@@ -1,0 +1,25 @@
+{
+    "name": "Crepes Box - Fastfood & Drinks - Nguy\u1ec5n An Ninh",
+    "address": "25A Nguy\u1ec5n An Ninh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 2,
+    "opening_time": "06:30",
+    "closing_time": "18:30",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/crepes-box-fastfood-drinks-nguyen-an-ninh"
+}

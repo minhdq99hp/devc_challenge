@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp T\u00e2m - C\u01a1m V\u0103n Ph\u00f2ng",
+    "address": "32 V\u0169 H\u1eefu, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.8,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "location": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-tam-com-van-phong"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "V\u0169 Thu H\u1eb1ng - Gimbap Hanoi - Ch\u1ee3 Kh\u00e2m Thi\u00ean - Shop Online",
+    "address": "6B Ng\u00e1ch 9 Ng\u00f5 143 Ch\u1ee3 Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 3.5,
+        "location": null,
+        "space": null,
+        "price": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "120.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/vu-thu-hang-gimbap-hanoi-hong-ha-shop-online"
+}

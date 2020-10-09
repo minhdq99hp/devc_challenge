@@ -1,0 +1,24 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - M\u1ef9 \u0110\u00ecnh",
+    "address": "36 L\u00ea \u0110\u1ee9c Th\u1ecd, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 7.0,
+        "space": 6.9,
+        "service": 6.3,
+        "quality": 6.2,
+        "price": null
+    },
+    "review_count": 27,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "25.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-my-dinh"
+}

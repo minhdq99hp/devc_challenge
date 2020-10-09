@@ -1,0 +1,24 @@
+{
+    "name": "Th\u1ee7y - Ph\u1edf G\u00e0 Ta & B\u00fan Thang",
+    "address": "5 Ng\u00f5 168 Trung K\u00ednh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 8.0,
+        "space": 8.0,
+        "quality": 6.0,
+        "service": 6.0,
+        "price": null
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thuy-pho-ga-ta-bun-thang"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp M\u1eb9 Shin - S\u00fap Cua Online - Phan Huy Ch\u00fa",
+    "address": "9A Ng\u00f5 Phan Huy Ch\u00fa, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.4,
+        "location": 9.4,
+        "price": 9.4,
+        "quality": 9.4,
+        "service": 9.4,
+        "space": 9.2
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "23:59",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-me-shin-sup-cua-online-phan-huy-chu"
+}

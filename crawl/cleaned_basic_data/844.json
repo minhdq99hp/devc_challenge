@@ -1,0 +1,25 @@
+{
+    "name": "BUMTRO - B\u00fan Tr\u1ed9n Nam B\u1ed9 - Ph\u1ea1m V\u0103n \u0110\u1ed3ng",
+    "address": "10B Ng\u00f5 6 Ph\u1ea1m V\u0103n \u0110\u1ed3ng (C\u1ea1nh B\u1ed9 C\u00f4ng An), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "space": 8.6,
+        "price": 8.4,
+        "quality": 8.4,
+        "service": 8.4,
+        "location": 8.3
+    },
+    "review_count": 10,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-tron-nam-bo-pham-van-dong"
+}

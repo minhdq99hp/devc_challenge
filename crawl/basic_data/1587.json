@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan Ch\u1ea3 & Ph\u1edf Cu\u1ed1n - Do\u00e3n K\u1ebf Thi\u1ec7n",
+    "address": "54 Ng\u00f5 105 Do\u00e3n K\u1ebf Thi\u1ec7n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-pho-thap-cam-doan-ke-thien"
+}

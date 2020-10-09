@@ -1,0 +1,26 @@
+{
+    "name": "C\u01a1m G\u00e0 S\u01a1n La - Xu\u00e2n Th\u1ee7y",
+    "address": "18 Ng\u00f5 133 Xu\u00e2n Thu\u1ef7, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ga-son-la-xuan-thuy"
+}

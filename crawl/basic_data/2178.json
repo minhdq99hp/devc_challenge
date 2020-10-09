@@ -1,0 +1,25 @@
+{
+    "name": "An Nam Ch\u00e1o - H\u00e0m Nghi",
+    "address": "\u0110\u1ea7u Ng\u00f5 4 H\u00e0m Nghi, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.6,
+        "location": null,
+        "space": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "85.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-nam-chao-ham-nghi"
+}

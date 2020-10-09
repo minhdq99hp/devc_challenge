@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u00e1m \u0110i\u1ec7n Bi\u00ean - Tr\u1ea7n Qu\u1ed1c Ho\u00e0n",
+    "address": "8 Ng\u00f5 31/26 Tr\u1ea7n Qu\u1ed1c Ho\u00e0n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.2,
+        "quality": 6.8,
+        "service": 6.8,
+        "price": 6.7,
+        "space": 6.5
+    },
+    "review_count": 6,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-dien-bien-tran-quoc-hoan"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n C\u00f4 Mai - X\u00f4i, Ch\u00e1o & S\u1ed1t Vang",
+    "address": "24 Ng\u00f5 72 Nguy\u1ec5n Tr\u00e3i, P. Th\u01b0\u1ee3ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-co-mai-xoi-chao-sot-vang"
+}

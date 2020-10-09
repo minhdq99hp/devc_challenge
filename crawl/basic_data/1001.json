@@ -1,0 +1,25 @@
+{
+    "name": "COFIL Kitchen - \u0110\u1ed3 \u0102n Nhanh - Tam Trinh",
+    "address": "31 Ng\u00f5 243 Tam Trinh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.8,
+        "price": 8.0,
+        "quality": 8.0,
+        "service": 8.0,
+        "location": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "23:59",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cofil-kitchen-do-an-nhanh-tam-trinh"
+}

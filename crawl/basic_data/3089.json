@@ -1,0 +1,21 @@
+{
+    "name": "Ph\u01b0\u01a1ng Dung - C\u01a1m \u0110\u1ea3o G\u00e0 Rang & Chim Quay - T\u1ed1ng Duy T\u00e2n",
+    "address": "24 T\u1ed1ng Duy T\u00e2n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.9,
+        "quality": 8.3,
+        "price": 7.3,
+        "location": 6.7,
+        "space": 6.7,
+        "service": null
+    },
+    "review_count": 3,
+    "opening_time": "10:30",
+    "closing_time": "23:59",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": null,
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phuong-dung-com-ga-chim-quay-tong-duy-tan"
+}

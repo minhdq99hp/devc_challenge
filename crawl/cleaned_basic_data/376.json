@@ -1,0 +1,25 @@
+{
+    "name": "PuMin - C\u01a1m V\u0103n Ph\u00f2ng & \u0110\u1ed3 \u0102n V\u1eb7t Online",
+    "address": "3 Ng\u00e1ch 11 Ng\u00f5 105 Y\u00ean H\u00f2a, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.3,
+        "location": 7.9,
+        "service": 7.5,
+        "price": 7.2,
+        "quality": 6.9,
+        "space": 6.9
+    },
+    "review_count": 10,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pumin-com-van-phong-do-an-vat-online"
+}

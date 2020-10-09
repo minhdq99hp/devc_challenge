@@ -1,0 +1,25 @@
+{
+    "name": "Bami King - B\u00e1nh M\u00ec B\u00f2 N\u01b0\u1edbng - Qu\u00e1n Th\u00e1nh",
+    "address": "56 Qu\u00e1n Th\u00e1nh, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.3,
+        "location": 8.5,
+        "price": 8.5,
+        "space": 8.5,
+        "quality": 8.0,
+        "service": 8.0
+    },
+    "review_count": 2,
+    "opening_time": "06:30",
+    "closing_time": "22:00",
+    "min_price": "29.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bami-king-banh-mi-bo-nuong-quan-thanh"
+}

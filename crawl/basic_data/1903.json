@@ -1,0 +1,24 @@
+{
+    "name": "Nem N\u01b0\u1edbng Nha Trang C\u00f4 H\u01a1n - Ch\u00f9a H\u00e0",
+    "address": "\u0110\u1ed1i Di\u1ec7n 44 Ng\u00f5 86 Ch\u00f9a H\u00e0 (69 Ng\u00f5 12 Nguy\u1ec5n V\u0103n Huy\u00ean), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.4,
+        "price": 7.2,
+        "quality": 6.9,
+        "location": 6.4,
+        "service": null,
+        "space": null
+    },
+    "review_count": 118,
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Qu\u1ea3ng",
+    "url": "https://www.foody.vn/ha-noi/nem-nuong-nha-trang-xuan-thuy"
+}

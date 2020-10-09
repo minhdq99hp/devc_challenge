@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Tuhu Bread - H\u00e0m T\u1eed Quan",
+    "address": "36 H\u00e0m T\u1eed Quan, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:10",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-tuhu-bread-chuong-duong-do"
+}

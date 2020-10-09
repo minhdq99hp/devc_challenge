@@ -1,0 +1,25 @@
+{
+    "name": "Tiger Sugar - Nguy\u1ec5n Huy T\u01b0\u1edfng",
+    "address": "270 Nguy\u1ec5n Huy T\u01b0\u1edfng, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 3.3,
+        "price": null,
+        "service": null,
+        "space": null,
+        "location": null,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "29.000",
+    "max_price": "62.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-nguyen-huy-tuong"
+}

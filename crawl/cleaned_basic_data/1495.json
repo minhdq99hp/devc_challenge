@@ -1,0 +1,24 @@
+{
+    "name": "Royaltea Vietnam By Hongkong - Xa La",
+    "address": "Chung C\u01b0 Newhouse, K\u0110T Xa La, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.8,
+        "service": 7.2,
+        "space": 6.8,
+        "location": 6.7,
+        "price": 6.6,
+        "quality": 6.6
+    },
+    "review_count": 22,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "65.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Trung Hoa",
+    "url": "https://www.foody.vn/ha-noi/royaltea-vietnam-by-hongkong-xa-la"
+}

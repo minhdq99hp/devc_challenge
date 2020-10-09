@@ -1,0 +1,24 @@
+{
+    "name": "Pizza Xtrum - Tr\u01b0\u01a1ng \u0110\u1ecbnh",
+    "address": "154 Tr\u01b0\u01a1ng \u0110\u1ecbnh, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "location": 7.1,
+        "space": 6.3,
+        "service": 6.2,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 13,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "40.000",
+    "max_price": "372.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pizza-xitrum-hoang-mai"
+}

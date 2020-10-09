@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Que Ki\u1ed1t \u00d4ng Th\u1ecd - Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh",
+    "address": "50 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 2.4,
+        "location": null,
+        "price": null,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": "06:00",
+    "closing_time": "19:30",
+    "min_price": "10.000",
+    "max_price": "17.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-que-kiot-ong-tho-nguyen-thi-dinh"
+}

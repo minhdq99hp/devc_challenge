@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m C\u00e1m - Hu\u1ef3nh Th\u00fac Kh\u00e1ng",
+    "address": "12 Ng\u00f5 16 Hu\u1ef3nh Th\u00fac Kh\u00e1ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.5,
+        "service": 6.7,
+        "space": 6.6,
+        "location": 6.5,
+        "price": 6.4,
+        "quality": 6.4
+    },
+    "review_count": 30,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-cam-huynh-thuc-khang"
+}

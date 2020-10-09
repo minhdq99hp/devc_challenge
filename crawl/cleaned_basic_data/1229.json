@@ -1,0 +1,25 @@
+{
+    "name": "M\u00ec Tr\u1ed9n Indomie - Xu\u00e2n \u0110\u1ec9nh",
+    "address": "4 Ng\u00f5 190 Xu\u00e2n \u0110\u1ec9nh, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.6,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": 9.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mi-tron-indomie-xuan-dinh"
+}

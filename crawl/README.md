@@ -22,9 +22,10 @@ id ở đây là index dòng ở trong urls.txt. Nếu đã có file ở trong b
 
 Chạy script `python crawl_basic_data.py`
 
-Kết quả đợt 1: bị fail khá nhiều, có thể là do một số trang bị thiếu dữ liệu. Sẽ điều chỉnh lại script sau đợt này.
+Kết quả đợt 1: bị fail khá nhiều, có thể là do một số trang bị thiếu dữ liệu. Sẽ điều chỉnh lại script sau đợt này. (Tổng cộng 1174 files)
+Để toàn bộ kết quả chạy succeeded vào thư mục `cleaned_basic_data/`
 
-Kết quả đợt 2:
+Kết quả đợt 2: chấp nhận những trang thiếu dữ liệu (Tổng cộng 3210 filé)
 
 ### 3. Crawl menu từ now_urls.txt
 Do đạt được kết quả thành công 100% ở task 1 thế nên sẽ crawl từ now thay vì crawl menu trong foody thì sử dụng luôn của Now.

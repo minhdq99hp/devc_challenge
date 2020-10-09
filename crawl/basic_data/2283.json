@@ -1,0 +1,25 @@
+{
+    "name": "GC - \u0102n V\u1eb7t N\u1ed9i \u0110\u1ecba Trung Qu\u1ed1c - Shop Online",
+    "address": "124A H\u1ebbm 30 Ng\u00e1ch 40 Ng\u00f5 358 B\u00f9i X\u01b0\u01a1ng Tr\u1ea1ch, P. Kh\u01b0\u01a1ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "23:59",
+    "min_price": "15.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Trung Hoa",
+    "url": "https://www.foody.vn/ha-noi/gc-an-vat-noi-dia-trung-quoc-shop-online"
+}

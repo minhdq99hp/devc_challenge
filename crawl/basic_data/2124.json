@@ -1,0 +1,25 @@
+{
+    "name": "M\u00ec V\u1eb1n Th\u1eafn - M\u00ec T\u01b0\u01a1i Gia Truy\u1ec1n Since 1950",
+    "address": "111 Ph\u1ed1 8-3, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.4,
+        "price": 7.6,
+        "quality": 6.6,
+        "service": 6.4,
+        "location": null,
+        "space": null
+    },
+    "review_count": 5,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mi-van-than-mi-tuoi-gia-truyen-since-1950"
+}

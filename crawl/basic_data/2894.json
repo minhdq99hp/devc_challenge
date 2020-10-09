@@ -1,0 +1,25 @@
+{
+    "name": "Kem Dairy Queen - Vincom Tr\u1ea7n Duy H\u01b0ng",
+    "address": "T\u1ea7ng 4 Vincom Center Tr\u1ea7n Duy H\u01b0ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Ch\u00e2u M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/kem-dairy-queen-vincom-tran-duy-hung"
+}

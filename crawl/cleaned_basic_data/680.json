@@ -1,0 +1,25 @@
+{
+    "name": "Chicken Now - C\u01a1m G\u00e0 Singapore",
+    "address": "1 Ng\u00f5 3B \u0110\u1eb7ng Th\u00e1i Th\u00e2n, P. Phan Chu Trinh, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.3,
+        "quality": 8.7,
+        "price": 8.6,
+        "location": 8.1,
+        "service": 8.0,
+        "space": 7.9
+    },
+    "review_count": 7,
+    "opening_time": "07:30",
+    "closing_time": "10:30",
+    "min_price": "25.000",
+    "max_price": "53.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chicken-now-com-ga-singapore"
+}

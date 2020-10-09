@@ -1,0 +1,25 @@
+{
+    "name": "Cha Go Tea & Caf'e - Nguy\u1ec5n Ch\u00ed Thanh",
+    "address": "126 Nguy\u1ec5n Ch\u00ed Thanh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.7,
+        "location": 7.9,
+        "space": 7.9,
+        "quality": 7.7,
+        "service": 7.5,
+        "price": 7.4
+    },
+    "review_count": 39,
+    "opening_time": "11:30",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/cha-go-tea-caf-e-nguyen-chi-thanh"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - Ph\u00fa Di\u1ec5n",
+    "address": "118 Ph\u00fa Di\u1ec5n, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.1,
+        "price": 6.6,
+        "space": 6.3,
+        "location": 6.2,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 12,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-phu-dien"
+}

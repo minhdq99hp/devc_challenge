@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp Nh\u00e0 X\u00f4i - X\u00f4i & B\u00e1nh M\u00ec",
+    "address": "P.213 C\u1ea7u Thang 2 A5 TT. Gi\u1ea3ng V\u00f5, 289 Kim M\u00e3, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-nha-xoi-xoi-banh-mi"
+}

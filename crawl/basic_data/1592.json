@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u1ed1c To\u1ea3n - B\u00fan, Mi\u1ebfn & B\u00e1nh \u0110a Tr\u1ed9n",
+    "address": "158 \u0110\u1ea1i T\u1eeb, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:30",
+    "closing_time": "20:30",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quoc-toan-bun-mien-banh-da-tron"
+}

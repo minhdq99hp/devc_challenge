@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u1ecb Em - B\u00e1nh Tr\u00e1ng N\u01b0\u1edbng",
+    "address": "KTX B10 \u0110\u1ea1i H\u1ecdc B\u00e1ch Khoa, 7 T\u1ea1 Quang B\u1eedu, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.3,
+        "price": 8.1,
+        "quality": 7.8,
+        "location": 7.1,
+        "service": 6.7,
+        "space": 6.6
+    },
+    "review_count": 70,
+    "opening_time": "18:00",
+    "closing_time": "22:00",
+    "min_price": "12.000",
+    "max_price": "20.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-trang-nuong-chi-em"
+}

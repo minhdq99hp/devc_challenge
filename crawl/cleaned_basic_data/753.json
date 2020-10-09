@@ -1,0 +1,24 @@
+{
+    "name": "S\u00e0nh - Rau M\u00e1 Mix - Ch\u00f9a L\u00e1ng",
+    "address": "10 Ng\u00f5 185 Ch\u00f9a L\u00e1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sanh-rau-ma-mix"
+}

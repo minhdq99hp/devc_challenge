@@ -1,0 +1,25 @@
+{
+    "name": "Thanh Loan - B\u00e1nh M\u00ec Ch\u1ea3o & C\u01a1m V\u0103n Ph\u00f2ng - H\u00e0 \u0110\u00f4ng",
+    "address": "40 Nguy\u1ec5n Th\u00e1i H\u1ecdc, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:00",
+    "closing_time": "20:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thanh-loan-banh-mi-chao-com-van-phong-ha-dong"
+}

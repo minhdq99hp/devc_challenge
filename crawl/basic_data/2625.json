@@ -1,0 +1,25 @@
+{
+    "name": "\u0110\u1eadu Ph\u1ee5 Th\u1ea7n Th\u00e1nh & M\u1ef3 Cay - Shop Online",
+    "address": "9B6 Khu T\u1eadp Th\u1ec3 918 Ph\u00fac \u0110\u00f4ng, P. Ph\u00fac \u0110\u1ed3ng, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/dau-phu-than-thanh-my-cay-shop-online"
+}

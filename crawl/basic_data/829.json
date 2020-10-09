@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - K\u0110T Linh \u0110\u00e0m",
+    "address": "6 L\u00f4 TT3A, Linh \u0110\u01b0\u1eddng, K\u0110T Linh \u0110\u00e0m, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.9,
+        "location": 7.1,
+        "space": 6.5,
+        "quality": null,
+        "price": null,
+        "service": null
+    },
+    "review_count": 19,
+    "opening_time": "07:00",
+    "closing_time": "23:30",
+    "min_price": "25.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-kdt-linh-dam"
+}

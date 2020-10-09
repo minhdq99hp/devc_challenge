@@ -1,0 +1,24 @@
+{
+    "name": "\u0110\u1ee9c Food - M\u00ec Tr\u1ed9n Indomie - Tam Kh\u01b0\u01a1ng",
+    "address": "13 Ng\u00f5 68 Tam Kh\u01b0\u01a1ng (C\u1ea1nh Qu\u00e1n KJ Look), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.1,
+        "quality": 8.5,
+        "price": 8.2,
+        "service": 8.2,
+        "location": 8.2,
+        "space": 7.3
+    },
+    "review_count": 13,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/duc-food-mi-tron-indomie-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "H\u1eb1ng - B\u00e1nh M\u00ec, C\u00e0 Ph\u00ea & Sinh T\u1ed1",
+    "address": "170 Ng\u1ecdc H\u00e0, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:00",
+    "closing_time": "20:00",
+    "min_price": "10.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hang-banh-mi-ca-phe-sinh-to"
+}

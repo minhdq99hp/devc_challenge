@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh Cu\u1ed1n Cao B\u1eb1ng M\u1ed9c S\u00e1ng",
+    "address": "2 Ng\u00f5 89 L\u1ea1c Long Qu\u00e2n, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.3,
+        "service": 8.1,
+        "price": 7.6,
+        "quality": 7.1,
+        "location": 7.0,
+        "space": 6.9
+    },
+    "review_count": 10,
+    "opening_time": "06:00",
+    "closing_time": "21:30",
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-cuon-cao-bang-moc-sang"
+}

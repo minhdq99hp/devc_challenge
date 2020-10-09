@@ -1,0 +1,24 @@
+{
+    "name": "Ph\u01b0\u1ee3ng - Ch\u00e1o L\u00f2ng Ngon",
+    "address": "155 Ph\u01b0\u01a1ng Mai, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "35.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phuong-chao-long-ngon"
+}

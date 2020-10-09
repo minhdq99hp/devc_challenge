@@ -1,0 +1,25 @@
+{
+    "name": "Thanh Hi\u1ec1n - B\u00e1nh G\u1ed1i & \u0110\u1ed3 U\u1ed1ng - Shop Online",
+    "address": "A2 Ng\u00f5 2 Nguy\u1ec5n Qu\u00fd \u0110\u1ee9c, P. Thanh Xu\u00e2n B\u1eafc, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "12.000",
+    "max_price": "20.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thanh-hien-banh-goi-do-uong-shop-online"
+}

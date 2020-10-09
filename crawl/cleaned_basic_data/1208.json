@@ -1,0 +1,25 @@
+{
+    "name": "T\u00fa B\u00e9o - Mi\u1ebfn L\u01b0\u01a1n",
+    "address": "102A5 Th\u00e0nh C\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.0,
+        "quality": 8.3,
+        "price": 8.1,
+        "location": 8.0,
+        "service": 8.0,
+        "space": 7.8
+    },
+    "review_count": 45,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tu-beo-mien-luon"
+}

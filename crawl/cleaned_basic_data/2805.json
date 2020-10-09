@@ -1,0 +1,25 @@
+{
+    "name": "Kong - M\u00eda S\u1ea7u Ri\u00eang",
+    "address": "64 T\u1ea1 Quang B\u1eedu, P. B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.9,
+        "space": 9.2,
+        "price": 9.0,
+        "quality": 8.9,
+        "service": 8.9,
+        "location": 8.4
+    },
+    "review_count": 9,
+    "opening_time": "08:30",
+    "closing_time": "22:30",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/kong-mia-sau-rieng"
+}

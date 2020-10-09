@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m Ph\u01b0\u01a1ng Anh - V\u0169 H\u1eefu",
+    "address": "321 V\u0169 H\u1eefu, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.9,
+        "location": 6.1,
+        "quality": 6.1,
+        "price": null,
+        "space": null,
+        "service": null
+    },
+    "review_count": 21,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "40.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-phuong-anh-vu-huu"
+}

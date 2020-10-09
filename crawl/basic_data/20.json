@@ -1,0 +1,24 @@
+{
+    "name": "N\u1ed9m \u00d4ng Ph\u00fac - Shop Online",
+    "address": "10 Ng\u00e1ch 82/90 Kim M\u00e3, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 5.4,
+        "price": 6.0,
+        "service": 6.0,
+        "space": 6.0,
+        "location": null,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "10:30",
+    "closing_time": "18:45",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nom-ong-phuc-shop-online"
+}

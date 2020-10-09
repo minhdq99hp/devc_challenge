@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m Nh\u00e0 \u00da Nu - Heo Kh\u00f4 Ch\u00e1y T\u1ecfi - H\u00e0ng L\u01b0\u1ee3c - Shop Online",
+    "address": "13 H\u00e0ng L\u01b0\u1ee3c (Nh\u00e0 \u0110\u1ea7u Ti\u00ean C\u1ea7u Thang Ph\u1ea3i), Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.4,
+        "price": 7.7,
+        "location": 6.7,
+        "quality": 6.3,
+        "service": 6.3,
+        "space": null
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "400.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-nha-u-nu-heo-kho-chay-toi-hang-luoc-shop-online"
+}

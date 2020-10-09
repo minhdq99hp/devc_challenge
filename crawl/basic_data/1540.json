@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u1ed0c S\u01b0\u1eddn C\u00f4 S\u00e1u - \u0110o\u00e0n Th\u1ecb \u0110i\u1ec3m",
+    "address": "25 \u0110o\u00e0n Th\u1ecb \u0110i\u1ec3m, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 3.4,
+        "location": null,
+        "space": null,
+        "service": null,
+        "quality": null,
+        "price": null
+    },
+    "review_count": 6,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-oc-suon-co-sau-doan-thi-diem"
+}

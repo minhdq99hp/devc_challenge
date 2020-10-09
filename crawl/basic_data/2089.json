@@ -1,0 +1,25 @@
+{
+    "name": "Huong's Bakery - B\u00f4ng Lan Tr\u1ee9ng Mu\u1ed1i & N\u01b0\u1edbc \u00c9p Hoa Qu\u1ea3",
+    "address": "143 Nguy\u1ec5n \u0110\u1ee9c C\u1ea3nh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.3,
+        "space": 6.7,
+        "service": 6.6,
+        "price": 6.2,
+        "location": 6.1,
+        "quality": null
+    },
+    "review_count": 16,
+    "opening_time": "05:00",
+    "closing_time": "23:59",
+    "min_price": "5.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/huong-bakery-cafe"
+}

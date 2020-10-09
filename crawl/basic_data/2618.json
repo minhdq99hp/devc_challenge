@@ -1,0 +1,24 @@
+{
+    "name": "S\u01a1n L\u00f2ng L\u1ee3n",
+    "address": "259B Kim M\u00e3, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:30",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "300.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/son-long-lon"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "ThaiExpress - Vincom Center Nguy\u1ec5n Ch\u00ed Thanh",
+    "address": "T\u1ea7ng 5, Vincom Center Nguy\u1ec5n Ch\u00ed Thanh, 54A-56 Nguy\u1ec5n Ch\u00ed Thanh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.6,
+        "service": 7.2,
+        "location": 7.1,
+        "space": 6.7,
+        "quality": 6.5,
+        "price": null
+    },
+    "review_count": 39,
+    "opening_time": "11:00",
+    "closing_time": "20:00",
+    "min_price": "10.000",
+    "max_price": "90.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Th\u00e1i",
+    "url": "https://www.foody.vn/ha-noi/thaiexpress-vincom-center-nguyen-chi-thanh"
+}

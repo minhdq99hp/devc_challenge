@@ -1,0 +1,25 @@
+{
+    "name": "ManDeli - C\u01a1m V\u0103n Ph\u00f2ng, C\u01a1m Rang & Ph\u1edf X\u00e0o Online - Ng\u1ecdc L\u00e2m",
+    "address": "550 Ng\u1ecdc L\u00e2m, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 1.2,
+        "location": null,
+        "space": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "45.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mandeli-com-van-phong-com-rang-pho-xao-online"
+}

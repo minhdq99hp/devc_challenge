@@ -1,0 +1,25 @@
+{
+    "name": "Pam Food - M\u00ec Tr\u1ed9n Indomie Online",
+    "address": "48 Ng\u00f5 189 Ho\u00e0ng Hoa Th\u00e1m, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "18.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pam-food-mi-tron-indomie-online"
+}

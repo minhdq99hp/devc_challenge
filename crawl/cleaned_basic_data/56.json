@@ -1,0 +1,24 @@
+{
+    "name": "T\u00edt M\u00edt Qu\u00e1n - B\u00e1nh \u0110a Cua & B\u00fan C\u00e1 \u1ed0c",
+    "address": "39A Tri\u1ec1u Kh\u00fac, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.3,
+        "service": 7.7,
+        "price": 7.5,
+        "space": 7.5,
+        "location": 7.2,
+        "quality": 6.8
+    },
+    "review_count": 17,
+    "opening_time": "08:00",
+    "closing_time": "20:00",
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-tit-mit-banh-da-cua"
+}

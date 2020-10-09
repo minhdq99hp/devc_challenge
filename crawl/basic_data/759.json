@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 Ngon Qu\u00e1n - Kh\u01b0\u01a1ng \u0110\u00ecnh - Shop Online",
+    "address": "90 Ng\u00f5 460 Kh\u01b0\u01a1ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "23:59",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-ngon-quan-nguyen-xien-shop-online"
+}

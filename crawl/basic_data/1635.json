@@ -1,0 +1,25 @@
+{
+    "name": "Goofoo Gelato - Tr\u1ea7n Ph\u00fa",
+    "address": "1 Ng\u00f5 102 Tr\u1ea7n Ph\u00fa, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 4.5,
+        "quality": null,
+        "location": null,
+        "price": null,
+        "space": null,
+        "service": null
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u00dd",
+    "url": "https://www.foody.vn/ha-noi/goofoo-gelato-tran-phu"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "H\u00f9ng Th\u00e1i - B\u00fan Ch\u1ea3 H\u00e0ng M\u00e0nh",
+    "address": "107 B1 Th\u00e0nh C\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.5,
+        "quality": 7.7,
+        "service": 7.6,
+        "location": 7.6,
+        "space": 7.3,
+        "price": 7.1
+    },
+    "review_count": 88,
+    "opening_time": "08:30",
+    "closing_time": "15:30",
+    "min_price": "20.000",
+    "max_price": "33.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/hung-thai-bun-cha-hang-manh"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Minh Ng\u1ecdc - B\u00e1nh Sinh Nh\u1eadt & B\u00e1nh M\u00ec K\u1eb9p",
+    "address": "37 Ng\u00f5 63 L\u00ea \u0110\u1ee9c Th\u1ecd, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "150.000",
+    "max_price": "700.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/banh-sinh-nhat-minh-ngoc"
+}

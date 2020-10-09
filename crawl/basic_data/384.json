@@ -1,0 +1,24 @@
+{
+    "name": "Super Tiger - S\u1eefa T\u01b0\u01a1i Tr\u00e2n Ch\u00e2u \u0110\u01b0\u1eddng \u0110en - Nguy\u1ec5n Tr\u00e3i",
+    "address": "521L Nguy\u1ec5n Tr\u00e3i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.2,
+        "location": null,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/super-tiger-sua-tuoi-tran-chau-duong-den-nguyen-trai"
+}

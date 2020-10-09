@@ -1,0 +1,24 @@
+{
+    "name": "Le Castella & Lee Cha - B\u00e1nh B\u00f4ng Lan & Tr\u00e0 s\u1eefa \u0110\u00e0i Loan - L\u00ea \u0110\u1ea1i H\u00e0nh",
+    "address": "12 L\u00ea \u0110\u1ea1i H\u00e0nh, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.1,
+        "location": 7.6,
+        "quality": 7.3,
+        "service": 7.2,
+        "space": 7.2,
+        "price": 6.4
+    },
+    "review_count": 26,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "119.000",
+    "max_price": "149.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/le-castella-lee-cha-banh-bong-lan-tra-sua-dai-loan-le-dai-hanh"
+}

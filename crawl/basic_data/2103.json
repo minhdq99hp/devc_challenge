@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan Ch\u1ea3 Qu\u00ea - Th\u1ee5y Khu\u00ea",
+    "address": "253 Th\u1ee5y Khu\u00ea, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.0,
+        "location": 9.0,
+        "space": 8.0,
+        "quality": 7.0,
+        "price": 6.5,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-cha-que-thuy-khue"
+}

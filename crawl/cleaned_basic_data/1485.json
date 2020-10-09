@@ -1,0 +1,25 @@
+{
+    "name": "Minh V\u0169 - \u0110\u1ed3 \u0102n H\u00e0n Qu\u1ed1c Online",
+    "address": "16 Ng\u00e1ch 39 Ng\u00f5 64 V\u0169 Tr\u1ecdng Ph\u1ee5ng, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.7,
+        "location": 6.9,
+        "quality": 6.9,
+        "space": 6.9,
+        "price": 6.7,
+        "service": 6.3
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/minh-vu-do-an-han-quoc-online"
+}

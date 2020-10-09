@@ -1,0 +1,25 @@
+{
+    "name": "Nh\u1ea5t Ch\u00e1o - C\u00e1c M\u00f3n Ch\u00e1o",
+    "address": "1 Ng\u00f5 1 Ho\u00e0ng \u0110\u1ea1o Th\u00fay, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.5,
+        "location": 6.1,
+        "space": 6.1,
+        "service": null,
+        "quality": null,
+        "price": null
+    },
+    "review_count": 39,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "50.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/nhat-chao-cac-mon-chao"
+}

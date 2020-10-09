@@ -1,0 +1,25 @@
+{
+    "name": "Kem Dairy Queen - Vincom Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch",
+    "address": "T\u1ea7ng 5, TTTM Vincom Center, 2 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.6,
+        "quality": 7.9,
+        "service": 7.9,
+        "location": 7.7,
+        "space": 7.3,
+        "price": 7.2
+    },
+    "review_count": 34,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "9.000",
+    "max_price": "58.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/dairy-queen-vincom-pham-ngoc-thach"
+}

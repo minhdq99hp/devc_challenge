@@ -1,0 +1,25 @@
+{
+    "name": "Khoai Ngon.vn - G\u00e0 R\u00e1n & Khoai L\u1eafc - Th\u00e0nh C\u00f4ng",
+    "address": "108D3 Th\u00e0nh C\u00f4ng, Ng\u00f5 9 Nguy\u00ean H\u1ed3ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.7,
+        "price": 9.5,
+        "location": 8.5,
+        "quality": 8.5,
+        "service": 8.5,
+        "space": 8.5
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/khoai-ngon-ga-ran-khoai-lac-thanh-cong"
+}

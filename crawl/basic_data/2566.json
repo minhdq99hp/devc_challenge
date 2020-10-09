@@ -1,0 +1,25 @@
+{
+    "name": "C\u00f4 Hoan - B\u00e1nh M\u00ec & \u0110\u1ed3 \u0102n V\u1eb7t - Shop Online",
+    "address": "254 Nguy\u1ec5n V\u0103n Gi\u00e1p, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "23:00",
+    "min_price": "5.000",
+    "max_price": "25.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-hoan-banh-mi-do-an-vat-shop-online"
+}

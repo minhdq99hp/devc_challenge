@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u0110\u1eadu C\u1ed1 H\u01b0\u01a1ng - Ng\u1ee5y Nh\u01b0 Kon Tum",
+    "address": "31 Ng\u1ee5y Nh\u01b0 Kon Tum, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.1,
+        "location": 6.5,
+        "space": 6.2,
+        "service": 6.1,
+        "price": 6.1,
+        "quality": null
+    },
+    "review_count": 33,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-co-huong"
+}

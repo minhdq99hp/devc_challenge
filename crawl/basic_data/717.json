@@ -1,0 +1,24 @@
+{
+    "name": "Huy\u1ec1n Dung - C\u01a1m Ngon V\u0103n Ph\u00f2ng",
+    "address": "4 L\u00fd Th\u00e1i T\u1ed5, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.3,
+        "location": 7.3,
+        "price": 6.4,
+        "service": 6.2,
+        "space": 6.1,
+        "quality": null
+    },
+    "review_count": 22,
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "min_price": "35.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t,",
+    "url": "https://www.foody.vn/ha-noi/huyen-dung-com-ngon-van-phong"
+}

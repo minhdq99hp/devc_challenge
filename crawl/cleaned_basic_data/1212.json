@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n & G\u00e0 \u1ee6 Mu\u1ed1i Hoa Ti\u00eau - Quan Nh\u00e2n",
+    "address": "109 Ng\u00f5 24 Quan Nh\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.5,
+        "location": 8.8,
+        "space": 8.8,
+        "service": 8.5,
+        "price": 8.3,
+        "quality": 8.0
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-ran-ga-u-muoi-hoa-tieu-quan-nhan"
+}

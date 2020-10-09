@@ -1,0 +1,24 @@
+{
+    "name": "Hadu Y - G\u00e0 & Pizza",
+    "address": "288 Xu\u00e2n \u0110\u1ec9nh, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.7,
+        "location": 8.3,
+        "service": 8.3,
+        "space": 7.7,
+        "price": 7.0,
+        "quality": 7.0
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "22.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/hadu-y-ga-pizza"
+}

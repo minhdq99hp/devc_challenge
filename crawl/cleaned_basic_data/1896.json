@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e0 H\u1eb1ng - B\u00fan Ngan & B\u00fan Tr\u1ed9n",
+    "address": "Ki \u1ed0t 3, \u0110\u1ed1i Di\u1ec7n C\u1ed5ng Ch\u1ee3 Ngh\u0129a T\u00e2n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.5,
+        "price": 7.9,
+        "quality": 7.7,
+        "location": 7.5,
+        "service": 7.3,
+        "space": 7.2
+    },
+    "review_count": 58,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ba-hang-bun-ngan-bun-tron"
+}

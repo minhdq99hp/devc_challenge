@@ -1,0 +1,25 @@
+{
+    "name": "D\u01b0\u01a1ng Khu\u00ea - M\u00ec Tr\u1ed9n Indomi & C\u01a1m G\u00e0",
+    "address": "605 H2 Ng\u00f5 147 T\u00e2n Mai (V\u00e0o Ng\u00f5 3m \u0110\u1ed1i Di\u1ec7n Ng\u00e2n H\u00e0ng MB), Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.4,
+        "price": 6.1,
+        "quality": 6.0,
+        "service": null,
+        "location": null,
+        "space": null
+    },
+    "review_count": 7,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/duong-khue-mi-tron-indomi-com-ga"
+}

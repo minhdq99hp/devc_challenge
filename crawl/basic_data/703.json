@@ -1,0 +1,24 @@
+{
+    "name": "Tiger Sugar By HongKong - Gi\u1ea3ng V\u00f5",
+    "address": "126 Gi\u1ea3ng V\u00f5, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 3.4,
+        "location": 7.5,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-by-hongkong-giang-vo"
+}

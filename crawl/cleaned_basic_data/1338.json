@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00fa Tu\u1ea5n - B\u00e1nh M\u00ec K\u1eb9p Nem Khoai",
+    "address": "2 Ng\u00f5 28 H\u01b0\u01a1ng Vi\u00ean, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.0,
+        "price": 7.6,
+        "quality": 7.5,
+        "service": 7.0,
+        "location": 6.9,
+        "space": 6.2
+    },
+    "review_count": 44,
+    "opening_time": "15:00",
+    "closing_time": "20:00",
+    "min_price": "20.000",
+    "max_price": "44.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-kep-nem-khoai-huong-vien"
+}

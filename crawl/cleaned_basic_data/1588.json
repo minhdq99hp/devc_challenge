@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u01b0\u1eddng Ph\u00e1t Bakery - Ng\u1ecdc H\u00e0",
+    "address": "164 - 166 Ng\u1ecdc H\u00e0, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 9.0,
+        "quality": 9.0,
+        "price": 8.5,
+        "service": 6.5,
+        "space": 6.0
+    },
+    "review_count": 2,
+    "opening_time": "06:00",
+    "closing_time": "23:59",
+    "min_price": "8.000",
+    "max_price": "300.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/truong-phat-bakery-ngoc-ha"
+}

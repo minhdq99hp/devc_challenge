@@ -1,0 +1,25 @@
+{
+    "name": "L\u1ea9u Th\u00e1i H\u1ea3i S\u1ea3n Nh\u00e0 Nh\u00edm - Shop Online",
+    "address": "11N1 Ng\u00e1ch 15 Ng\u00f5 230 L\u1ea1c Trung, P. Thanh L\u01b0\u01a1ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "220.000",
+    "max_price": "900.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/lau-thai-hai-san-nha-nhim-shop-online"
+}

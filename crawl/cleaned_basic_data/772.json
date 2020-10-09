@@ -1,0 +1,24 @@
+{
+    "name": "C\u01a1m T\u1ea5m T\u01b0\u1eddng H\u00e2n - D\u1ecbch V\u1ecdng H\u1eadu",
+    "address": "70 Di\u0323ch Vo\u0323ng H\u00e2\u0323u, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.6,
+        "quality": 7.8,
+        "location": 7.8,
+        "service": 7.6,
+        "price": 7.4,
+        "space": 7.4
+    },
+    "review_count": 17,
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "min_price": "55.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-tuong-han-dich-vong-hau"
+}

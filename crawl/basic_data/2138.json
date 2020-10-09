@@ -1,0 +1,24 @@
+{
+    "name": "Kloud Tea - Tr\u00e0 S\u1eefa Homemade",
+    "address": "211 Ch\u00f9a Qu\u1ef3nh (C\u1ea1nh Giang H\u00e0 Th\u00e0nh), Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.4,
+        "service": 8.6,
+        "price": 8.5,
+        "quality": 8.5,
+        "location": 8.2,
+        "space": 8.1
+    },
+    "review_count": 17,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/k-s-cha-tra-sua-homemade"
+}

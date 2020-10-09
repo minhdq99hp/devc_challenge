@@ -1,0 +1,25 @@
+{
+    "name": "\u0102n V\u1eb7t Ch\u00fa Tr\u1ecdng",
+    "address": "17 Ng\u00f5 354 Tr\u01b0\u1eddng Chinh, P. Kh\u01b0\u01a1ng Th\u01b0\u1ee3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "18.000",
+    "max_price": "250.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-vat-chu-trong"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fap Ph\u00ea V\u1eb7t - Shop Online",
+    "address": "28 Thanh B\u00ecnh, P. M\u1ed9 Lao, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:30",
+    "closing_time": "23:50",
+    "min_price": "9.000",
+    "max_price": "39.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bup-phe-vat-shop-online"
+}

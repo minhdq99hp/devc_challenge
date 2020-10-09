@@ -1,0 +1,24 @@
+{
+    "name": "The Juice - N\u01b0\u01a1\u0301c E\u0301p Tra\u0301i C\u00e2y Nguy\u00ean Ch\u00e2\u0301t",
+    "address": "4 Th\u00e1i Phi\u00ean, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 4.2,
+        "location": null,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/the-juice-nuoc-ep-trai-cay-nguyen-chat"
+}

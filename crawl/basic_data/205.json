@@ -1,0 +1,26 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Feeling Tea - Tr\u1ea7n Th\u00e1i T\u00f4ng",
+    "address": "4 Tr\u1ea7n Th\u00e1i T\u00f4ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.6,
+        "location": 7.3,
+        "price": 7.1,
+        "service": 6.5,
+        "quality": 6.2,
+        "space": null
+    },
+    "review_count": 47,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-feeling-tea-tran-thai-tong"
+}

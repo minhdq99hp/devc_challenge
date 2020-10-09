@@ -1,0 +1,25 @@
+{
+    "name": "T\u00fa Anh - B\u00e1nh X\u00e8o & Nem L\u1ee5i",
+    "address": "91 B\u1ebf V\u0103n \u0110\u00e0n, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.7,
+        "price": 8.5,
+        "quality": 8.2,
+        "service": 8.2,
+        "location": 7.6,
+        "space": 6.3
+    },
+    "review_count": 26,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "5.000",
+    "max_price": "10.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Qu\u1ea3ng",
+    "url": "https://www.foody.vn/ha-noi/tu-anh-banh-xeo-nem-lui"
+}

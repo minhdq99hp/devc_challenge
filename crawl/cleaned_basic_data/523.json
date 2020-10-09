@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan \u0110\u1eadu M\u1eafm T\u00f4m - Ngh\u0129a T\u00e2n",
+    "address": "110 A8 Ngh\u0129a T\u00e2n (\u0110\u1ed1i Di\u1ec7n 44 Tr\u1ea7n T\u1eed B\u00ecnh), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.9,
+        "service": 7.6,
+        "quality": 7.1,
+        "price": 6.9,
+        "location": 6.6,
+        "space": 6.2
+    },
+    "review_count": 18,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-mam-tom-tran-quy-kien"
+}

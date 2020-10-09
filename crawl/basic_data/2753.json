@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Royaltea - Nguy\u1ec5n Huy T\u01b0\u1edfng",
+    "address": "224 Nguy\u1ec5n Huy T\u01b0\u1edfng, P. Thanh Xu\u00e2n Trung, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:00",
+    "closing_time": "23:59",
+    "min_price": "15.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-royaltea-nguyen-huy-tuong"
+}

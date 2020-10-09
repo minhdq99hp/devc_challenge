@@ -1,0 +1,24 @@
+{
+    "name": "C\u01a1m S\u01b0\u1eddn Bum Bum",
+    "address": "38 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh (M\u1eb7t Sau), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.3,
+        "location": 6.7,
+        "price": 6.5,
+        "service": 6.5,
+        "space": 6.1,
+        "quality": null
+    },
+    "review_count": 21,
+    "opening_time": "10:00",
+    "closing_time": "20:30",
+    "min_price": "30.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-suon-bum-bum"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Chero Buns - B\u00e1nh Bao T\u01b0\u01a1i - Nguy\u1ec5n Ph\u00fac Lai",
+    "address": "7 Ng\u00f5 24 Nguy\u1ec5n Ph\u00fac Lai, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop/C\u1eeda h\u00e0ng",
+    "scores": {
+        "avg_score": 9.1,
+        "service": 9.6,
+        "quality": 9.4,
+        "price": 9.3,
+        "location": 9.0,
+        "space": 8.1
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "12.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chero-buns-banh-bao-tuoi-nguyen-phuc-lai"
+}

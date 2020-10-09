@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ea3o An - B\u00e1nh M\u00ec Doner Kebab - \u00c1i M\u1ed9",
+    "address": "166 \u00c1i M\u1ed9, P. B\u1ed3 \u0110\u1ec1, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:00",
+    "closing_time": "19:00",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Th\u1ed5 Nh\u0129 K\u1ef3",
+    "url": "https://www.foody.vn/ha-noi/bao-an-banh-mi-doner-kebab-ai-mo"
+}

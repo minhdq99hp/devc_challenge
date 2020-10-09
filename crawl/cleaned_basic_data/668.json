@@ -1,0 +1,25 @@
+{
+    "name": "A L\u1ea9u - Ch\u00e1o L\u00f2ng",
+    "address": "289 V\u0169 H\u1eefu, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 9.0,
+        "service": 9.0,
+        "location": 8.0,
+        "quality": 8.0,
+        "space": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/a-lau-chao-long"
+}

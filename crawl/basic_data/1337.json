@@ -1,0 +1,21 @@
+{
+    "name": "B\u00e1nh M\u00ec G\u00e3y - H\u00e0ng Chu\u1ed1i",
+    "address": "31 H\u00e0ng Chu\u1ed1i, P. Ph\u1ea1m \u0110\u00ecnh H\u1ed3, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.4,
+        "service": 9.8,
+        "location": 9.6,
+        "price": 9.6,
+        "quality": 9.6,
+        "space": 8.4
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": null,
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-gay-hang-chuoi"
+}

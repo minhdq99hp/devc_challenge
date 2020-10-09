@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan Ch\u1ea3 Que Tre B\u00ecnh Chung - L\u00ea V\u0103n H\u01b0u",
+    "address": "88 L\u00ea V\u0103n H\u01b0u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 7.0,
+        "service": 6.6,
+        "space": 6.5,
+        "quality": 6.2,
+        "price": null
+    },
+    "review_count": 43,
+    "opening_time": "09:30",
+    "closing_time": "21:30",
+    "min_price": "40.000",
+    "max_price": "65.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-cha-binh-chung-le-van-huu"
+}

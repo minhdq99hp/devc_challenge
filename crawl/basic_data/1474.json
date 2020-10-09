@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n B\u1ecdn M\u00ecnh - Nem N\u01b0\u1edbng Nha Trang",
+    "address": "8 Ng\u00f5 28 D\u01b0\u01a1ng Khu\u00ea, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "8.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-bon-minh-nem-nuong-nha-trang"
+}

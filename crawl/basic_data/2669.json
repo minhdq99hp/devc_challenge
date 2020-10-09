@@ -1,0 +1,25 @@
+{
+    "name": "Gia H\u00e2n - Qu\u1ea9y N\u00f3ng, Qu\u1ea9y \u0110\u00f9i G\u00e0 & B\u00e1nh R\u00e1n - Th\u00e0nh C\u00f4ng",
+    "address": "101D7 Th\u00e0nh C\u00f4ng, P. Th\u00e0nh C\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:30",
+    "closing_time": "21:30",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/gia-han-quay-nong-quay-dui-ga-banh-ran-thanh-cong"
+}

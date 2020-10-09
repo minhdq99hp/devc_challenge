@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n Popeyes - TTTM D2 Gi\u1ea3ng V\u00f5",
+    "address": "T\u1ea7ng 1, TTTM D2 Gi\u1ea3ng V\u00f5, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng, ",
+    "scores": {
+        "avg_score": 7.1,
+        "location": 7.5,
+        "quality": 7.2,
+        "service": 7.1,
+        "space": 7.0,
+        "price": 7.0
+    },
+    "review_count": 428,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "3.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/popeyes-chicken-tttm-d2-giang-vo"
+}

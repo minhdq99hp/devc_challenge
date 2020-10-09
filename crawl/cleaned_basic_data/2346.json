@@ -1,0 +1,25 @@
+{
+    "name": "Nhung Anh - Ch\u00e8 S\u1ea7u Kem B\u01a1 - Ng\u00f5 Ch\u00f9a H\u01b0ng K\u00ed",
+    "address": "Ng\u00f5 Ch\u00f9a H\u01b0ng K\u00fd Canh 228 Minh Khai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.6,
+        "price": 8.0,
+        "service": 8.0,
+        "quality": 7.8,
+        "space": 7.5,
+        "location": 6.8
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nhung-anh-che-sau-kem-bo-ngo-chua-hung-ki"
+}

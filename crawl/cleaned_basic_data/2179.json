@@ -1,0 +1,26 @@
+{
+    "name": "Giang B\u00e9o - B\u00fan \u0110\u1eadu M\u1eafm T\u00f4m",
+    "address": "18A Ng\u00f5 3 Ao Sen, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.0,
+        "location": 7.3,
+        "price": 7.3,
+        "quality": 7.2,
+        "service": 6.8,
+        "space": 6.6
+    },
+    "review_count": 24,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "25.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/giang-beo-bun-dau-mam-tom"
+}

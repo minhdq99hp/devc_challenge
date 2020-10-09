@@ -1,0 +1,25 @@
+{
+    "name": "Th\u1ea3o M\u1eadp - M\u00ec Tr\u1ed9n Indomie - Shop Online",
+    "address": "4 Ng\u00e1ch 11 Ng\u00f5 167 Thanh Nh\u00e0n, P. Qu\u1ef3nh L\u00f4i, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "15.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thao-map-mi-tron-indomie"
+}

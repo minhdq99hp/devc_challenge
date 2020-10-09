@@ -1,0 +1,25 @@
+{
+    "name": "Teen's Food - C\u00e1c M\u00f3n \u0102n V\u1eb7t - Th\u1ee5y Khu\u00ea",
+    "address": "121A Th\u1ee5y Kh\u00ea, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.3,
+        "price": 8.8,
+        "service": 7.8,
+        "location": 7.6,
+        "space": 6.8,
+        "quality": null
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "5.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/teen-s-food-cac-mon-an-vat-thuy-khue"
+}

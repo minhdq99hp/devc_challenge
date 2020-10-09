@@ -1,0 +1,24 @@
+{
+    "name": "Kem Dairy Queen - BigC Savico Long Bi\u00ean",
+    "address": "T\u1ea7ng H\u1ea7m 1,\u00a0T\u1ea7ng H\u1ea7m B1, BigC Savico Long Bi\u00ean, 7 - 9 Nguy\u1ec5n V\u0103n Linh, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 4.7,
+        "service": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "space": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/dairy-queen-bigc-savico-long-bien"
+}

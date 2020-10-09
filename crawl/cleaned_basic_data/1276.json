@@ -1,0 +1,25 @@
+{
+    "name": "Ghi\u1ec1n 3 Mi\u1ec1n - Nem L\u1ee5i - Nguy\u1ec5n V\u0103n L\u1ed9c",
+    "address": "14 L\u00f4 7 Khu D\u1ecbch V\u1ee5 M\u1ed7 Lao, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "location": 7.9,
+        "service": 7.4,
+        "price": 7.1,
+        "space": 6.9,
+        "quality": 6.3
+    },
+    "review_count": 10,
+    "opening_time": "11:00",
+    "closing_time": "13:30 | 17:00",
+    "min_price": "10.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ghien-3-mien-nem-lui-nguyen-van-loc"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Rainbow - Qu\u00e1n \u0102n V\u1eb7t H\u00e0n Qu\u1ed1c",
+    "address": "6 Ng\u00f5 27 T\u1ea1 Quang B\u1eedu, P. B\u00e1ch Khoa, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/rainbow-quan-an-vat-han-quoc"
+}

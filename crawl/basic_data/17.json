@@ -1,0 +1,24 @@
+{
+    "name": "Th\u1ee7y B\u00e9o - Ch\u00e2n G\u00e0 Online",
+    "address": "239 Quang Trung, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.4,
+        "quality": 10.0,
+        "service": 9.0,
+        "price": 8.0,
+        "location": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thuy-beo-chan-ga-online"
+}

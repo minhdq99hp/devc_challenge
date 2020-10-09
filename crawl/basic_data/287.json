@@ -1,0 +1,25 @@
+{
+    "name": "V\u0169 Thu H\u1eb1ng - Gimbap Hanoi - Shop Online - T\u00f4n Th\u1ea5t T\u00f9ng",
+    "address": "15 H\u1ebbm 7 Ng\u00e1ch 99 Ng\u00f5 22 T\u00f4n Th\u1ea5t T\u00f9ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:30",
+    "closing_time": "22:30",
+    "min_price": "25.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/vu-thu-hang-gimbap-hanoi-shop-online-ton-that-tung"
+}

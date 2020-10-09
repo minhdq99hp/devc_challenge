@@ -1,0 +1,25 @@
+{
+    "name": "Soya Garden - Kim M\u00e3",
+    "address": "273 Kim M\u00e3 (1 Tr\u1ea7n Huy Li\u1ec7u), Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.3,
+        "location": 7.9,
+        "quality": 7.6,
+        "space": 7.5,
+        "service": 7.0,
+        "price": 6.4
+    },
+    "review_count": 14,
+    "opening_time": "08:00",
+    "closing_time": "23:30",
+    "min_price": "31.000",
+    "max_price": "69.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/soya-garden-kim-ma"
+}

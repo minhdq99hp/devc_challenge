@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan \u1ed0c S\u01b0\u1eddn C\u00f4 S\u00e1u",
+    "address": "T\u1ea7ng Tr\u1ec7t,\u00a0354 B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 7.0,
+        "space": 6.7,
+        "service": 6.5,
+        "quality": null,
+        "price": null
+    },
+    "review_count": 32,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-sau-bun-oc-suon-com-tam"
+}

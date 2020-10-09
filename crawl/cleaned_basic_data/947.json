@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Ch\u1ea3 N\u00f3ng D\u0169ng H\u1ea1nh - Ngu\u1ef5 Nh\u01b0 Kon Tum",
+    "address": "8A Ng\u00f5 90 Ng\u1ee5y Nh\u01b0 Kon Tum, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.8,
+        "quality": 8.6,
+        "service": 8.4,
+        "price": 7.6,
+        "location": 7.4,
+        "space": 7.0
+    },
+    "review_count": 8,
+    "opening_time": "06:30",
+    "closing_time": "18:00",
+    "min_price": "30.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-cha-nong-dung-hanh-nguyen-tuan"
+}

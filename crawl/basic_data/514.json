@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u1ecb C\u00fac - B\u00fan Tr\u1ed9n Nam B\u1ed9 - L\u00e2m H\u1ea1",
+    "address": "\u0110\u1ed1i Di\u1ec7n 75 L\u00e2m H\u1ea1, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "service": 9.0,
+        "space": 9.0,
+        "quality": 8.0,
+        "location": null,
+        "price": null
+    },
+    "review_count": 1,
+    "opening_time": "06:45",
+    "closing_time": "21:00",
+    "min_price": "45.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chi-cuc-bun-tron-nam-bo-lam-ha"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "\u0102n V\u1eb7t B\u1ed1n M\u00f9a - Ch\u00e8 & N\u01b0\u1edbc \u00c9p Online",
+    "address": "29 Ng\u00f5 14 M\u1ec5 Tr\u00ec H\u1ea1, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-vat-bon-mua-che-nuoc-ep-online"
+}

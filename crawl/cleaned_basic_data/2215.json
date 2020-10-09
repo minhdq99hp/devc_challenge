@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u0110\u1eadu Ph\u1ed1 C\u1ed5 - Nguy\u1ec5n \u0110\u1ee9c C\u1ea3nh",
+    "address": "98 Nguy\u1ec5n \u0110\u1ee9c C\u1ea3nh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.3,
+        "location": 9.5,
+        "quality": 9.5,
+        "space": 9.5,
+        "price": 9.0,
+        "service": 9.0
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "14:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-pho-co-nguyen-duc-canh"
+}

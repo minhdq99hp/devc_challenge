@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Tuhu Bread - \u0110\u1ed9i c\u1ea5n",
+    "address": "230 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 4.8,
+        "location": null,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-tuhu-bread-doi-can"
+}

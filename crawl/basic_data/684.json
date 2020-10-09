@@ -1,0 +1,24 @@
+{
+    "name": "Tiger Sugar By HongKong - Quang Trung H\u00e0 \u0110\u00f4ng",
+    "address": "109A Quang Trung, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 3.8,
+        "space": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-by-hongkong-quang-trung-ha-dong"
+}

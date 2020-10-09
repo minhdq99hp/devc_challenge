@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 B\u1ed1n M\u00f9a - T\u00e2n Mai ",
+    "address": "112 Ng\u00f5 238 T\u00e2n Mai (\u0110\u1ed1i Di\u1ec7n 74 Nguy\u1ec5n Ch\u00ednh), Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 5.7,
+        "price": 7.5,
+        "space": 6.5,
+        "location": 6.3,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "7.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-bon-mua-tan-mai"
+}

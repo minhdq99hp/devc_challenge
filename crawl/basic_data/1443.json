@@ -1,0 +1,25 @@
+{
+    "name": "C\u01b0\u1eddng H\u00f3i - G\u00e0 T\u01b0\u01a1i M\u1ea1nh Ho\u1ea1ch - Nguy\u1ec5n Xi\u1ec3n",
+    "address": "281 Nguy\u1ec5n Xi\u1ec3n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.0,
+        "location": 6.6,
+        "space": 6.2,
+        "price": 6.0,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "80.000",
+    "max_price": "160.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cuong-hoi-ga-tuoi-manh-hoach-nguyen-xien"
+}

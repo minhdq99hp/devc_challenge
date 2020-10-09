@@ -1,0 +1,25 @@
+{
+    "name": "Soya Garden - Nguy\u1ec5n Ch\u00ed Thanh",
+    "address": "93 Nguy\u1ec5n Ch\u00ed Thanh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "location": 7.9,
+        "service": 7.9,
+        "price": 7.4,
+        "space": 7.4,
+        "quality": 6.9
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "31.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/soya-garden-nguyen-chi-thanh"
+}

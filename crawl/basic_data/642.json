@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u Qu\u1ea3ng Ninh - T\u00e2n Mai",
+    "address": "150 T\u00e2n Mai \u0110\u1ed1i Di\u1ec7n Chung C\u01b0 K35 T\u00e2n Mai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.8,
+        "location": 9.3,
+        "price": 9.3,
+        "space": 9.3,
+        "service": 8.7,
+        "quality": 7.3
+    },
+    "review_count": 3,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "5.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-quang-ninh-tan-mai"
+}

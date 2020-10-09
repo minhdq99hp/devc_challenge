@@ -1,0 +1,25 @@
+{
+    "name": "E-Coffee - H\u00e0m Nghi",
+    "address": "Kiot 01, T\u00f2a B4, H\u00e0m Nghi, P. C\u1ea7u Di\u1ec5n, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:00",
+    "closing_time": "23:00",
+    "min_price": "17.000",
+    "max_price": "39.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/e-coffee-ham-nghi"
+}

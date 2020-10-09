@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan C\u00e1 C\u00f4 Li\u00ean",
+    "address": "112 K3 T\u1ea1 Quang B\u1eedu ( \u0110\u1ea7u Ng\u00f5 48 T\u1ea1 Quang B\u1eedu) , Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.8,
+        "quality": 8.0,
+        "space": 7.9,
+        "service": 7.8,
+        "price": 7.8,
+        "location": 7.7
+    },
+    "review_count": 18,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-lien-bun-ca"
+}

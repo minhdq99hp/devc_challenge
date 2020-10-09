@@ -1,0 +1,25 @@
+{
+    "name": "Phi Long - C\u01a1m V\u0103n Ph\u00f2ng & N\u01b0\u1edbc \u00c9p",
+    "address": "16 Ng\u00f5 205 Gi\u1ea3i Ph\u00f3ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 3.4,
+        "location": null,
+        "service": null,
+        "price": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phi-long-com-van-phong"
+}

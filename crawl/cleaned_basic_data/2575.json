@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec - Kim M\u00e3 Th\u01b0\u1ee3ng",
+    "address": "10 Kim M\u00e3 Th\u01b0\u1ee3ng (\u0110\u1ed1i Di\u1ec7n 19 Kim M\u00e3 Th\u01b0\u1ee3ng), Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.7,
+        "price": 9.3,
+        "quality": 9.3,
+        "location": 8.5,
+        "service": 8.5,
+        "space": 7.8
+    },
+    "review_count": 4,
+    "opening_time": "06:00",
+    "closing_time": "15:00",
+    "min_price": "10.000",
+    "max_price": "20.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-kim-ma-thuong"
+}

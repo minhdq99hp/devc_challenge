@@ -1,0 +1,25 @@
+{
+    "name": "KOMBO - C\u01a1m Ni\u00eau Singapore - Duy T\u00e2n",
+    "address": "19 Duy T\u00e2n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.1,
+        "service": 6.5,
+        "space": 6.3,
+        "quality": 6.3,
+        "location": 6.0,
+        "price": null
+    },
+    "review_count": 23,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "20.000",
+    "max_price": "110.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/kombo-com-nieu-singapore-duy-tan"
+}

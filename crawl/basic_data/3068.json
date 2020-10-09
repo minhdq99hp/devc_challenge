@@ -1,0 +1,21 @@
+{
+    "name": "B\u00e1nh M\u00ec Que Ph\u00e1p - Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh",
+    "address": "62 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.8,
+        "quality": 7.3,
+        "space": 7.0,
+        "location": 6.8,
+        "service": 6.8,
+        "price": 6.3
+    },
+    "review_count": 4,
+    "opening_time": "06:00",
+    "closing_time": "19:30",
+    "min_price": "10.000",
+    "max_price": "17.000",
+    "audiences": null,
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/banh-mi-que-phap-nguyen-thi-dinh"
+}

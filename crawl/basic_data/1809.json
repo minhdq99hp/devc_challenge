@@ -1,0 +1,25 @@
+{
+    "name": "Pizza Ch\u1ea3o - \u0110\u1ed9i C\u1ea5n",
+    "address": "414 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.2,
+        "price": null,
+        "location": null,
+        "service": null,
+        "quality": null,
+        "space": null
+    },
+    "review_count": 10,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "40.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/pizza-chao"
+}

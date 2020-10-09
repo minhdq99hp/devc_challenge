@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 Bun H\u00e0 N\u1ed9i - Kem & S\u1eefa Chua Tr\u00e2n Ch\u00e2u - Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch",
+    "address": "112C4 Trung T\u1ef1 Ng\u00f5 46C Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "33.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-bun-ha-noi-kem-sua-chua-tran-chau-pham-ngoc-thach"
+}

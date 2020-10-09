@@ -1,0 +1,25 @@
+{
+    "name": "ThaiExpress - AEON Mall Long Bi\u00ean",
+    "address": "T\u1ea7ng 3, AEON Mall Long Bi\u00ean, 27 C\u1ed5 Linh, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 7.0,
+        "quality": 7.5,
+        "location": 7.3,
+        "space": 7.1,
+        "service": 7.1,
+        "price": 6.0
+    },
+    "review_count": 21,
+    "opening_time": "11:30",
+    "closing_time": "14:00 | 18:00",
+    "min_price": "10.000",
+    "max_price": "90.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Th\u00e1i",
+    "url": "https://www.foody.vn/ha-noi/thai-express-aeon-mall-long-bien"
+}

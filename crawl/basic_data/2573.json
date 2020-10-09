@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Vi\u1ec7t Nam - Hu\u1ef3nh Th\u00fac Kh\u00e1ng",
+    "address": "11 Ng\u00f5 16 Hu\u1ef3nh Th\u00fac Kh\u00e1ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-viet-nam-huynh-thuc-khang"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m B\u00e1nh M\u00ec 35K",
+    "address": "324 B\u1ea1ch Mai, P. B\u00e1ch Khoa, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.6,
+        "location": null,
+        "space": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "17:00",
+    "closing_time": "21:30",
+    "min_price": "5.000",
+    "max_price": "118.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-banh-mi-35k"
+}

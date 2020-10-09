@@ -1,0 +1,25 @@
+{
+    "name": "Pizza Sunflower - 100% Pizza T\u01b0\u01a1i",
+    "address": "18 Ng\u00e1ch 27 Ng\u00f5 350 Kim Giang, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.2,
+        "service": 8.2,
+        "price": 7.8,
+        "location": 6.8,
+        "space": 6.8,
+        "quality": 6.4
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "80.000",
+    "max_price": "160.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/pizza-sunflower-giao-hang-tan-noi"
+}

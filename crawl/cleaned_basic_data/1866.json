@@ -1,0 +1,25 @@
+{
+    "name": "Angon - C\u01a1m T\u1ea5m S\u00e0i G\u00f2n",
+    "address": "58 Kim \u0110\u1ed3ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "quality": 7.6,
+        "space": 7.5,
+        "service": 7.2,
+        "location": 7.0,
+        "price": 6.5
+    },
+    "review_count": 18,
+    "opening_time": "10:30",
+    "closing_time": "21:00",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/angon-com-tam-sai-gon"
+}

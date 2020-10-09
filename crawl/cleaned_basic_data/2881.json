@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 N\u01b0\u1edbng \u00d2 \u00d3 O - H\u1ea1 H\u1ed3i",
+    "address": "26 X\u00f3m H\u1ea1 H\u1ed3i, Tr\u1ea7n H\u01b0ng \u0110\u1ea1o, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "quality": 7.6,
+        "price": 7.3,
+        "service": 7.0,
+        "location": 6.9,
+        "space": 6.6
+    },
+    "review_count": 156,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 16:00",
+    "min_price": "50.000",
+    "max_price": "208.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi Manager"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-nuong-o-o-o-ha-hoi"
+}

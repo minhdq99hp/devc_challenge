@@ -1,0 +1,24 @@
+{
+    "name": "Chicken BBQ - C\u1ea7u V\u1ed3ng",
+    "address": "31 C\u1ea7u V\u1ed3ng, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "price": 7.0,
+        "quality": 7.0,
+        "location": 6.6,
+        "space": 6.4,
+        "service": 6.0
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/chicken-bbq"
+}

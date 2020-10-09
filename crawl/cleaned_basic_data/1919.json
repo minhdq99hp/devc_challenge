@@ -1,0 +1,24 @@
+{
+    "name": "Kimbap H\u00e0n Qu\u1ed1c - Tr\u1ea7n Qu\u1ed1c Ho\u00e0n",
+    "address": "26 Tr\u1ea7n Qu\u1ed1c Ho\u00e0n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.7,
+        "location": 7.2,
+        "space": 6.6,
+        "service": 6.6,
+        "quality": 6.5,
+        "price": 6.4
+    },
+    "review_count": 62,
+    "opening_time": "08:00",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/kimbap-han-quoc-tran-quoc-hoan"
+}

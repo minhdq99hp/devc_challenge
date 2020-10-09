@@ -1,0 +1,25 @@
+{
+    "name": "D\u01b0\u01a1ng - C\u01a1m T\u1ea5m S\u00e0i G\u00f2n - T\u1ea1 Quang B\u1eedu",
+    "address": "Cu\u1ed1i Ng\u00f5 1 T\u1ea1 Quang B\u1eedu, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "25.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Mi\u1ec1n Nam",
+    "url": "https://www.foody.vn/ha-noi/duong-com-tam-sai-gon-ta-quang-buu"
+}

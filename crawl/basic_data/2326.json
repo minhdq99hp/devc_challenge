@@ -1,0 +1,25 @@
+{
+    "name": "Ng\u1ecdc Di\u1ec7p - G\u00e0 T\u1ea7n Thu\u1ed1c B\u1eafc Online - Kim Ng\u01b0u",
+    "address": "146 Ng\u00f5 559 Kim Ng\u01b0u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.8,
+        "price": 8.0,
+        "quality": 8.0,
+        "service": 8.0,
+        "location": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "50.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ngoc-diep-ga-tan-thuoc-bac-online-kim-nguu"
+}

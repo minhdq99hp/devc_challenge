@@ -1,0 +1,25 @@
+{
+    "name": "Y\u1ebfn Ch\u00edp - X\u00f4i G\u00e0 B\u00f3p, Ch\u00e2n G\u00e0 B\u00f3p X\u1ee9 Hu\u1ebf & Ch\u00e1o G\u00e0",
+    "address": "26/32 \u0110\u1ed7 \u0110\u1ee9c D\u1ee5c, P. M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 3,
+    "opening_time": "00:01",
+    "closing_time": "02:00 | 11:00",
+    "min_price": "30.000",
+    "max_price": "130.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/yen-chip-xoi-ga-bop-chan-ga-bop-xu-hue-chao-ga"
+}

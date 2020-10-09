@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 S\u1ea7u Li\u00ean & D\u1eeba D\u1ea7m - Tri\u1ec1u Kh\u00fac",
+    "address": "1 Ng\u00f5 66A Tri\u1ec1u Kh\u00fac, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 4.2,
+        "location": null,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "min_price": "15.000",
+    "max_price": "32.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/dua-dam-che-sau-lien-trieu-khuc"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "H\u01b0\u01a1ng B\u00e9o - B\u00e1nh Cu\u1ed1n L\u1ea1ng S\u01a1n - Nguy\u1ec5n Tr\u00e3i",
+    "address": "Ki \u1ed0t 41/129 Nguy\u1ec5n Tr\u00e3i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.9,
+        "price": 7.4,
+        "location": 7.1,
+        "quality": 6.8,
+        "service": 6.7,
+        "space": 6.4
+    },
+    "review_count": 17,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/huong-beo-banh-cuon-lang-son"
+}

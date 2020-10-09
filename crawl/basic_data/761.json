@@ -1,0 +1,25 @@
+{
+    "name": "Phong Huy - Ti\u1ec7m B\u00e1nh Kem",
+    "address": "124 \u0110\u1ecbnh C\u00f4ng Th\u01b0\u1ee3ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 4.8,
+        "location": null,
+        "service": null,
+        "price": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 6,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phong-huy-tiem-banh-kem"
+}

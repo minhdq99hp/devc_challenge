@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m G\u00e0 B\u1ea3o Nam - C\u01a1m V\u0103n Ph\u00f2ng Online",
+    "address": "26A Ng\u00f5 143 Ng\u00f5 Ch\u1ee3 Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Giao c\u01a1m v\u0103n ph\u00f2ng",
+    "scores": {
+        "avg_score": 6.2,
+        "quality": 6.8,
+        "location": 6.4,
+        "price": 6.0,
+        "service": 6.0,
+        "space": 6.0
+    },
+    "review_count": 5,
+    "opening_time": "10:00",
+    "closing_time": "23:59",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ga-bao-nam-com-van-phong-online"
+}

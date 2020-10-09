@@ -1,0 +1,25 @@
+{
+    "name": "Bami Mix - X\u00f4i N\u00f3ng Ph\u00fa Th\u01b0\u1ee3ng & X\u00edu P\u00e1o Nam \u0110\u1ecbnh",
+    "address": "Ng\u00f5 2 Th\u00e1i H\u00e0, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 3.4,
+        "location": null,
+        "price": null,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "17:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bami-mix-xoi-nong-phu-thuong-xiu-pao-nam-dinh"
+}

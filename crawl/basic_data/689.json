@@ -1,0 +1,25 @@
+{
+    "name": "Tiger Sugar By HongKong - T\u1ed1 H\u1eefu",
+    "address": "17 Shophouse 24H T\u1ed1 H\u1eefu, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-to-huu"
+}

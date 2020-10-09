@@ -1,0 +1,25 @@
+{
+    "name": "Bento Delichi - C\u01a1m G\u00e0 X\u1ed1i M\u1eafm T\u1ecfi & X\u1ed1i M\u1ee1 - C\u1ea7u Gi\u1ea5y",
+    "address": "31 Ng\u00f5 21 Tr\u01b0\u01a1ng C\u00f4ng Giai, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 5.5,
+        "location": 6.0,
+        "space": 6.0,
+        "service": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 7,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bento-delichi-com-ga-xoi-mam-toi-xoi-mo-cau-giay"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m B\u00e1nh M\u00ec - C\u1ea7u Gi\u1ea5y",
+    "address": "365 C\u1ea7u Gi\u1ea5y, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "75.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-banh-mi-cau-giay"
+}

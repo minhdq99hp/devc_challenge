@@ -1,0 +1,24 @@
+{
+    "name": "Tiger Sugar Delivery - \u0110\u01b0\u1eddng N\u00e2u S\u1eefa \u0110\u00e0i Loan - Trung K\u00ednh",
+    "address": "182 Trung K\u00ednh, P. Y\u00ean H\u00f2a, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.3,
+        "price": 7.3,
+        "location": 6.7,
+        "space": 6.5,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 6,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-delivery-duong-nau-sua-dai-loan-trung-kinh"
+}

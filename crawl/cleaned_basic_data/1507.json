@@ -1,0 +1,25 @@
+{
+    "name": "\u00d4 Mai Lo\u1eafng - \u00d4 Mai Gia Truy\u1ec1n Online",
+    "address": "41 (C\u1ea1nh S\u1ed1 39) Kh\u01b0\u01a1ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.8,
+        "service": 10.0,
+        "price": 9.0,
+        "quality": 9.0,
+        "location": 8.0,
+        "space": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "21:30",
+    "min_price": "40.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/o-mai-loang-o-mai-gia-truyen-online"
+}

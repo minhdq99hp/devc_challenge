@@ -1,0 +1,24 @@
+{
+    "name": "Link Tea - Qu\u00e0 V\u1eb7t - Thanh Ni\u00ean",
+    "address": "18 Thanh Ni\u00ean, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/link-tea-qua-vat-thanh-nien"
+}

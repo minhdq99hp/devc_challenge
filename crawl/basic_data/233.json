@@ -1,0 +1,24 @@
+{
+    "name": "Madame Hana - G\u00e0 R\u00e1n & Tokbokki",
+    "address": "105A B9 T\u00f4 Hi\u1ec7u, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.8,
+        "location": null,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 13,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "120.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/madame-hana-ga-ran-tokbokki"
+}

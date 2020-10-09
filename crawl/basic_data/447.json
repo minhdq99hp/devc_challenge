@@ -1,0 +1,25 @@
+{
+    "name": "Bami Sot - B\u00e1nh M\u00ec \u0110en - Nguy\u1ec5n V\u0103n L\u1ed9c",
+    "address": "1 D\u00e3y 16B1 Nguy\u1ec5n V\u0103n L\u1ed9c, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:30",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bami-sot-banh-mi-sot-nguyen-van-loc"
+}

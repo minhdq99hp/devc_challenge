@@ -1,0 +1,25 @@
+{
+    "name": "Goky Premium - Tr\u1ea7n Cung",
+    "address": "367 Tr\u1ea7n Cung, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.9,
+        "location": 7.3,
+        "price": 7.0,
+        "quality": 7.0,
+        "service": 6.7,
+        "space": 6.3
+    },
+    "review_count": 6,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/goky-premium-tran-cung"
+}

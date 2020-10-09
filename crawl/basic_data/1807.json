@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n 74 - Ngh\u0129a T\u00e2n",
+    "address": "104 C3 KTT Ngh\u0129a T\u00e2n, P. Ngh\u0129a T\u00e2n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.3,
+        "price": 7.4,
+        "quality": 6.4,
+        "service": 6.2,
+        "location": null,
+        "space": null
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "15.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-trang-tron-74-nghia-tan"
+}

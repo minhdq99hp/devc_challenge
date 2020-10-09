@@ -1,0 +1,25 @@
+{
+    "name": "Deilyno - B\u00fan Tr\u1ed9n Nam B\u1ed9 & Mi\u1ebfn Tr\u1ed9n \u0110\u1eb7c Bi\u1ec7t - Th\u00fay L\u0129nh",
+    "address": "21B Ng\u00e1ch 49/92 Ng\u00f5 49 Th\u00fay L\u0129nh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "21:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/deilyno-bun-tron-nam-bo-mien-tron-dac-biet-thuy-linh"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - Quang Trung",
+    "address": "45 Quang Trung, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.7,
+        "location": 9.0,
+        "price": 9.0,
+        "service": 9.0,
+        "space": 8.5,
+        "quality": 8.0
+    },
+    "review_count": 2,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-quang-trung"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n Popeyes - Times City",
+    "address": "L\u00f4 TN-36, \u01109-8, T\u1ea7ng B1 Vincom Mega Mall Times City, 458 Minh Khai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 5.9,
+        "space": 6.3,
+        "location": 6.0,
+        "quality": null,
+        "price": null,
+        "service": null
+    },
+    "review_count": 14,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-ran-popeyes-times-city"
+}

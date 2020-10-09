@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Th\u1ee9c - B\u00e1nh M\u00ec X\u1ee9 Qu\u1ea3ng",
+    "address": "32 Ng\u00f5 252 T\u00e2y S\u01a1n, P. Trung Li\u1ec7t, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "00:01",
+    "closing_time": "23:59",
+    "min_price": "6.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-thuc-banh-mi-xu-quang"
+}

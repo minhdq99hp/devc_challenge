@@ -1,0 +1,25 @@
+{
+    "name": "Dimsum \u0110i\u1ec3m T\u00e2m \u0110\u00e0i Loan - Nguy\u1ec5n Bi\u1ec3u",
+    "address": "25 Nguy\u1ec5n Bi\u1ec3u, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.2,
+        "quality": 8.7,
+        "price": 8.7,
+        "service": 8.3,
+        "location": 7.8,
+        "space": 7.7
+    },
+    "review_count": 35,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/dimsum-long-truc-dai-loan-nguyen-bieu"
+}

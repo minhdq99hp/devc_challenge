@@ -1,0 +1,25 @@
+{
+    "name": "X\u00f4i Tu\u1ea5n - B\u1ea1ch Mai",
+    "address": "40 Ng\u00e1ch 66 Ng\u00f5 \u0110\u00ecnh \u0110\u00f4ng, B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 2.6,
+        "location": null,
+        "space": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/xoi-tuan-bach-mai"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 \u0110\u00e0 N\u1eb5ng",
+    "address": "34A D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.1,
+        "location": 6.5,
+        "price": 6.4,
+        "service": 6.1,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 39,
+    "opening_time": "11:00",
+    "closing_time": "21:30",
+    "min_price": "15.000",
+    "max_price": "15.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Qu\u1ea3ng",
+    "url": "https://www.foody.vn/ha-noi/che-da-nang"
+}

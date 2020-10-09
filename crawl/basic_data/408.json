@@ -1,0 +1,24 @@
+{
+    "name": "TeaTaste - Ngh\u0129a D\u0169ng",
+    "address": "14 Ng\u00e1ch 12/36 Ngh\u0129a D\u0169ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.0,
+        "price": 6.7,
+        "location": 6.0,
+        "space": 6.0,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 7,
+    "opening_time": "11:00",
+    "closing_time": "23:30",
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/teataste-nghia-dung"
+}

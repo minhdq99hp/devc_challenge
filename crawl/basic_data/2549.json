@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp H\u1ed3ng - Ch\u00e8, Ch\u00e1o & C\u00e1c M\u00f3n \u0102n Ngon - Shop Online",
+    "address": "20B Ng\u00f5 4 Ao Sen, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "20:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-hong-che-chao-cac-mon-an-ngon-shop-online"
+}

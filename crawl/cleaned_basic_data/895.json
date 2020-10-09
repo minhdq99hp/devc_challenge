@@ -1,0 +1,25 @@
+{
+    "name": "Th\u00e0nh To\u00e0n - B\u00e1nh M\u00ec C\u00e1c Lo\u1ea1i",
+    "address": "\u0110\u1ea7u \u0110\u01b0\u1eddng Ho\u00e0ng Tr\u1ecdng M\u1eadu (\u0110\u1ed1i Di\u1ec7n C\u1ed5ng Tr\u01b0\u1eddng Sa Tr\u01b0\u1eddng Marie Curie), Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.6,
+        "price": 9.0,
+        "quality": 9.0,
+        "location": 8.5,
+        "service": 8.5,
+        "space": 8.0
+    },
+    "review_count": 2,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thanh-toan-banh-mi-cac-loai"
+}

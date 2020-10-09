@@ -1,0 +1,21 @@
+{
+    "name": "Tr\u01b0\u1eddng T\u00e2m - Nem, N\u1ed9m & \u0110\u1ed3 \u0102n V\u1eb7t",
+    "address": "105 A5 Th\u00e0nh C\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.3,
+        "quality": 7.7,
+        "price": 7.5,
+        "service": 7.5,
+        "location": 7.2,
+        "space": 6.8
+    },
+    "review_count": 42,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "40.000",
+    "max_price": "88.000",
+    "audiences": null,
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/truong-tam-nem-nom-do-an-vat"
+}

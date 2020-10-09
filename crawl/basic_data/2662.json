@@ -1,0 +1,25 @@
+{
+    "name": "Juicy - N\u01b0\u1edbc \u00c9p & S\u1eefa H\u1ea1t Dinh D\u01b0\u1ee1ng - Shop Online",
+    "address": "35 Ng\u00e1ch 43/106 Ng\u00f5 123 Trung K\u00ednh, P. Trung Ho\u00e0, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "18:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/juicy-nuoc-ep-sua-hat-dinh-duong-shop-online"
+}

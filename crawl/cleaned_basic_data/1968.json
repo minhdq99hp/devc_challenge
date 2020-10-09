@@ -1,0 +1,24 @@
+{
+    "name": "Anh G\u1ea5u - M\u00ec Tr\u1ed9n Indomie",
+    "address": "66 Ng\u00f5 58 Tr\u1ea7n B\u00ecnh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.0,
+        "quality": 9.5,
+        "price": 9.3,
+        "service": 9.0,
+        "location": 8.8,
+        "space": 8.3
+    },
+    "review_count": 12,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "32.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/anh-gau-mi-tron-indomie"
+}

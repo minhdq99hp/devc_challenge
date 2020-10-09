@@ -1,0 +1,23 @@
+{
+    "name": "Ch\u00e1o Thu Huy\u1ec1n",
+    "address": "75 Ng\u00f5 63 Tr\u1ea7n Qu\u1ed1c V\u01b0\u1ee3ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-dinh-duong-thu-huyen"
+}

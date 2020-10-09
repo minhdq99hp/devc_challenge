@@ -1,0 +1,25 @@
+{
+    "name": "Beo Food - M\u00ec Tr\u1ed9n Indomie Online",
+    "address": "79 B\u1ea1ch \u0110\u1eb1ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "23:59",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/beo-food-mi-tron-indomie-online"
+}

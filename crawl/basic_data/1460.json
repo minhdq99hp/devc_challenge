@@ -1,0 +1,25 @@
+{
+    "name": "Ph\u1edf & C\u01a1m Rang C\u00e1c Lo\u1ea1i - Tam Trinh",
+    "address": "5 Ng\u00f5 293 Tam Trinh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:30",
+    "closing_time": "14:00",
+    "min_price": "35.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pho-com-rang-cac-loai-tam-trinh"
+}

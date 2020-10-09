@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh M\u00ec Minh Nh\u1eadt - H\u1ed3 T\u00f9ng M\u1eadu",
+    "address": "100 H\u1ed3 T\u00f9ng M\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.0,
+        "location": 8.0,
+        "service": 7.6,
+        "space": 7.0,
+        "quality": 6.3,
+        "price": 6.0
+    },
+    "review_count": 9,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-minh-nhat-ho-tung-mau"
+}

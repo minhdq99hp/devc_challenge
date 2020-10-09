@@ -1,0 +1,21 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - V\u1ea1n Ph\u00fac",
+    "address": "101 V\u1ea1n Ph\u00fac, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.6,
+        "space": 8.2,
+        "location": 8.0,
+        "quality": 7.6,
+        "service": 7.3,
+        "price": 6.8
+    },
+    "review_count": 45,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "66.000",
+    "audiences": null,
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-van-phuc"
+}

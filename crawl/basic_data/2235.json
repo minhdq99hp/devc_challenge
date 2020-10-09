@@ -1,0 +1,26 @@
+{
+    "name": "Coca House - C\u01a1m T\u1ea5m S\u01b0\u1eddn N\u01b0\u1edbng",
+    "address": "111 Nam \u0110\u1ed3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "location": 6.5,
+        "service": 6.4,
+        "space": 6.2,
+        "price": 6.1,
+        "quality": null
+    },
+    "review_count": 42,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/coca-house-nam-dong"
+}

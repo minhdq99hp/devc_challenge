@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00fac M\u00e2y - B\u00e1nh T\u00f4m H\u1ed3 T\u00e2y, B\u1ed9t L\u1ecdc & Nem Chua",
+    "address": "69A Ng\u00f5 50 \u0110\u1eb7ng Thai Mai, P. Qu\u1ea3ng An, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "70.000",
+    "max_price": "130.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/truc-may-banh-tom-ho-tay-bot-loc-nem-chua"
+}

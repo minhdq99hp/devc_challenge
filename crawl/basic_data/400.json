@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh M\u00ec Nh\u01b0 Lan Th\u00e0nh B\u1ecd - Nguy\u00ean H\u1ed3ng",
+    "address": "9H Nguy\u00ean H\u1ed3ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.4,
+        "service": 6.7,
+        "location": 6.6,
+        "price": 6.4,
+        "space": 6.3,
+        "quality": null
+    },
+    "review_count": 7,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-nhu-lan-nguyen-hong"
+}

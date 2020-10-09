@@ -1,0 +1,25 @@
+{
+    "name": "D\u0169ng B\u1ed9p - C\u01a1m Rang \u0110\u00f9i G\u00e0",
+    "address": "4A12 T\u1eadp Th\u1ec3 \u0110\u1ea1i H\u1ecdc Ngo\u1ea1i Ng\u1eef, Ng\u00f5 215 Tr\u1ea7n Qu\u1ed1c Ho\u00e0n, P. D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.0,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "location": null,
+        "space": null
+    },
+    "review_count": 8,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Nha Trang",
+    "url": "https://www.foody.vn/ha-noi/dung-minh-com-rang-dui-ga"
+}

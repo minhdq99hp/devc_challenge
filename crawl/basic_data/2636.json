@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 T\u00e2m An - T\u1eadp Th\u1ec3 Gi\u1ea3ng V\u00f5",
+    "address": "103 D3 TT. Gi\u1ea3ng V\u00f5, Gi\u1ea3ng V\u00f5, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:30",
+    "closing_time": "18:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-tam-an-tap-the-giang-vo"
+}

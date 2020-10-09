@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp Bum - B\u00fan Tr\u1ed9n B\u00f2 & B\u00fan \u0110\u1eadu - Shop Online",
+    "address": "11 Ng\u00f5 107B T\u00f4n \u0110\u1ee9c Th\u1eafng, P. H\u00e0ng B\u1ed9t, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.8,
+        "quality": 9.9,
+        "location": 9.9,
+        "price": 9.9,
+        "service": 9.8,
+        "space": 9.7
+    },
+    "review_count": 27,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-bum-bun-tron-bo-bun-dau-shop-online"
+}

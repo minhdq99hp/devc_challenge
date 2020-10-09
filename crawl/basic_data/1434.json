@@ -1,0 +1,24 @@
+{
+    "name": "U H\u01b0\u1eddn B\u00e9o - M\u00ec Tr\u1ed9n Indomie",
+    "address": "111B Ng\u00f5 12 Phan \u0110\u00ecnh Gi\u00f3t, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.3,
+        "price": 9.8,
+        "service": 9.6,
+        "quality": 9.4,
+        "location": 9.0,
+        "space": 8.6
+    },
+    "review_count": 5,
+    "opening_time": "08:30",
+    "closing_time": "20:00",
+    "min_price": "30.000",
+    "max_price": "500.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/u-huon-beo-mi-tron-indomie"
+}

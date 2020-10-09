@@ -1,0 +1,26 @@
+{
+    "name": "Pizza \u00d4ng T\u00e2y - L\u00ea V\u0103n L\u01b0\u01a1ng",
+    "address": "38 L\u00ea V\u0103n L\u01b0\u01a1ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.3,
+        "price": 7.0,
+        "service": 6.3,
+        "location": 6.2,
+        "space": 6.0,
+        "quality": null
+    },
+    "review_count": 105,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "350.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Tr\u1ebb em"
+    ],
+    "cuisine": "\u00dd",
+    "url": "https://www.foody.vn/ha-noi/pizza-ong-tay-le-van-luong"
+}

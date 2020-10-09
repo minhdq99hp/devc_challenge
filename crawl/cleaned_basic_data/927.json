@@ -1,0 +1,24 @@
+{
+    "name": "Eatwell - Healthy Food",
+    "address": "1 Ng\u00e1ch 5 Ng\u00f5 20 Nguy\u1ec5n Ch\u00e1nh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.9,
+        "price": 7.1,
+        "quality": 7.0,
+        "service": 7.0,
+        "location": 6.9,
+        "space": 6.6
+    },
+    "review_count": 244,
+    "opening_time": "08:00",
+    "closing_time": "20:00",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/eatwell-healthy-food"
+}

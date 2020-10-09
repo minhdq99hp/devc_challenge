@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m Ph\u01b0\u01a1ng Anh - Ng\u00f5 T\u1ef1 Do",
+    "address": "69 Ng\u00f5 T\u1ef1 Do, Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "price": 6.7,
+        "service": 6.7,
+        "quality": 6.6,
+        "space": 6.6,
+        "location": 6.4
+    },
+    "review_count": 9,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "40.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-phuong-anh-ta-quang-buu"
+}

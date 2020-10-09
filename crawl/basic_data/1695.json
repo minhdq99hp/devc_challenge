@@ -1,0 +1,25 @@
+{
+    "name": "Y\u00eau M\u00ec - Ti\u1ec7m M\u00ec Indomee Online - M\u1ea1c Th\u00e1i T\u1ed5",
+    "address": "P108 TT \u0110\u1ecba Ch\u00ednh Trung K\u00ednh, 31 M\u1ea1c Th\u00e1i T\u1ed5, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.2,
+        "space": 10.0,
+        "price": 9.0,
+        "service": 9.0,
+        "quality": 8.0,
+        "location": null
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/yeu-mi-tiem-mi-indomee-online-vuong-thua-vu"
+}

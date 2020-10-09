@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - Vincom Center Nguy\u1ec5n Ch\u00ed Thanh",
+    "address": "T\u1ea7ng BH, Vincom Center Nguy\u1ec5n Ch\u00ed Thanh, 54A Nguy\u1ec5n Ch\u00ed Thanh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.3,
+        "space": 6.8,
+        "quality": 6.8,
+        "price": 6.5,
+        "service": 6.5
+    },
+    "review_count": 90,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "37.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-vincom-center-nguyen-chi-thanh"
+}

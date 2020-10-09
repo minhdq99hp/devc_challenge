@@ -1,0 +1,24 @@
+{
+    "name": "Mr.Tin - Ch\u00e1o S\u01b0\u1eddn S\u1ee5n & Ch\u00e1o Trai - B\u00e1ch Khoa",
+    "address": "P203 E2 C\u1ea7u Thang 2 Ng\u00f5 27 T\u1ea1 Quang B\u1eedu, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.6,
+        "location": 7.0,
+        "price": 7.0,
+        "service": 7.0,
+        "quality": 6.0,
+        "space": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "40.000",
+    "max_price": "65.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mr-tin-chao-suon-sun-chao-trai-bach-khoa"
+}

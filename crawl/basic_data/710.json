@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u1ecb C\u00fac - B\u00fan Tr\u1ed9n Nam B\u1ed9 - V\u0129nh Ph\u00fac",
+    "address": "105 Nh\u00e0 D0, Khu 72HA V\u0129nh Ph\u00fac, P. V\u0129nh Ph\u00fac, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:45",
+    "closing_time": "21:00",
+    "min_price": "45.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chi-cuc-bun-tron-nam-bo-vinh-phuc"
+}

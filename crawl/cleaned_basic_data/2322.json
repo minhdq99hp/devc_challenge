@@ -1,0 +1,25 @@
+{
+    "name": "V\u1ecbt H\u1ea3i Lan - V\u1ecbt C\u1ecf V\u00e2n \u0110\u00ecnh",
+    "address": "Cu\u1ed1i Ng\u00f5 49A Tr\u1ea7n Qu\u1ed1c To\u1ea3n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "location": 9.0,
+        "service": 8.0,
+        "space": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "10:15",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hai-lan-vit-co-van-dinh"
+}

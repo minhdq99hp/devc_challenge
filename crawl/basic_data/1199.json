@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ea3o Phong - Ph\u1edf B\u00f2, C\u01a1m Rang & M\u00ec X\u00e0o - Ph\u1ea1m Th\u1eadn Du\u1eadt",
+    "address": "8 Ph\u1ea1m Th\u1eadn Du\u1eadt, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 8.3,
+        "space": 8.3,
+        "location": 8.0,
+        "service": 6.7,
+        "quality": null
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bao-phong-pho-bo-com-rang-mi-xao"
+}

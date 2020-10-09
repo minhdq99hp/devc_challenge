@@ -1,0 +1,26 @@
+{
+    "name": "B\u00fan B\u00f2 Hu\u1ebf Thu S\u01b0\u01a1ng",
+    "address": "107 D1 \u0110\u1ea7u Ng\u00f5 5 Khu\u1ea5t Duy Ti\u1ebfn, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "location": 7.2,
+        "quality": 7.0,
+        "service": 6.4,
+        "price": 6.3,
+        "space": 6.3
+    },
+    "review_count": 24,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thu-suong-bun-bo-hue"
+}

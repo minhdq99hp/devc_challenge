@@ -1,0 +1,25 @@
+{
+    "name": "Th\u00e1i H\u00e0 Food - Ph\u1edf Cu\u1ed1n & B\u00fan Tr\u1ed9n - Shop Online",
+    "address": "20 Ng\u00e1ch 151A/21 Th\u00e1i H\u00e0, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.8,
+        "quality": 9.9,
+        "location": 9.8,
+        "price": 9.8,
+        "service": 9.7,
+        "space": 9.7
+    },
+    "review_count": 22,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "35.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thai-ha-food-pho-cuon-bun-tron-shop-online"
+}

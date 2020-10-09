@@ -1,0 +1,25 @@
+{
+    "name": "BUMTRO - B\u00fan Tr\u1ed9n Nam B\u1ed9 - Tr\u00e0ng Thi",
+    "address": "48 Tr\u00e0ng Thi, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.0,
+        "quality": null,
+        "service": null,
+        "space": null,
+        "location": null,
+        "price": null
+    },
+    "review_count": 3,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bumtro-bun-tron-nam-bo-trang-thi"
+}

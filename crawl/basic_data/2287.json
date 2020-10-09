@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp B\u00e9 Khoai - C\u01a1m V\u0103n Ph\u00f2ng Online",
+    "address": "44 Ng\u00f5 T\u1ef1 Do, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:30",
+    "closing_time": "20:30",
+    "min_price": "30.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-be-khoai-com-van-phong-online"
+}

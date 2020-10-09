@@ -1,0 +1,25 @@
+{
+    "name": "Bee Cu\u1ed1n - M\u00f3n Ngon Nh\u00e0 L\u00e0m Online",
+    "address": "3A Ng\u00f5 6 Ao Sen, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 4.7,
+        "location": null,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 15,
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bee-cuon-mon-ngon-nha-lam-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Foody C\u1ea7u Gi\u1ea5y - \u0110\u1ed3 \u0102n V\u1eb7t",
+    "address": "7 Ng\u00e1ch 43/99/15 Trung K\u00ednh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.4,
+        "location": 8.0,
+        "quality": 8.0,
+        "price": 7.0,
+        "service": 7.0,
+        "space": 7.0
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "60.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/foody-cau-giay-do-an-vat"
+}

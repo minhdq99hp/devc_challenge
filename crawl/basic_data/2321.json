@@ -1,0 +1,25 @@
+{
+    "name": "X\u00f4i Ngon Ph\u00fa Th\u01b0\u1ee3ng",
+    "address": "113 \u0110\u1ed1c Ng\u1eef, P. Li\u1ec5u Giai, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "05:30",
+    "closing_time": "14:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/xoi-ngon-phu-thuong"
+}

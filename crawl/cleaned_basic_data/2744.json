@@ -1,0 +1,25 @@
+{
+    "name": "S\u1eefa Chua Tr\u00e2n Ch\u00e2u Madam L\u1eadp",
+    "address": "146 Ng\u00f4 Gia T\u1ef1, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.0,
+        "location": 8.0,
+        "price": 8.0,
+        "quality": 8.0,
+        "service": 8.0,
+        "space": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-tran-chau-madam-lap"
+}

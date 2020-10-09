@@ -1,0 +1,25 @@
+{
+    "name": "Mai Chi - B\u00e1nh M\u00ec & B\u00fan \u0110\u1eadu M\u1eb9t",
+    "address": "18 T\u1ed5 4 Ng\u00f5 127 Ph\u00f9ng Khoang, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mai-chi-banh-mi-bun-dau-met"
+}

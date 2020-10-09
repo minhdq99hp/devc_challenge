@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e0 Ba Qu\u00e1n - C\u01a1m G\u00e0 X\u00edu - Ho\u00e0ng Hoa Th\u00e1m",
+    "address": "12 Ng\u00e1ch 189/35 Ho\u00e0ng Hoa Th\u00e1m, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.9,
+        "price": 7.2,
+        "quality": 7.1,
+        "location": 6.8,
+        "service": 6.8,
+        "space": 6.6
+    },
+    "review_count": 22,
+    "opening_time": "09:00",
+    "closing_time": "19:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ba-ba-quan-com-ga-xiu-hoang-hoa-tham"
+}

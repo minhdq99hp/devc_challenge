@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan, Mi\u1ebfn & B\u00e1nh \u0110a Tr\u1ed9n - Tr\u1ea7n Qu\u1ed1c V\u01b0\u1ee3ng",
+    "address": "26 Ng\u00f5 105 Tr\u1ea7n Qu\u1ed1c V\u01b0\u1ee3ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.8,
+        "location": null,
+        "price": null,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 5,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-mien-banh-da-tron-tran-quoc-vuong"
+}

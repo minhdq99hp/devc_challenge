@@ -1,0 +1,21 @@
+{
+    "name": "Mi\u1ebfn, B\u00e1nh \u0110a & M\u00ec Indomie Tr\u1ed9n Ph\u1ed1 C\u1ed5 - Tr\u1ea7n Kh\u00e1t Ch\u00e2n",
+    "address": "39 Ng\u00f5 424 Tr\u1ea7n Kh\u00e1t Ch\u00e2n, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.9,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "location": 9.7
+    },
+    "review_count": 3,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": null,
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/mien-banh-da-mi-indomie-tron-pho-co-tran-khat-chan"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "BUMTRO - B\u00fan Tr\u1ed9n Nam B\u1ed9 - T\u00f4n Th\u1ea5t T\u00f9ng",
+    "address": "80 Ng\u00f5 22 T\u00f4n Th\u1ea5t T\u00f9ng, P. Kh\u01b0\u01a1ng Th\u01b0\u1ee3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bumtro-bun-tron-nam-bo-ton-that-tung"
+}

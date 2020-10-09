@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh M\u00ec H\u01b0\u01a1ng Lan",
+    "address": "6C L\u00e1ng H\u1ea1, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.7,
+        "price": 8.2,
+        "location": 8.0,
+        "quality": 7.6,
+        "service": 7.5,
+        "space": 7.4
+    },
+    "review_count": 25,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-huong-lan"
+}

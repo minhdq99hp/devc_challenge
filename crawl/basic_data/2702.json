@@ -1,0 +1,25 @@
+{
+    "name": "Daan Chefs - Pizza N\u01b0\u1edbng C\u1ee7i",
+    "address": "281C \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 7.0,
+        "price": 6.9,
+        "quality": 6.4,
+        "service": 6.1,
+        "space": null
+    },
+    "review_count": 18,
+    "opening_time": "06:30",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "245.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/daan-chefs-pizza-nuong-cui"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Kem Swensen's - AEON Mall Long Bi\u00ean",
+    "address": "T\u1ea7ng 1, AEON Mall Long Bi\u00ean, 27 C\u1ed5 Linh, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.4,
+        "location": 7.8,
+        "space": 7.7,
+        "service": 7.7,
+        "quality": 7.5,
+        "price": 6.5
+    },
+    "review_count": 56,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "80.000",
+    "max_price": "170.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/kem-swensen-s-aeon-mall-long-bien"
+}

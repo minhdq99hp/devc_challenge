@@ -1,0 +1,24 @@
+{
+    "name": "Luy\u1ebfn - B\u00fan Ch\u1ea3",
+    "address": "22 \u0110\u1ecbnh C\u00f4ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 4.4,
+        "location": null,
+        "price": null,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 3,
+    "opening_time": "06:00",
+    "closing_time": "15:00",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/luyen-bun-cha"
+}

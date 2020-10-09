@@ -1,0 +1,25 @@
+{
+    "name": "GN Foods - G\u00e0 Chi\u00ean Gi\u00f2n, C\u01a1m G\u00e0",
+    "address": "\u00d4 1 - T\u1ea7ng 1, To\u00e0 Newskyline, L\u00f4 CC2 K\u0110T V\u0103n Qu\u00e1n, P. V\u0103n Qu\u00e1n, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "11.000",
+    "max_price": "128.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/gn-foods-ga-chien-gion-com-ga"
+}

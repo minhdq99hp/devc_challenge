@@ -1,0 +1,25 @@
+{
+    "name": "Th\u1eafm Food - C\u01a1m & \u0102n V\u1eb7t H\u00e0n Qu\u1ed1c - L\u1ea1c Long Qu\u00e2n",
+    "address": "49 Ngo\u0303 447 La\u0323c Long Qu\u00e2n, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 7.7,
+        "quality": 7.0,
+        "service": 6.3,
+        "space": 6.0,
+        "price": null
+    },
+    "review_count": 3,
+    "opening_time": "11:00",
+    "closing_time": "21:00",
+    "min_price": "35.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/tham-food-com-an-vat-han-quoc-lac-long-quan"
+}

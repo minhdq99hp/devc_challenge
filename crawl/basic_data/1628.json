@@ -1,0 +1,24 @@
+{
+    "name": "Qu\u1ea3 Qu\u00e1n - D\u1eeba Xi\u00eam & \u0110\u1ed3 \u0102n V\u1eb7t - Quan Nh\u00e2n",
+    "address": "192 Quan Nh\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 2.7,
+        "location": null,
+        "space": null,
+        "price": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 13,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "0.004",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/qua-quan-dua-xiem-do-an-vat"
+}

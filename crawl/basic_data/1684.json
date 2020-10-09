@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 Chanh B\u1ee5i Ph\u1ed1 - M\u1ef9 \u0110\u00ecnh",
+    "address": "23 M\u1ef9 \u0110\u00ecnh, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.1,
+        "location": 8.3,
+        "price": 7.3,
+        "space": 6.3,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-chanh-bui-pho-my-dinh"
+}

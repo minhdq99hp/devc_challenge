@@ -1,0 +1,25 @@
+{
+    "name": "Buntom - B\u00fan Tr\u1ed9n Nam B\u1ed9",
+    "address": "Kiot 13, 120 \u0110\u1ed1c Ng\u1eef, P. V\u0129nh Ph\u00fac, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "55.000",
+    "max_price": "65.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/buntom-bun-tron-nam-bo"
+}

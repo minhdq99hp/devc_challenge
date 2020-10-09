@@ -1,0 +1,25 @@
+{
+    "name": "Nem N\u01b0\u1edbng Nha Trang & B\u00e1nh M\u00ec H\u00e2n Nguy\u00ean",
+    "address": "5 Ng\u00e1ch 28 Ng\u00f5 105 Do\u00e3n K\u1ebf Thi\u1ec7n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:30",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-xoi-han-nguyen"
+}

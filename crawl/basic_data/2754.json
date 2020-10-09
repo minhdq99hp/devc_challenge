@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan Ch\u1ea3 Ngon - B\u1ed3 \u0110\u1ec1",
+    "address": "196 B\u1ed3 \u0110\u1ec1, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.9,
+        "quality": 6.5,
+        "service": 6.0,
+        "space": 6.0,
+        "price": null,
+        "location": null
+    },
+    "review_count": 4,
+    "opening_time": "06:00",
+    "closing_time": "15:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-cha-ngon-bo-de"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan H\u1ea3i S\u1ea3n 2S - V\u0103n Qu\u00e1n",
+    "address": "110 \u0110\u01b0\u1eddng 19/5, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.8,
+        "location": 6.4,
+        "quality": null,
+        "space": null,
+        "price": null,
+        "service": null
+    },
+    "review_count": 41,
+    "opening_time": "06:00",
+    "closing_time": "21:30",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-hai-san-2s"
+}

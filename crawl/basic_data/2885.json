@@ -1,0 +1,26 @@
+{
+    "name": "Burger King - Xu\u00e2n Di\u1ec7u",
+    "address": "3 Xu\u00e2n Di\u1ec7u, P. Qu\u1ea3ng An, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u1ef9",
+    "url": "https://www.foody.vn/ha-noi/burger-king-xuan-dieu"
+}

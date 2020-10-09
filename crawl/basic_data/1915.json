@@ -1,0 +1,25 @@
+{
+    "name": "Bento Delichi - C\u01a1m G\u00e0 X\u1ed1i M\u1eafm T\u1ecfi & X\u1ed1i M\u1ee1 - Gi\u00e1p Nh\u1ea5t",
+    "address": "291 Gi\u00e1p Nh\u1ea5t, P. Nh\u00e2n Ch\u00ednh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:30",
+    "closing_time": "21:30",
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bento-delichi-com-ga-xoi-mam-toi-xoi-mo-giap-nhat"
+}

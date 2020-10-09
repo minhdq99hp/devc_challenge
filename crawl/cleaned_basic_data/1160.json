@@ -1,0 +1,24 @@
+{
+    "name": "\u00cdch H\u00f2a \u0110\u01b0\u1eddng - Taiwan Tea - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "167 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.0,
+        "quality": 8.6,
+        "price": 8.4,
+        "service": 7.7,
+        "location": 7.6,
+        "space": 7.5
+    },
+    "review_count": 14,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/ich-hoa-duong-taiwan-tea-tran-dai-nghia"
+}

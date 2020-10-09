@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m D\u01b0\u01a1ng - Th\u00e1i Th\u1ecbnh",
+    "address": "198 Th\u00e1i Th\u1ecbnh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "price": 7.5,
+        "location": 7.3,
+        "service": 7.3,
+        "quality": 7.2,
+        "space": 6.6
+    },
+    "review_count": 74,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "40.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-duong-thai-thinh"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "H\u01b0\u01a1ng Qu\u00ea - B\u00fan \u0110\u1eadu M\u1eb9t",
+    "address": "244 T\u00e2n Mai (G\u1ea7n S\u00e2n B\u00f3ng T\u00e2n Mai), Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.8,
+        "price": null,
+        "location": null,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 5,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/huong-que-bun-dau-met"
+}

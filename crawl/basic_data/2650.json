@@ -1,0 +1,25 @@
+{
+    "name": "M\u1eb9 B\u1ed1p - Hoa Qu\u1ea3 D\u1ea7m & Sinh T\u1ed1 Online",
+    "address": "54 Ng\u00f5 129 Tr\u01b0\u01a1ng \u0110\u1ecbnh, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "min_price": "9.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/me-bop-hoa-qua-dam-sinh-to-online"
+}

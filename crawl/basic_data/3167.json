@@ -1,0 +1,25 @@
+{
+    "name": "V\u0169 Thu H\u1eb1ng - Gimbap Hanoi - B\u1ea1ch Mai - Shop Online",
+    "address": "101 B10 KTT Tr\u1ea1i G\u0103ng, B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.2,
+        "location": 6.8,
+        "service": 6.4,
+        "space": 6.2,
+        "quality": 6.1,
+        "price": null
+    },
+    "review_count": 17,
+    "opening_time": "09:30",
+    "closing_time": "22:30",
+    "min_price": "25.000",
+    "max_price": "120.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/vu-thu-hang-gimbap-hanoi-bach-mai-shop-online"
+}

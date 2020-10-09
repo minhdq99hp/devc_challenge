@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp T\u00f9ng Minh - Ph\u1edf B\u00f2 & C\u01a1m Rang",
+    "address": "106 Nh\u00e0 5B Ng\u00e1ch 37 Ng\u00f5 167 Ph\u1ed1 T\u00e2y S\u01a1n, P. Quang Trung, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 3.4,
+        "location": null,
+        "price": null,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "20:30",
+    "min_price": "30.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-tung-minh-pho-bo-com-rang"
+}

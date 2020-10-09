@@ -1,0 +1,25 @@
+{
+    "name": "\u0110\u1ee9c Ph\u00fac - C\u01a1m Rang & Ph\u1edf B\u00f2 Nam \u0110\u1ecbnh",
+    "address": "38 Ng\u00f5 381 Nguy\u1ec5n Khang, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "quality": 9.0,
+        "service": 9.0,
+        "space": 9.0,
+        "location": 8.0,
+        "price": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "06:40",
+    "closing_time": "14:00",
+    "min_price": "30.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/duc-phuc-com-rang-dua-bo"
+}

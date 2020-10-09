@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh M\u00ec V+ - Y\u00ean L\u00e3ng",
+    "address": "83 Y\u00ean L\u00e3ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 9.0,
+        "service": 10.0,
+        "price": 9.5,
+        "location": 9.0,
+        "quality": 9.0,
+        "space": 7.5
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-v-yen-lang"
+}

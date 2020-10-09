@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - Ng\u1ecdc L\u00e2m",
+    "address": "297 Ng\u1ecdc L\u00e2m, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-ngoc-lam"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Anh B\u1ea3o - V\u1ecbt Quay Kinh B\u1eafc",
+    "address": "104A1 TT. Thanh Xu\u00e2n B\u1eafc (V\u00e0o C\u1ed5ng BV X\u00e2y D\u1ef1ng R\u1ebd Tr\u00e1i 10m), Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "space": 7.8,
+        "price": 7.4,
+        "service": 7.2,
+        "location": 6.6,
+        "quality": 6.4
+    },
+    "review_count": 16,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "90.000",
+    "max_price": "280.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/anh-bao-vit-quay-kinh-bac"
+}

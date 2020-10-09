@@ -1,0 +1,25 @@
+{
+    "name": "Z\u00f4Z\u00f4 - Th\u1ebf Gi\u1edbi \u0102n V\u1eb7t",
+    "address": "3B Ng\u00f5 75 H\u1ed3 T\u00f9ng M\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 5.1,
+        "space": null,
+        "location": null,
+        "price": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 16,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "8.000",
+    "max_price": "120.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/zozo-the-gioi-an-vat"
+}

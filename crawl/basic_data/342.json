@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh G\u00e0 HuA - \u00d4 C\u00e1ch",
+    "address": "4 Ng\u00f5 42 \u00d4 C\u00e1ch, P. \u0110\u1ee9c Giang, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "5.000",
+    "max_price": "25.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-ga-hua-o-cach"
+}

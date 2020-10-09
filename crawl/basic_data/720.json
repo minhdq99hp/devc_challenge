@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - Tr\u00e0 S\u1eefa H\u1ed3ng K\u00f4ng - T\u00f4 Hi\u1ec7u",
+    "address": "G20 Khu B\u1ed3 Ho\u1ea3 Ng\u00f5 1 \u0110\u01b0\u1eddng \u0110\u1ed1i Di\u1ec7n S\u1ed1 131 T\u00f4 Hi\u1ec7u, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.8,
+        "space": 6.4,
+        "location": 6.1,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 12,
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Trung Hoa",
+    "url": "https://www.foody.vn/ha-noi/royaltea-tra-sua-hong-kong-to-hieu"
+}

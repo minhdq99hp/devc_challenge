@@ -1,0 +1,25 @@
+{
+    "name": "Lee's House - C\u01a1m V\u0103n Ph\u00f2ng",
+    "address": "Nh\u00e0 TT02-02 D\u1ef1 \u00c1n H\u1ea3i \u0110\u0103ng City, H\u00e0m Nghi, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 9.0,
+        "quality": 9.5,
+        "space": 9.5,
+        "price": 9.0,
+        "service": 9.0,
+        "location": 8.0
+    },
+    "review_count": 2,
+    "opening_time": "10:30",
+    "closing_time": "13:30",
+    "min_price": "20.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/lee-s-house-am-thuc-viet"
+}

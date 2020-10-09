@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e0y Qu\u00e1n - B\u00fan \u0110\u1eadu M\u1eafm T\u00f4m",
+    "address": "123 Linh \u0110\u01b0\u1eddng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "price": 6.7,
+        "quality": 6.7,
+        "location": 6.3,
+        "service": 6.3,
+        "space": null
+    },
+    "review_count": 6,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chay-quan-bun-dau-met-bun-cha"
+}

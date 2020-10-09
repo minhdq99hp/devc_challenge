@@ -1,0 +1,25 @@
+{
+    "name": "Seoul Soul - G\u00e0 R\u00e1n H\u00e0n Qu\u1ed1c",
+    "address": "10A Ph\u1ea1m Huy Th\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 3.0,
+        "location": null,
+        "space": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 73,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/seoul-soul-ga-ran-han-quoc"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "X\u00f4i \u00da \u1ee4 & N\u01b0\u1edbc \u00c9p - Shop Online - V\u1ea1n Ph\u00fac",
+    "address": "Shophouse T\u00f2a Goldsilk, 430 C\u1ea7u Am, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:30",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/xoi-u-u-nuoc-ep-shop-online-van-phuc"
+}

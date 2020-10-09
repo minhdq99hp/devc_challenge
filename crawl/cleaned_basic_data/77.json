@@ -1,0 +1,25 @@
+{
+    "name": "Fruit Garden H2T - Tra\u0300 Hoa Qua\u0309, N\u01b0\u01a1\u0301c \u00c9p & S\u01b0\u0303a Chua",
+    "address": "566 Tr\u1ea7n Kh\u00e1t Ch\u00e2n, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.8,
+        "location": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "price": 9.2
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/fruit-garden-h2t-tra-hoa-qua-nuoc-ep-sua-chua"
+}

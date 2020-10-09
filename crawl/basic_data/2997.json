@@ -1,0 +1,25 @@
+{
+    "name": "Twitter Beans Coffee - Khu C\u00f4ng Ngh\u1ec7 Cao H\u00f2a L\u1ea1c",
+    "address": "DV04 Khu CNC L\u00e1ng H\u00f2a L\u1ea1c, Huy\u1ec7n Th\u1ea1ch Th\u1ea5t H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c2u",
+    "url": "https://www.foody.vn/ha-noi/twitter-beans-coffee-khu-cong-nghe-cao-hoa-lac"
+}

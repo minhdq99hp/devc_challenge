@@ -1,0 +1,25 @@
+{
+    "name": "Th\u1ebf Gi\u1edbi H\u00e0ng T\u1ed1t - Tr\u00e0 S\u1eefa, Tr\u00e0 Th\u00e1i, Sinh T\u1ed1 & C\u00e0 Ph\u00ea",
+    "address": "P. 101 Q41, Ng\u00f5 160 Nguy\u1ec5n An Ninh, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "min_price": "12.000",
+    "max_price": "25.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/the-gioi-hang-tot-tra-sua-tra-thai-sinh-to-ca-phe"
+}

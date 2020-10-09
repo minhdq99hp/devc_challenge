@@ -1,0 +1,21 @@
+{
+    "name": "Ph\u1edf G\u00e0 Thu\u1eadn L\u00fd",
+    "address": "33 H\u00e0ng H\u00f2m, P. H\u00e0ng Gai, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.4,
+        "price": 7.7,
+        "quality": 7.7,
+        "location": 7.3,
+        "service": 7.3,
+        "space": 6.9
+    },
+    "review_count": 18,
+    "opening_time": "14:30",
+    "closing_time": "23:30",
+    "min_price": "15.000",
+    "max_price": "33.000",
+    "audiences": null,
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thuan-ly"
+}

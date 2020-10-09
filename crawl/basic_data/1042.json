@@ -1,0 +1,24 @@
+{
+    "name": "Ph\u01b0\u01a1ng Uy\u00ean - B\u00e1nh M\u00ec, Burger & \u0110\u1ed3 Tr\u1ed9n",
+    "address": "112 D3 Trung T\u1ef1, Ng\u00f5 4C \u0110\u1eb7ng V\u0103n Ng\u1eef, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.6,
+        "price": 8.3,
+        "service": 7.8,
+        "location": 7.7,
+        "quality": 7.3,
+        "space": 7.2
+    },
+    "review_count": 12,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phuong-uyen-banh-mi-burger-do-tron"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "J.O.Beans - Nem N\u01b0\u1edbng & \u0110\u1ed3 U\u1ed1ng",
+    "address": "66 Ng\u00f5 20 Hu\u1ef3nh Th\u00fac Kh\u00e1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.2,
+        "location": 6.5,
+        "price": null,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 6,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/j-o-beans-nem-nuong-do-uong"
+}

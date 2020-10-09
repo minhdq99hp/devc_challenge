@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - Tr\u00e0 S\u1eefa H\u1ed3ng K\u00f4ng - Tr\u1ea1i G\u0103ng",
+    "address": "13 Tr\u1ea1i G\u0103ng, B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "price": 7.5,
+        "space": 7.5,
+        "location": 7.3,
+        "quality": 6.8,
+        "service": 6.8
+    },
+    "review_count": 6,
+    "opening_time": "00:01",
+    "closing_time": "03:00 | 08:00",
+    "min_price": "45.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-tra-sua-hong-kong-trai-gang"
+}

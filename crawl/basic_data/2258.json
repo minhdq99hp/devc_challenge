@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Th\u1ed1 - V\u0169 Tr\u1ecdng Ph\u1ee5ng",
+    "address": "70 V\u0169 Tr\u1ecdng Ph\u1ee5ng, P. Thanh Xu\u00e2n Trung, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "14:50",
+    "min_price": "12.000",
+    "max_price": "130.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tho-vu-trong-phung"
+}

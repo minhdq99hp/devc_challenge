@@ -1,0 +1,24 @@
+{
+    "name": "Chi\u0323 Hoa - Bu\u0301n Mi\u00ea\u0301n Tr\u00f4\u0323n, C\u01a1m V\u0103n Pho\u0300ng & \u0110\u00f4\u0300 \u0102n V\u0103\u0323t",
+    "address": "Ng\u00e3 Ba Ch\u1ee3 Ph\u00fa \u0110\u00f4 (C\u1ed5ng \u0110\u1ec1n Hai B\u00e0 Ho\u00e0ng), Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-chi-hoa-an-vat-an-nhanh"
+}

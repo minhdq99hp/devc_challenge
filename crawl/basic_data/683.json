@@ -1,0 +1,25 @@
+{
+    "name": "Tiger Sugar By HongKong - Kim Giang",
+    "address": "558A \u0110\u01b0\u1eddng Kim Giang, Thanh Li\u1ec7t, Huy\u1ec7n Thanh Tr\u00ec H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 4.2,
+        "location": null,
+        "quality": null,
+        "price": null,
+        "space": null,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "T\u00e2y B\u1eafc",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-kim-giang"
+}

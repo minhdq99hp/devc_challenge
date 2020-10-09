@@ -1,0 +1,24 @@
+{
+    "name": "Royaltea - Nguy\u1ec5n V\u0103n C\u1eeb",
+    "address": "62 Nguy\u1ec5n V\u0103n C\u1eeb, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.0,
+        "space": 7.0,
+        "location": 6.3,
+        "service": 6.0,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "35.000",
+    "max_price": "65.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-nguyen-van-cu"
+}

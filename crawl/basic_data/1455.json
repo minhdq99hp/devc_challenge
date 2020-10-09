@@ -1,0 +1,24 @@
+{
+    "name": "Pizza San - L\u00ea Tr\u1ecdng T\u1ea5n",
+    "address": "14 Ng\u00e1ch 236/3 Ng\u00f5 192 L\u00ea Tr\u1ecdng T\u1ea5n, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "price": 7.4,
+        "location": 6.3,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 15,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "300.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "B\u00e1nh Pizza",
+    "url": "https://www.foody.vn/ha-noi/pizza-san-le-trong-tan"
+}

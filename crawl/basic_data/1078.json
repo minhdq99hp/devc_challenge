@@ -1,0 +1,24 @@
+{
+    "name": "Tiger Sugar - \u0110\u1ed9i C\u1ea5n",
+    "address": "28 Ng\u00f5 218 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.0,
+        "price": 8.0,
+        "location": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-313-cau-giay"
+}

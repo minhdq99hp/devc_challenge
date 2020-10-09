@@ -1,0 +1,25 @@
+{
+    "name": "Pham Bro's - C\u01a1m Ngon, L\u1ea9u & \u0102n Ch\u01a1i",
+    "address": "51 H\u1ed3 T\u00f9ng M\u1eadu, P. Mai D\u1ecbch, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.7,
+        "location": 8.9,
+        "quality": 8.8,
+        "price": 8.6,
+        "space": 8.6,
+        "service": 8.5
+    },
+    "review_count": 8,
+    "opening_time": "09:00",
+    "closing_time": "20:30",
+    "min_price": "45.000",
+    "max_price": "389.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pham-bro-s-com-ngon-lau-an-choi"
+}

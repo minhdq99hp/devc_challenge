@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan Tr\u1ed9n Ho\u00e0ng Ph\u1ed1 - Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t",
+    "address": "7 Ng\u00f5 238/4 Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t, P. C\u1ed5 Nhu\u1ebf 1, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-tron-hoang-pho-hoang-quoc-viet"
+}

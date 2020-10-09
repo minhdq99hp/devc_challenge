@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e1o Dinh D\u01b0\u1ee1ng Bika Vi\u1ec7t Nam - T\u00f4n \u0110\u1ee9c Th\u1eafng",
+    "address": "107 T\u00f4n \u0110\u1ee9c Th\u1eafng, P. H\u00e0ng B\u1ed9t, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "19.200",
+    "max_price": "26.500",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Tr\u1ebb em"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-dinh-duong-bika-viet-nam-ton-duc-thang"
+}

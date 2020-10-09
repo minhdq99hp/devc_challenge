@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m C\u00f4 Uy\u00ean - N\u01b0\u1edbc \u00c9p Tr\u00e1i C\u00e2y T\u01b0\u01a1i - Qu\u00e1n Th\u00e1nh",
+    "address": "6 Qu\u00e1n Th\u00e1nh, P Qu\u00e1n Th\u00e1nh, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-co-uyen-nuoc-ep-trai-cay-tuoi-quan-thanh"
+}

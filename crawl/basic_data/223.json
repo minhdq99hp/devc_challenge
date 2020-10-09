@@ -1,0 +1,25 @@
+{
+    "name": "Nem L\u1ee5i, Th\u1ecbt Heo & Ch\u00e2n G\u00e0 - \u00c1i M\u1ed9",
+    "address": "62 \u00c1i M\u1ed9, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "quality": 6.6,
+        "price": 6.5,
+        "space": 6.4,
+        "service": 6.0,
+        "location": null
+    },
+    "review_count": 14,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "5.000",
+    "max_price": "90.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nem-lui-thit-heo-banh-trang-tron-pho-hue"
+}

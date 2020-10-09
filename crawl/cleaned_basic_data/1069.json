@@ -1,0 +1,26 @@
+{
+    "name": "Gimbab H\u00e0n Qu\u1ed1c - Xu\u00e2n Th\u1ee7y",
+    "address": "19 Ng\u00f5 165 Xu\u00e2n Th\u1ee7y (19 Tr\u1ea7n Qu\u1ed1c V\u01b0\u1ee3ng), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.6,
+        "space": 6.8,
+        "quality": 6.7,
+        "location": 6.7,
+        "price": 6.4,
+        "service": 6.2
+    },
+    "review_count": 65,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "100.000",
+    "max_price": "300.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/gimbab-han-quoc-xuan-thuy"
+}

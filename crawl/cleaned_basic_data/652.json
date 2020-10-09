@@ -1,0 +1,25 @@
+{
+    "name": "Ph\u1edf Cu\u1ed1n Anh T\u00fa",
+    "address": "74 Ng\u00f5 481 Ng\u1ecdc L\u00e2m, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.0,
+        "location": 6.0,
+        "price": 6.0,
+        "quality": 6.0,
+        "service": 6.0,
+        "space": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pho-cuon-anh-tu"
+}

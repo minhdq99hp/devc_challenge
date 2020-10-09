@@ -1,0 +1,25 @@
+{
+    "name": "Ph\u01b0\u01a1ng Chi - B\u00fan B\u00f2 Nam B\u1ed9",
+    "address": "122 Phan K\u1ebf B\u00ednh K\u00e9o D\u00e0i, P. C\u1ed1ng V\u1ecb, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "12.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/phuong-chi-bun-bo-nam-bo"
+}

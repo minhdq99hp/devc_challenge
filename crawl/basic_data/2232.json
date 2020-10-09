@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Minh Nh\u1eadt - Ng\u1ecdc Kh\u00e1nh",
+    "address": "40 Ng\u1ecdc Kh\u00e1nh, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.1,
+        "location": 7.7,
+        "service": 6.1,
+        "quality": null,
+        "price": null,
+        "space": null
+    },
+    "review_count": 14,
+    "opening_time": "06:30",
+    "closing_time": "22:30",
+    "min_price": "23.000",
+    "max_price": "32.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-minh-nhat-ngoc-khanh"
+}

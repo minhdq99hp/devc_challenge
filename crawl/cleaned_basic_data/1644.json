@@ -1,0 +1,24 @@
+{
+    "name": "C\u01a1m T\u1ea5m 36 - Ph\u00f9ng H\u01b0ng",
+    "address": "11 Ph\u00f9ng H\u01b0ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "quality": 7.5,
+        "service": 7.2,
+        "location": 7.1,
+        "price": 7.1,
+        "space": 6.6
+    },
+    "review_count": 107,
+    "opening_time": "10:30",
+    "closing_time": "14:00 | 17:30",
+    "min_price": "40.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-36-ngo-gach"
+}

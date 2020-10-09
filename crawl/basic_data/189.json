@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Rang G\u00e0 S\u1ed1t 30K",
+    "address": "14 Ng\u00f5 20 M\u1ef9 \u0110\u00ecnh, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 1.1,
+        "location": null,
+        "service": null,
+        "price": null,
+        "quality": null,
+        "space": null
+    },
+    "review_count": 3,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-rang-ga-sot-30k"
+}

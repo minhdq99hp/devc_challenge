@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e0 Vui - S\u1eefa Chua Tr\u00e2n Ch\u00e2u - Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u",
+    "address": "9 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "20.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ba-vui-sua-chua-tran-chau-nguyen-dinh-chieu"
+}

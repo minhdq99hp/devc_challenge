@@ -1,0 +1,25 @@
+{
+    "name": "Kim Anh - B\u00fan \u0110\u1eadu & C\u01a1m Rang",
+    "address": "23B Th\u00e1i Phi\u00ean, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "location": 9.0,
+        "price": 9.0,
+        "quality": 9.0,
+        "service": 9.0,
+        "space": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "21:30",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/kim-anh-bun-dau-com-rang"
+}

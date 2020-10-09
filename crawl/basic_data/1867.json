@@ -1,0 +1,26 @@
+{
+    "name": "B\u00e1nh Gi\u00f2 H\u1ed3 T\u00e2y",
+    "address": "5 Th\u1ee5y Khu\u00ea, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 6.9,
+        "price": 6.8,
+        "quality": 6.7,
+        "service": 6.2,
+        "space": null
+    },
+    "review_count": 165,
+    "opening_time": "06:00",
+    "closing_time": "20:30",
+    "min_price": "20.000",
+    "max_price": "33.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/banh-gio-ho-tay"
+}

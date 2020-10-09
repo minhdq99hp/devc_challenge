@@ -1,0 +1,25 @@
+{
+    "name": "Min Ngan - B\u00fan Ngan & Mi\u1ebfn Tr\u1ed9n",
+    "address": "57 T\u00f4 Hi\u1ebfn Th\u00e0nh, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.8,
+        "location": 6.3,
+        "price": 6.3,
+        "service": 6.0,
+        "quality": null,
+        "space": null
+    },
+    "review_count": 16,
+    "opening_time": "07:00",
+    "closing_time": "14:00",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/min-ngan-bun-ngan-mien-tron"
+}

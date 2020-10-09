@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh G\u00e0 Th\u1ea7n Th\u00e1nh - 172 H\u1ed3ng Mai",
+    "address": "11 Ng\u00f5 158 H\u1ed3ng Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.7,
+        "price": 7.5,
+        "quality": 7.4,
+        "service": 6.4,
+        "location": 6.3,
+        "space": null
+    },
+    "review_count": 198,
+    "opening_time": "10:00",
+    "closing_time": "19:30",
+    "min_price": "4.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-ga-than-thanh-172-hong-mai"
+}

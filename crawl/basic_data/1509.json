@@ -1,0 +1,26 @@
+{
+    "name": "Khoa G\u00e0 - G\u00e0 Kh\u00f4ng L\u1ed1i Tho\u00e1t Online - M\u1ef9 \u0110\u00ecnh",
+    "address": "41 Ng\u00f5 16/33 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/khoa-ga-ga-khong-loi-thoat-online-my-dinh"
+}

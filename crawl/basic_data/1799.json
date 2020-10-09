@@ -1,0 +1,25 @@
+{
+    "name": "Gimbap 79 - M\u00f3n H\u00e0n Qu\u1ed1c",
+    "address": "79 Ph\u00f9ng H\u01b0ng, P. H\u00e0ng M\u00e3, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 1.8,
+        "location": null,
+        "space": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "99.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/gimbap79"
+}

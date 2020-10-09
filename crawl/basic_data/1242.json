@@ -1,0 +1,24 @@
+{
+    "name": "Food Corner - L\u00fd V\u0103n Ph\u1ee9c",
+    "address": "9 L\u00fd V\u0103n Ph\u1ee9c, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.7,
+        "price": 7.4,
+        "location": 7.2,
+        "service": 6.5,
+        "quality": 6.4,
+        "space": null
+    },
+    "review_count": 177,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/food-corner-ly-thai-to"
+}

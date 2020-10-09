@@ -1,0 +1,24 @@
+{
+    "name": "Qu\u00e0 V\u1eb7t - Shop Online - Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch",
+    "address": "P110 C3 Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.9,
+        "price": 7.2,
+        "quality": 6.9,
+        "service": 6.9,
+        "location": 6.8,
+        "space": 6.5
+    },
+    "review_count": 39,
+    "opening_time": "08:00",
+    "closing_time": "18:00",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/qua-vat-shop-online"
+}

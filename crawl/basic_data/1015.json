@@ -1,0 +1,25 @@
+{
+    "name": "Nem Chua R\u00e1n 36 T\u1ea1m Th\u01b0\u01a1ng - H\u1ed3ng Mai",
+    "address": "20 Ng\u00f5 156 H\u1ed3ng Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "5.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/nem-chua-ran-36-tam-thuong-hong-mai"
+}

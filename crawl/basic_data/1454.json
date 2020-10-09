@@ -1,0 +1,24 @@
+{
+    "name": "X\u00f4i B\u1ef1 - Mai H\u1eafc \u0110\u1ebf",
+    "address": "131 Mai H\u1eafc \u0110\u1ebf, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 5.9,
+        "location": 6.4,
+        "space": 6.0,
+        "quality": null,
+        "price": null,
+        "service": null
+    },
+    "review_count": 5,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/xoi-bu-mai-hac-de"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "N\u01b0\u1edbc \u00c9p Gi\u1ea3m C\u00e2n Nguy\u00ean Ch\u1ea5t - Shop Online",
+    "address": "19 Ng\u00f5 325 Gi\u1ea3ng V\u00f5, P. C\u00e1t Linh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nuoc-ep-giam-can-nguyen-chat-shop-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B\u00f4ng Bi - C\u01a1m V\u0103n Ph\u00f2ng, X\u00f4i & B\u00e1nh M\u00ec",
+    "address": "35 Ng\u00f5 295 B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.6,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": 9.0,
+        "space": 9.0
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "13:30",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bong-bi-banh-mi-xoi"
+}

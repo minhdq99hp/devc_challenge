@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ea3o Cake - B\u00f4ng Lan Tr\u1ee9ng Mu\u1ed1i - Shop Online",
+    "address": "22 Ng\u00f5 105 Th\u1ee5y Khu\u00ea, P. Th\u1ee5y Khu\u00ea, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bao-cake-bong-lan-trung-muoi-shop-online"
+}

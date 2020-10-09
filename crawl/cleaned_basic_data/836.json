@@ -1,0 +1,25 @@
+{
+    "name": "Hoa Qu\u1ea3 88 - Ph\u1ed1 8/3",
+    "address": "101 Ng\u00f5 A2 Ph\u1ed1 8-3, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.7,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 8.6
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "23:30",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ship-do-an-dem-88-pho-8-3"
+}

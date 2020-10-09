@@ -1,0 +1,25 @@
+{
+    "name": "Th\u1ea1ch Vu\u00f4ng - Th\u1ea1ch Kem Caramen",
+    "address": "105 K1 B\u00e1ch Khoa, Nguy\u1ec5n Hi\u1ec1n, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.5,
+        "price": 8.1,
+        "quality": 8.1,
+        "service": 7.8,
+        "location": 6.8,
+        "space": 6.5
+    },
+    "review_count": 22,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "15.000",
+    "max_price": "25.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thach-vuong-thach-kem-caramen"
+}

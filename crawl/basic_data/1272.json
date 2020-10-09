@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e2n G\u00e0 S\u1ea3 \u1edat M\u1eb9 Su - Shop Online",
+    "address": "19 Ng\u00e1ch 77 Ng\u00f5 207 Bu\u0300i X\u01b0\u01a1ng Tra\u0323ch, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.8,
+        "price": 8.2,
+        "service": 8.1,
+        "quality": 8.1,
+        "space": 7.5,
+        "location": 7.4
+    },
+    "review_count": 116,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/chan-ga-sa-ot-me-su-shop-online"
+}

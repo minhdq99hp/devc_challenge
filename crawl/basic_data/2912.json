@@ -1,0 +1,24 @@
+{
+    "name": "Mochi Sweets - Vincom B\u00e0 Tri\u1ec7u",
+    "address": "T\u1ea7ng 5, Vincom B\u00e0 Tri\u1ec7u, 191 B\u00e0 Tri\u1ec7u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 7.3,
+        "quality": 8.4,
+        "location": 7.6,
+        "space": 7.0,
+        "service": 6.7,
+        "price": 6.6
+    },
+    "review_count": 54,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "32.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/mochi-sweets-vincom-ba-trieu"
+}

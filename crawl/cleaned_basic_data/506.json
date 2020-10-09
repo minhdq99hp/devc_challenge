@@ -1,0 +1,25 @@
+{
+    "name": "Healthy Meal - Shop Online",
+    "address": "11B Th\u1ee5y Khu\u00ea, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.0,
+        "price": 8.5,
+        "service": 8.5,
+        "quality": 8.3,
+        "location": 7.6,
+        "space": 7.2
+    },
+    "review_count": 39,
+    "opening_time": "09:30",
+    "closing_time": "19:30",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/healthy-meal-shop-online"
+}

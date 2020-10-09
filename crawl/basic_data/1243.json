@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Royaltea - Th\u1ee5y Ph\u01b0\u01a1ng",
+    "address": "191 Th\u1ee5y Ph\u01b0\u01a1ng, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.8,
+        "price": 9.0,
+        "service": 9.0,
+        "location": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "35.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/royaltea-thuy-phuong"
+}

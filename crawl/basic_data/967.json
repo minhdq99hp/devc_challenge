@@ -1,0 +1,25 @@
+{
+    "name": "Rau M\u00e1 Plus - Phan V\u0103n Tr\u01b0\u1eddng",
+    "address": "26 Ng\u00f5 27 Phan V\u0103n Tr\u01b0\u1eddng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.7,
+        "location": 6.5,
+        "price": 6.5,
+        "space": 6.5,
+        "quality": 6.0,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/rau-ma-plus-phan-van-truong"
+}

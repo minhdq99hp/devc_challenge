@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Bami Bee - Ph\u00fa Di\u1ec5n",
+    "address": "105 Ph\u00fa Di\u1ec5n, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.6,
+        "service": 10.0,
+        "location": 9.0,
+        "quality": 8.5,
+        "price": 8.0,
+        "space": 7.3
+    },
+    "review_count": 4,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-bami-bee-phu-dien"
+}

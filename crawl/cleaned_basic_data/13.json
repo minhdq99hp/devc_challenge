@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e1o L\u01b0\u1ee1i \u0110u \u0110\u01b0a",
+    "address": "3 L\u00ea V\u0103n Linh, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.1,
+        "location": 8.3,
+        "price": 8.3,
+        "service": 8.3,
+        "space": 8.3,
+        "quality": 7.0
+    },
+    "review_count": 3,
+    "opening_time": "00:01",
+    "closing_time": "03:00 | 08:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-luoi-du-dua"
+}

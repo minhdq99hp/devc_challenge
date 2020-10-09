@@ -1,0 +1,25 @@
+{
+    "name": "Soya Garden - Ho\u00e0ng \u0110\u1ea1o Th\u00fay",
+    "address": "T\u1ea7ng 1 N04 T\u00f2a UDIC complex Ho\u00e0ng \u0110\u1ea1o Th\u00fay, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 3.6,
+        "service": null,
+        "space": null,
+        "price": null,
+        "location": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": null,
+    "max_price": null,
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/soya-garden-hoang-dao-thuy"
+}

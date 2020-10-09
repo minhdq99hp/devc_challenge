@@ -1,0 +1,26 @@
+{
+    "name": "C\u01a1m 3 Mi\u1ec1n - C\u01a1m V\u0103n Ph\u00f2ng - 65 V\u00f5 Ch\u00ed C\u00f4ng",
+    "address": "65 V\u00f5 Ch\u00ed C\u00f4ng, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-3-mien-com-van-phong-65-vo-chi-cong"
+}

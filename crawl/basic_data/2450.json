@@ -1,0 +1,25 @@
+{
+    "name": "AOBA Japan - Kim M\u00e3 Th\u01b0\u1ee3ng",
+    "address": "55 Kim M\u00e3 Th\u01b0\u1ee3ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "120.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/aoba-japan-kim-ma-thuong"
+}

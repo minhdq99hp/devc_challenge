@@ -1,0 +1,25 @@
+{
+    "name": "\u0110\u1ee9c Vi\u1ec7t Food Shop - \u0102n V\u1eb7t H\u00e0n Qu\u1ed1c",
+    "address": "T\u1ea7ng 1, V\u1ecb Tr\u00ed 32, To\u00e0 Nh\u00e0 HH1A Linh \u0110\u00e0m, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.2,
+        "price": 9.0,
+        "service": 9.0,
+        "quality": 8.0,
+        "space": 8.0,
+        "location": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/duc-viet-food-shop-an-vat-han-quoc"
+}

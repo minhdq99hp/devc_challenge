@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Th\u1ed1 Ki\u1ec3u Nh\u1eadt Yakidon - Ng\u00f5 N\u00fai Tr\u00fac",
+    "address": "56 Ng\u00f5 N\u00fai Tr\u00fac, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.1,
+        "location": 6.5,
+        "service": 6.3,
+        "price": 6.0,
+        "space": 6.0,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "55.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/com-tho-kieu-nhat-yakidon-ngo-nui-truc"
+}

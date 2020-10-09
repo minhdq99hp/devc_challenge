@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m B\u00e1nh H\u1ee3p T\u00e1c X\u00e3 - B\u00e1nh M\u00ec K\u1eb9p & B\u00e1nh Ng\u1ecdt",
+    "address": "100 Ch\u1ee3 Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 6.2,
+        "service": 7.0,
+        "space": 7.0,
+        "location": 6.0,
+        "price": 6.0,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-banh-hop-tac-xa-banh-mi-kep-banh-ngot"
+}

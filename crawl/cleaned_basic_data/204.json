@@ -1,0 +1,26 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Feeling Tea - Ng\u1ecdc H\u1ed3i",
+    "address": "137 Ng\u1ecdc H\u1ed3i, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.5,
+        "service": 9.0,
+        "price": 8.5,
+        "quality": 8.5,
+        "space": 8.5,
+        "location": 8.0
+    },
+    "review_count": 2,
+    "opening_time": "08:30",
+    "closing_time": "22:40",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-feeling-tea-ngoc-hoi"
+}

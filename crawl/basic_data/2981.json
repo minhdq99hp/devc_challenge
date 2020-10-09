@@ -1,0 +1,25 @@
+{
+    "name": "KOMBO - C\u01a1m Ni\u00eau Singapore - V\u01b0\u01a1ng Th\u1eeba V\u0169",
+    "address": "78 V\u01b0\u01a1ng Th\u1eeba V\u0169, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.3,
+        "price": null,
+        "location": null,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 8,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "110.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/kombo-com-nieu-singapore-vuong-thua-vu"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - Minh Khai",
+    "address": "244A Minh Khai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.0,
+        "location": 6.4,
+        "price": null,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 10,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-minh-khai"
+}

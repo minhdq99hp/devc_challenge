@@ -1,0 +1,25 @@
+{
+    "name": "H\u1ed3ng Ph\u00fac - C\u01a1m V\u0103n Ph\u00f2ng & Nem N\u01b0\u1edbng Nha Trang",
+    "address": "45B Ng\u00f5 44 Tr\u1ea7n Th\u00e1i T\u00f4ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.5,
+        "location": 6.0,
+        "price": null,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 4,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "35.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hong-phuc-com-rang-bun"
+}

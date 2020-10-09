@@ -1,0 +1,26 @@
+{
+    "name": "Ti\u1ec7m Rau M\u00e1 T&T - Tri\u1ec1u Kh\u00fac",
+    "address": "189 Tri\u1ec1u Kh\u00fac, Huy\u1ec7n Thanh Tr\u00ec H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "10.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Tr\u1ebb em"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-rau-ma-t-t-trieu-khuc"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 T\u01b0\u01a1i M\u1ea1nh Ho\u1ea1ch - D\u01b0\u01a1ng V\u0103n B\u00e9",
+    "address": "246 D\u01b0\u01a1ng V\u0103n B\u00e9, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.2,
+        "space": null,
+        "location": null,
+        "price": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 12,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "35.000",
+    "max_price": "250.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-tuoi-manh-hoach-nguyen-an-ninh"
+}

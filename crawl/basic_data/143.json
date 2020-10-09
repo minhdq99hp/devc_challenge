@@ -1,0 +1,25 @@
+{
+    "name": "Yihetang - Tr\u00e0 S\u1eefa N\u01b0\u1edbng - Xu\u00e2n Thu\u1ef7",
+    "address": "28/23 Ng\u00f5 130 Xu\u00e2n Th\u1ee7y, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 2.2,
+        "location": null,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/yihetang-tra-sua-nuong-xuan-thuy"
+}

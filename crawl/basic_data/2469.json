@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Tr\u1ed9n Nguy\u00ean Peo - Shop Online",
+    "address": "09 - N03 Khu T\u00e1i \u0110\u1ecbnh C\u01b0 Tri\u1ec1u Kh\u00fac, P. Thanh Xu\u00e2n Nam, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "29.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tron-nguyen-peo-shop-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Burin Juice - N\u01b0\u1edbc \u00c9p & B\u00e1nh M\u00ec",
+    "address": "31 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/burin-juice-nguyen-dinh-chieu"
+}

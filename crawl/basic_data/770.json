@@ -1,0 +1,25 @@
+{
+    "name": "Simisi - Korean Foods - L\u01b0\u01a1ng Th\u1ebf Vinh",
+    "address": "19/A8 \u0110\u1ea1i H\u1ecdc H\u00e0 N\u1ed9i (Ng\u00f5 165 L\u01b0\u01a1ng Th\u1ebf Vinh), Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.2,
+        "location": null,
+        "price": null,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 89,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/simisi-korean-foods-nguyen-trai"
+}

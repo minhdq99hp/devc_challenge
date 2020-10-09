@@ -1,0 +1,25 @@
+{
+    "name": "Pizza Friends - Th\u00e1i Th\u1ecbnh",
+    "address": "103 D7 Ng\u00f5 63 Th\u00e1i Th\u1ecbnh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "price": 9.7,
+        "service": 9.4,
+        "quality": 9.3,
+        "location": 7.6,
+        "space": null
+    },
+    "review_count": 7,
+    "opening_time": "08:30",
+    "closing_time": "23:30",
+    "min_price": "69.000",
+    "max_price": "109.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/pizza-friends-shop-online"
+}

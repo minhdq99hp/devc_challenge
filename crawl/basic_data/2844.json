@@ -1,0 +1,25 @@
+{
+    "name": "Rainbow Foods - Eat Clean & Detox - \u0110i\u1ec7n Bi\u00ean Ph\u1ee7",
+    "address": "24A \u0110i\u1ec7n Bi\u00ean Ph\u1ee7, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.3,
+        "service": 7.7,
+        "location": 6.3,
+        "quality": 6.3,
+        "price": null,
+        "space": null
+    },
+    "review_count": 3,
+    "opening_time": "08:00",
+    "closing_time": "19:00",
+    "min_price": "40.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/rainbow-foods-eat-clean-detox"
+}

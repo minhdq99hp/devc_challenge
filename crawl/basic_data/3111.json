@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m V\u0103n Ph\u00f2ng S\u1ed1 18",
+    "address": "T\u1ea7ng 4, MeLinh Plaza H\u00e0 \u0110\u00f4ng, T\u00f4 Hi\u1ec7u, P. H\u00e0 C\u1ea7u, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:30",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-van-phong-so-18"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Yo Tea - Big C Th\u0103ng Long",
+    "address": "Ki \u1ed0t 01- 02, T\u1ea7ng 2, Big C Th\u0103ng Long, 222 Tr\u1ea7n Duy H\u01b0ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.2,
+        "service": 8.0,
+        "location": 7.0,
+        "space": 7.0,
+        "quality": null,
+        "price": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "80.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-yo-tea-big-c-thang-long"
+}

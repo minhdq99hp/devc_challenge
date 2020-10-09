@@ -1,0 +1,25 @@
+{
+    "name": "Occhi - Ch\u00e8 Th\u00e1i Lan",
+    "address": "22A13 Nguy\u1ec5n Qu\u00fd \u0110\u1ee9c, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 5.0,
+        "price": null,
+        "service": null,
+        "quality": null,
+        "location": null,
+        "space": null
+    },
+    "review_count": 16,
+    "opening_time": "10:00",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/kem-xoi-che-thai-lan-nguyen-quy-duc"
+}

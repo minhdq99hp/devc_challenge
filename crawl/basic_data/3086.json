@@ -1,0 +1,25 @@
+{
+    "name": "Pizza 247 - Ho\u00e0ng Mai - Shop Online",
+    "address": "14 Ng\u00f5 91 Ho\u00e0ng Mai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "23:59",
+    "min_price": "80.000",
+    "max_price": "160.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c2u",
+    "url": "https://www.foody.vn/ha-noi/pizza-247-hoang-mai-shop-online"
+}

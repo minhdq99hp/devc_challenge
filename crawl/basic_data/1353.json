@@ -1,0 +1,24 @@
+{
+    "name": "Fruity Fact - Ph\u1ea1m Huy Th\u00f4ng",
+    "address": "8 Ph\u1ea1m Huy Th\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.9,
+        "location": 7.0,
+        "space": 6.5,
+        "quality": null,
+        "service": null,
+        "price": null
+    },
+    "review_count": 4,
+    "opening_time": "08:30",
+    "closing_time": "23:00",
+    "min_price": "35.000",
+    "max_price": "65.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/fruity-fact-pham-huy-thong"
+}

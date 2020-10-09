@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan Ch\u1ea3 Vi\u1ec7t Lan",
+    "address": "28 \u0110\u1ecbnh C\u00f4ng, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "quality": 8.0,
+        "space": 7.0,
+        "location": 6.0,
+        "price": 6.0,
+        "service": 6.0
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "14:30",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-cha-viet-lan"
+}

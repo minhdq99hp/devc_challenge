@@ -1,0 +1,25 @@
+{
+    "name": "Italian Pizza - Khu\u1ea5t Duy Ti\u1ebfn",
+    "address": "15 Khu\u1ea5t Duy Ti\u1ebfn, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.2,
+        "service": 9.0,
+        "price": 8.4,
+        "quality": 8.2,
+        "space": 8.1,
+        "location": 7.6
+    },
+    "review_count": 13,
+    "opening_time": "10:00",
+    "closing_time": "20:30",
+    "min_price": "40.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/italian-pizza-khuat-duy-tien"
+}

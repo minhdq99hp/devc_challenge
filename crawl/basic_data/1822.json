@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 X\u01b0a Ph\u1ed1 C\u1ed5 - M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng",
+    "address": "234 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.6,
+        "service": null,
+        "price": null,
+        "quality": null,
+        "space": null,
+        "location": null
+    },
+    "review_count": 7,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-xua-pho-co-me-tri-thuong"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "\u0102n V\u1eb7t Min Min - Shop Online",
+    "address": "12 Ng\u00f5 51 Ng\u00f4 Th\u00ec S\u1ef9, P. V\u1ea1n Ph\u00fac, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "23:59",
+    "min_price": "10.000",
+    "max_price": "90.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-vat-min-min-shop-online"
+}

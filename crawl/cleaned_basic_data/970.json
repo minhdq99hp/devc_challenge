@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 Phong - Tr\u00e0 Hoa Qu\u1ea3, Tr\u00e0 Chanh & Tr\u00e0 S\u1eefa",
+    "address": "P101 G5 T\u1eadp Th\u1ec3 Th\u00e0nh C\u00f4ng, Nguy\u00ean H\u1ed3ng, P. Th\u00e0nh C\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.4,
+        "quality": 10.0,
+        "price": 9.0,
+        "location": 8.0,
+        "service": 8.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "40.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-phong-tra-hoa-qua-tra-chanh-tra-sua"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "An Nam Ch\u00e1o",
+    "address": "18 \u0110\u00e0o T\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.7,
+        "location": 7.2,
+        "space": 7.1,
+        "service": 6.8,
+        "quality": 6.4,
+        "price": null
+    },
+    "review_count": 36,
+    "opening_time": "07:00",
+    "closing_time": "02:30",
+    "min_price": "25.000",
+    "max_price": "850.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-nam-chao"
+}

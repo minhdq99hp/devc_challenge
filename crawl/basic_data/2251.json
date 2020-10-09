@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Rang D\u01b0a B\u00f2 \u0110\u1ee9c H\u1ea1nh",
+    "address": "38 M\u00e3 M\u00e2y, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.9,
+        "location": null,
+        "space": null,
+        "service": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 32,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/duc-hanh-com-rang"
+}

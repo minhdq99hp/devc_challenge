@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh Tr\u00e1ng Tr\u1ed9n Si\u00eau Ngon - Shop Online - C\u1eeda B\u1eafc",
+    "address": "55 Ng\u00f5 29 C\u1eeda B\u1eafc, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-trang-tron-sieu-ngon-shop-online-cua-bac"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp T\u00ed Hon - B\u00e1nh M\u00ec & S\u1eefa Chua - Hu\u1ef3nh Th\u00fac Kh\u00e1ng",
+    "address": "63 Hu\u1ef3nh Th\u00fac Kh\u00e1ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 7.0,
+        "service": 7.0,
+        "space": 7.0,
+        "price": 6.0,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-ti-hon-banh-mi-sua-chua-huynh-thuc-khang"
+}

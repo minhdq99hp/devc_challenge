@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Tr\u00e0ng An",
+    "address": "102C A8 Ngh\u0129a T\u00e2n (\u0110\u1ed1i Di\u1ec7n Ng\u00f5 44 Tr\u1ea7n T\u1eed B\u00ecnh), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 1.3,
+        "location": null,
+        "space": null,
+        "service": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 5,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "7.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-chi-diu"
+}

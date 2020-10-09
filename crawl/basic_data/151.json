@@ -1,0 +1,24 @@
+{
+    "name": "Yihetang - Tr\u00e0 S\u1eefa N\u01b0\u1edbng - Gi\u1ea3ng V\u00f5",
+    "address": "126D Gi\u1ea3ng V\u00f5, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 1.9,
+        "location": null,
+        "price": null,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 3,
+    "opening_time": "09:30",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/yihetang-tra-sua-nuong-giang-vo"
+}

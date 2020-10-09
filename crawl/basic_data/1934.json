@@ -1,0 +1,25 @@
+{
+    "name": "C\u00f4 Ph\u01b0\u01a1ng Qu\u00e1n - B\u00e1nh Cu\u1ed1n Gia Truy\u1ec1n",
+    "address": "63 Ng\u00f5 75 Ph\u00fa Di\u1ec5n, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:00",
+    "closing_time": "12:30",
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-phuong-quan-banh-cuon-gia-truyen"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "S\u1eefa Chua C\u00f4 Oanh - S\u1eefa Chua Tr\u00e2n Ch\u00e2u & \u0110\u1ed3 \u0102n V\u1eb7t",
+    "address": "109B Ng\u00f5 1A T\u00f4n Th\u1ea5t T\u00f9ng (M\u1eb7t Sau S\u1ed1 Nh\u00e0 109A), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.3,
+        "quality": 8.6,
+        "location": 8.6,
+        "service": 8.3,
+        "price": 8.2,
+        "space": 7.8
+    },
+    "review_count": 11,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "18.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/sua-chua-co-oanh-sua-chua-tran-chau-do-an-vat"
+}

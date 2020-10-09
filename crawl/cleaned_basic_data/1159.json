@@ -1,0 +1,25 @@
+{
+    "name": "\u00cdch H\u00f2a \u0110\u01b0\u1eddng - Taiwan Tea - \u00d4 Ch\u1ee3 D\u1eeba",
+    "address": "72 \u00d4 Ch\u1ee3 D\u1eeba, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 8.0,
+        "service": 8.0,
+        "quality": 7.8,
+        "space": 7.6,
+        "price": 7.5
+    },
+    "review_count": 43,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/ich-hoa-duong-taiwan-tea"
+}

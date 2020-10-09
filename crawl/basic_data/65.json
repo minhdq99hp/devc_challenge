@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp M\u1eafm - C\u01a1m V\u0103n Ph\u00f2ng Online - H\u1ed3 T\u00f9ng M\u1eadu",
+    "address": "Ph\u00f2ng 303 Nh\u00e0 A1 \u0110\u1ed1i Di\u1ec7n 15 Ng\u00f5 199 H\u1ed3 T\u00f9ng M\u1eadu, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-mam-com-van-phong-online-ho-tung-mau"
+}

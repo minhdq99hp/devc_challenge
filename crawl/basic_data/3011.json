@@ -1,0 +1,25 @@
+{
+    "name": "Savor - B\u00e1nh M\u00ec & Tr\u00e0 S\u1eefa - Nguy\u1ec5n V\u0103n C\u1eeb",
+    "address": "39B/564 Nguy\u1ec5n V\u0103n C\u1eeb, P. Ng\u1ecdc L\u00e2m, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "20:30",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/savor-banh-mi-tra-sua-nguyen-van-cu"
+}

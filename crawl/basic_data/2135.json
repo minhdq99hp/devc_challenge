@@ -1,0 +1,25 @@
+{
+    "name": "Ken\u2019s Kitchen - C\u01a1m V\u0103n Ph\u00f2ng & \u0110\u1ed3 \u0102n V\u1eb7t - Shop Online",
+    "address": "3 Ng\u00e1ch 20 Ng\u00f5 110 Nguy\u1ec5n Ho\u00e0ng T\u00f4n, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 5.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "19:00",
+    "min_price": "10.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ken-s-kitchen-com-van-phong-do-an-vat-shop-online"
+}

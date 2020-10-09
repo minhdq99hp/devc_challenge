@@ -1,0 +1,27 @@
+{
+    "name": "Pizza Paradise - Nh\u00e0 H\u00e0ng \u0110\u1ed3 \u0102n Nhanh Online",
+    "address": "56 Ng\u00f5 97 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.5,
+        "service": 6.8,
+        "location": 6.4,
+        "price": 6.4,
+        "quality": 6.4,
+        "space": 6.3
+    },
+    "review_count": 57,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "80.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/pizza-paradise-nha-hang-do-an-nhanh"
+}

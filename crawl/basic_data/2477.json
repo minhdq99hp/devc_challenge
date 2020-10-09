@@ -1,0 +1,25 @@
+{
+    "name": "Mooping - Th\u1ecbt Xi\u00ean Th\u00e1i Lan",
+    "address": "311 V\u0103n Ch\u01b0\u01a1ng, P. Kh\u00e2m Thi\u00ean, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.4,
+        "location": 10.0,
+        "space": 10.0,
+        "service": 9.0,
+        "quality": 8.0,
+        "price": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "20:00",
+    "min_price": "6.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Th\u00e1i",
+    "url": "https://www.foody.vn/ha-noi/mooping-thit-xien-thai-lan"
+}

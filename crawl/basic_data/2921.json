@@ -1,0 +1,21 @@
+{
+    "name": "C\u01a1m Rang D\u01b0a B\u00f2 B\u00e0 Dung",
+    "address": "38 - 39 - 41 M\u00e3 M\u00e2y, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "location": 6.9,
+        "quality": 6.3,
+        "service": 6.1,
+        "space": 6.0,
+        "price": null
+    },
+    "review_count": 26,
+    "opening_time": "11:00",
+    "closing_time": "02:00",
+    "min_price": "20.000",
+    "max_price": "55.000",
+    "audiences": null,
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/com-rang-dua-bo-ba-dung"
+}

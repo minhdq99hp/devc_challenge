@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m 1989 - B\u00f9i Ng\u1ecdc D\u01b0\u01a1ng - Shop Online",
+    "address": "90 B\u00f9i Ng\u1ecdc D\u01b0\u01a1ng, P. B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "5.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-1989-bui-ngoc-duong-shop-online"
+}

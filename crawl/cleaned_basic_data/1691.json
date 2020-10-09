@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec G\u00e0 M\u00e1i - T\u00e2y S\u01a1n",
+    "address": "169H T\u00e2y S\u01a1n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8, ",
+    "scores": {
+        "avg_score": 8.2,
+        "price": 8.6,
+        "service": 8.4,
+        "quality": 8.2,
+        "location": 8.1,
+        "space": 7.5
+    },
+    "review_count": 29,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "25.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-ga-mai"
+}

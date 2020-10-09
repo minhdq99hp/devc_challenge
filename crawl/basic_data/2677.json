@@ -1,0 +1,25 @@
+{
+    "name": "Vua G\u00e0 Lu\u1ed9c - Th\u1ee3 Nhu\u1ed9m - Shop Online",
+    "address": "23 Th\u1ee3 Nhu\u1ed9m, P. H\u00e0ng B\u00f4ng, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 4.2,
+        "location": 7.0,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "80.000",
+    "max_price": "180.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/vua-ga-luoc-tho-nhuom-shop-online"
+}

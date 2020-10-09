@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh M\u00ec V+ - Li\u1ec5u Giai",
+    "address": "6 Li\u1ec5u Giai, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.8,
+        "price": 7.3,
+        "location": 7.0,
+        "quality": 6.9,
+        "service": 6.6,
+        "space": 6.3
+    },
+    "review_count": 7,
+    "opening_time": "06:30",
+    "closing_time": "21:30",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-v-lieu-giai"
+}

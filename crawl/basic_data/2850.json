@@ -1,0 +1,25 @@
+{
+    "name": "Kho\u1ebb Kitchen - Eatclean & Keto Shop",
+    "address": "A5 - 8 Ng\u00f5 3 V\u1ea1n Ph\u00fac, P. Li\u1ec5u Giai, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:30",
+    "closing_time": "14:30",
+    "min_price": "10.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/khoe-kitchen-eatclean-keto-shop"
+}

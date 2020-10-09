@@ -1,0 +1,25 @@
+{
+    "name": "Hoa Qu\u1ea3 88 - Ng\u1ecdc Th\u1ee5y",
+    "address": "92 Ng\u00f5 68 Ng\u1ecdc Th\u1ee5y (Nh\u00e0 M\u1eb7t Sau), Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 2,
+    "opening_time": "16:00",
+    "closing_time": "23:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/hoa-qua-88-ngoc-thuy"
+}

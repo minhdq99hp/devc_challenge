@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u0110\u1eadu M\u1eb9t Ngon - Xu\u00e2n La",
+    "address": "1 Ng\u00e1ch 6/38 Ng\u00f5 38 Xu\u00e2n La (\u0110i V\u00e0o 10m), Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-met-ngon-xuan-la"
+}

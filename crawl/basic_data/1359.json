@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec H\u1ed9i An - Kim Ng\u01b0u",
+    "address": "284 Kim Ng\u01b0u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.5,
+        "service": 10.0,
+        "price": 9.0,
+        "location": 7.0,
+        "space": 7.0,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "16:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-hoi-an-kim-nguu"
+}

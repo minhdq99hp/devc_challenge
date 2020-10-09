@@ -1,0 +1,26 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - Tr\u00fac B\u1ea1ch",
+    "address": "15 Tr\u00fac B\u1ea1ch, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.9,
+        "space": 8.5,
+        "location": 8.2,
+        "service": 7.9,
+        "quality": 7.8,
+        "price": 7.1
+    },
+    "review_count": 35,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-truc-bach"
+}

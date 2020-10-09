@@ -1,0 +1,25 @@
+{
+    "name": "Nghi S\u01a1n - B\u00e1nh Cu\u1ed1n N\u00f3ng - Nghi T\u00e0m",
+    "address": "35 Ng\u00f5 310 Nghi T\u00e0m, P. T\u1ee9 Li\u00ean, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.0,
+        "price": 7.0,
+        "quality": 7.0,
+        "service": 6.0,
+        "location": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nghi-son-banh-cuon-nong-nghi-tam"
+}

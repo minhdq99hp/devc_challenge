@@ -1,0 +1,25 @@
+{
+    "name": "Duy T\u00f9ng - M\u00ec Tr\u1ed9n Indomie - \u0110\u00f4ng T\u00e1c",
+    "address": "3 Ng\u00e1ch 41/35 \u0110\u00f4ng T\u00e1c (V\u00e0o 41/2 \u0110\u00f4ng T\u00e1c r\u1ebd ph\u1ea3i \u0111i theo h\u01b0\u1edbng m\u0169i t\u00ean d\u01b0\u1edbi \u0111\u1ea5t), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 7.8,
+        "quality": 7.4,
+        "location": 7.3,
+        "service": 7.0,
+        "space": 6.0
+    },
+    "review_count": 8,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/duy-tung-mi-tron-indomie-dong-tac"
+}

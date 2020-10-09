@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan C\u00e1 Ch\u1ea5m G\u1ed1c \u0110a - S\u01a1n T\u00e2y",
+    "address": "61 S\u01a1n T\u00e2y, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.1,
+        "quality": 6.3,
+        "price": 6.2,
+        "service": 6.1,
+        "location": 6.1,
+        "space": null
+    },
+    "review_count": 30,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-ca-cham-goc-da-son-tay"
+}

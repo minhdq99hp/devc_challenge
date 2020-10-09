@@ -1,0 +1,26 @@
+{
+    "name": "KOMBO - C\u01a1m Ni\u00eau Singapore - L\u00ea V\u0103n Thi\u00eam",
+    "address": "60 L\u00ea V\u0103n Thi\u00eam, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.6,
+        "quality": 6.7,
+        "service": 6.6,
+        "location": 6.6,
+        "price": 6.5,
+        "space": 6.4
+    },
+    "review_count": 156,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "110.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Singapore",
+    "url": "https://www.foody.vn/ha-noi/kombo-com-nieu-singapore-le-van-thiem"
+}

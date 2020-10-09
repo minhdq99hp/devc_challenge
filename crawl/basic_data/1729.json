@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh Sinh Nh\u1eadt Th\u1ea3o My - Shop Online - M\u1ef9 \u0110\u00ecnh",
+    "address": "320 M\u1ef9 \u0110\u00ecnh, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "120.000",
+    "max_price": "300.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/banh-sinh-nhat-thao-my-shop-online"
+}

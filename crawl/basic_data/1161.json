@@ -1,0 +1,25 @@
+{
+    "name": "\u00cdch H\u00f2a \u0110\u01b0\u1eddng - Taiwan Tea - Quang Trung",
+    "address": "81 Quang Trung, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.7,
+        "location": 7.9,
+        "price": 7.8,
+        "service": 7.7,
+        "quality": 7.7,
+        "space": 7.7
+    },
+    "review_count": 15,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ich-hoa-duong-taiwan-tea-quang-trung"
+}

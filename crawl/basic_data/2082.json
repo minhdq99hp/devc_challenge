@@ -1,0 +1,24 @@
+{
+    "name": "C\u01a1m G\u00e0 B\u00e0 Nga",
+    "address": "SH6 Park 2 Times City, 458 Minh Khai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.6,
+        "location": 6.9,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 14,
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ga-ba-nga"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "The Yogurt House - S\u1eefa Chua & Tr\u00e0 Hoa Qu\u1ea3 - Vinhomes Gardenia",
+    "address": "B4 - 26 Vinhomes Gardenia H\u00e0m Nghi, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 9.3,
+        "price": 9.5,
+        "quality": 9.5,
+        "service": 9.5,
+        "location": 9.0,
+        "space": 9.0
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/the-yogourt-house-sua-chua-tran-chau-dai-loan"
+}

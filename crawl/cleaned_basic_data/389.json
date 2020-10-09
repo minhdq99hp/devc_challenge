@@ -1,0 +1,25 @@
+{
+    "name": "Gi\u1ea5m Tr\u00f2n Qu\u00e1n - C\u01a1m G\u00e0 & \u0110\u1ed3 \u0102n V\u1eb7t Online",
+    "address": "11 Gia Th\u1ee5y, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.5,
+        "price": 8.2,
+        "quality": 8.2,
+        "service": 8.0,
+        "location": 6.6,
+        "space": 6.6
+    },
+    "review_count": 5,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/giam-tron-quan-chan-ga-ngam-giam-shop-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Duy T\u00f9ng - M\u00ec Tr\u1ed9n Indomie - M\u1ef9 \u0110\u00ecnh",
+    "address": "2 Ng\u00e1ch 142 Ng\u00f5 322 M\u1ef9 \u0110\u00ecnh, P. M\u1ef9 \u0110\u00ecnh 1, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "23:00",
+    "min_price": "10.000",
+    "max_price": "70.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/duy-tung-mi-tron-indomie-my-dinh"
+}

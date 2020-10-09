@@ -1,0 +1,25 @@
+{
+    "name": "Kh\u1ec9 V\u00e0ng - N\u01b0\u1edbc \u00c9p Hoa Qu\u1ea3 T\u01b0\u01a1i - Th\u1ee5y Khu\u00ea",
+    "address": "453 Th\u1ee5y Khu\u00ea, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 8.1,
+        "quality": 8.5,
+        "price": 8.4,
+        "location": 8.3,
+        "service": 7.9,
+        "space": 7.4
+    },
+    "review_count": 10,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "300.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/khi-vang-nuoc-ep-hoa-qua-tuoi"
+}

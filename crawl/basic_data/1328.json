@@ -1,0 +1,25 @@
+{
+    "name": "3 AE - M\u00ec Tr\u1ed9n Indomie - Shop Online",
+    "address": "P209 Nh\u00e0 A8 Ng\u00f5 1A T\u00f4n Th\u1ea5t T\u00f9ng, P. Trung T\u1ef1, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "5.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Indonesia",
+    "url": "https://www.foody.vn/ha-noi/3-ae-mi-tron-indomie-shop-online"
+}

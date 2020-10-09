@@ -1,0 +1,25 @@
+{
+    "name": "Bu\u0301n Ri\u00eau Ph\u00f4\u0301 C\u00f4\u0309 - Th\u00e0nh C\u00f4ng",
+    "address": "114 B5 Th\u00e0nh C\u00f4ng, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 9.6,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 9.5,
+        "location": 8.5
+    },
+    "review_count": 2,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-rieu-pho-co-thanh-cong"
+}

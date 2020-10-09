@@ -1,0 +1,24 @@
+{
+    "name": "B\u00fan \u0110\u1eadu M\u1eafm T\u00f4m C\u00f4 Th\u1ee7y Th\u01b0\u01a1ng M\u1ea1i",
+    "address": "\u0110\u1ea7u Ng\u00f5 5 Ph\u1ea1m Th\u1eadn Du\u1eadt, P. Mai D\u1ecbch, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.1,
+        "price": 8.8,
+        "service": 8.5,
+        "quality": 8.0,
+        "space": 7.8,
+        "location": 7.5
+    },
+    "review_count": 4,
+    "opening_time": "11:00",
+    "closing_time": "20:30",
+    "min_price": "30.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-mam-tom-co-thuy-thuong-mai"
+}

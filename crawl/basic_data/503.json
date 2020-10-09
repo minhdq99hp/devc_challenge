@@ -1,0 +1,25 @@
+{
+    "name": "C\u00f4 Thanh - Ch\u00e8 S\u1ea7u Kem B\u01a1 624 Minh Khai C\u0169",
+    "address": "18 Ng\u00f5 Ch\u00f9a H\u01b0ng K\u00fd (\u0110\u1ebfn Ng\u00e3 4 R\u1ebd Ph\u1ea3i \u0110i Th\u1eb3ng 300m), Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.1,
+        "price": 6.6,
+        "location": 6.3,
+        "quality": 6.0,
+        "service": 6.0,
+        "space": null
+    },
+    "review_count": 26,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "65.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-thanh-che-sau-kem-bo"
+}

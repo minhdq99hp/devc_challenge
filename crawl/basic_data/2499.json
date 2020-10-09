@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 Chanh B\u1ee5i Ph\u1ed1 - \u0110\u1eb7ng V\u0103n Ng\u1eef",
+    "address": "110 D8 \u0110\u1eb7ng V\u0103n Ng\u1eef, P. Trung T\u1ef1, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tra-chanh-bui-pho-dang-van-ngu"
+}

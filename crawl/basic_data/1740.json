@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m S\u1ea1ch Ng\u0169 V\u1ecb Y\u1ebft Ki\u00eau - Tr\u1ea7n Nh\u00e2n T\u00f4ng",
+    "address": "49 Tr\u1ea7n Nh\u00e2n T\u00f4ng, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.0,
+        "space": null,
+        "location": null,
+        "price": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 38,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-sach-ngu-vi-yet-kieu"
+}

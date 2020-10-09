@@ -1,0 +1,25 @@
+{
+    "name": "C\u00f4 Thanh - Ch\u00e8 S\u1ea7u & Kem B\u01a1 Online",
+    "address": "25A Ng\u00e1ch 162/11 Ng\u00f5 200 V\u0129nh H\u01b0ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.6,
+        "price": 10.0,
+        "quality": 10.0,
+        "location": 8.0,
+        "service": 8.0,
+        "space": 7.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "65.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/co-thanh-che-sau-kem-bo-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "H\u00f9ng Oanh - C\u01a1m Rang & Ph\u1edf B\u00f2",
+    "address": "32 Ng\u00f5 136 Tri\u1ec1u Kh\u00fac, Huy\u1ec7n Thanh Tr\u00ec H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hung-oanh-com-rang-pho-bo"
+}

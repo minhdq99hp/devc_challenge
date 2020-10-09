@@ -1,0 +1,21 @@
+{
+    "name": "N\u01b0\u1edbc \u00c9p Tr\u00e1i C\u00e2y - H\u00e0ng B\u1ed3",
+    "address": "52 - 54 H\u00e0ng B\u1ed3, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8, ",
+    "scores": {
+        "avg_score": 7.0,
+        "quality": 7.4,
+        "location": 7.0,
+        "price": 6.9,
+        "service": 6.9,
+        "space": 6.6
+    },
+    "review_count": 16,
+    "opening_time": "10:30",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": null,
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nuoc-ep-trai-cay-nguyen-chat"
+}

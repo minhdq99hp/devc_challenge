@@ -1,0 +1,25 @@
+{
+    "name": "V\u0169 Thu H\u1eb1ng - Gimbap Hanoi - Ho\u00e0ng C\u00f4ng Ch\u1ea5t - Shop Online",
+    "address": "7 Ng\u00f5 360 Ho\u00e0ng C\u00f4ng Ch\u1ea5t, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 5.9,
+        "location": 7.0,
+        "price": null,
+        "service": null,
+        "quality": null,
+        "space": null
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "120.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/vu-thu-hang-gimbap-hanoi-hoang-cong-chat-shop-online"
+}

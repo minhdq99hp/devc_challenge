@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e8 Ngon H\u00e0 \u0110\u00f4ng - Qu\u00e1n \u0102n V\u1eb7t",
+    "address": "36 C\u1ea7u Am, V\u1ea1n Ph\u00fac, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.4,
+        "service": 7.8,
+        "quality": 7.7,
+        "price": 7.4,
+        "location": 7.1,
+        "space": 6.8
+    },
+    "review_count": 9,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "6.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-ngon-ha-dong-quan-an-vat"
+}

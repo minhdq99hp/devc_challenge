@@ -1,0 +1,24 @@
+{
+    "name": "Thanh \u0110\u1ea1i - B\u00fan Ch\u1ea3 & B\u00fan C\u00e1",
+    "address": "16 Ng\u00f5 20 M\u1ef9 \u0110\u00ecnh, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.3,
+        "price": 7.5,
+        "location": 6.5,
+        "quality": 6.0,
+        "space": 6.0,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": "07:00",
+    "closing_time": "13:00",
+    "min_price": "25.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/thanh-dai-bun-cha-bun-ca"
+}

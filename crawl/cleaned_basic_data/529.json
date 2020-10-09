@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m G\u00e0 \u00d3ng \u00c1nh - Nguy\u1ec5n Tr\u00e3i",
+    "address": "15 Ng\u00f5 108B Nguy\u1ec5n Tr\u00e3i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "service": 6.8,
+        "location": 6.8,
+        "price": 6.6,
+        "space": 6.4,
+        "quality": 6.2
+    },
+    "review_count": 150,
+    "opening_time": "07:30",
+    "closing_time": "22:30",
+    "min_price": "35.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-ga-ong-anh-nguyen-trai"
+}

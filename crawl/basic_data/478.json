@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m G\u00e0 S\u01a1n La - V\u0169 H\u1eefu",
+    "address": "330 V\u0169 H\u1eefu, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "quality": 6.4,
+        "service": 6.4,
+        "space": 6.1,
+        "price": 6.0,
+        "location": null
+    },
+    "review_count": 8,
+    "opening_time": "10:45",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n B\u1eafc",
+    "url": "https://www.foody.vn/ha-noi/com-ga-son-la-luong-the-vinh"
+}

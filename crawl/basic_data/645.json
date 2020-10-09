@@ -1,0 +1,25 @@
+{
+    "name": "N\u01b0\u1edbc \u00c9p Tr\u00e1i C\u00e2y - Fruit Juice",
+    "address": "32 Tr\u1ea7n Qu\u1ed1c To\u1ea3n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "20:00",
+    "min_price": "20.000",
+    "max_price": "20.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nuoc-ep-trai-cay-fruit-juice"
+}

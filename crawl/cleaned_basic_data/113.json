@@ -1,0 +1,25 @@
+{
+    "name": "Bami King - B\u00e1nh M\u00ec B\u00f2 N\u01b0\u1edbng - 3 L\u00e1ng H\u1ea1",
+    "address": "3 L\u00e1ng H\u1ea1, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.6,
+        "location": 8.2,
+        "quality": 7.7,
+        "service": 7.6,
+        "space": 7.3,
+        "price": 7.1
+    },
+    "review_count": 11,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "29.000",
+    "max_price": "41.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bami-king-banh-mi-bo-nuong-3-lang-ha"
+}

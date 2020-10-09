@@ -1,0 +1,24 @@
+{
+    "name": "X\u00f4i C\u00f4 Thanh - V\u0103n Ch\u01b0\u01a1ng",
+    "address": "281 V\u0103n Ch\u01b0\u01a1ng 1, T\u00f4n \u0110\u1ee9c Th\u1eafng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.6,
+        "service": 9.4,
+        "quality": 9.2,
+        "price": 9.1,
+        "location": 8.1,
+        "space": 7.2
+    },
+    "review_count": 21,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/xoi-co-thanh-van-chuong"
+}

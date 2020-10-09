@@ -1,0 +1,25 @@
+{
+    "name": "Mei's Kitchen - M\u00f3n Ngon H\u00e0n Qu\u1ed1c - Shop Online",
+    "address": "38 Ng\u00f5 10 TT 17 (Trong Ng\u00f5 169 Do\u00e3n K\u1ebf Thi\u1ec7n), Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.6,
+        "price": 8.1,
+        "service": 7.9,
+        "space": 7.6,
+        "quality": 7.4,
+        "location": 7.1
+    },
+    "review_count": 9,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "90.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/mei-s-kitchen-mon-ngon-han-quoc-shop-online"
+}

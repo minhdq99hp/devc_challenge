@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp T\u00e2m An - C\u01a1m V\u0103n Ph\u00f2ng Cao C\u1ea5p & \u0102n V\u1eb7t Online",
+    "address": "6 Ng\u00e1ch 82/96, Ng\u00f5 166 Kim M\u00e3 (C\u1ea1nh Nh\u00e0 Ngh\u1ec9 Thu\u1ef3 Linh), Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.1,
+        "location": 9.2,
+        "price": 9.1,
+        "quality": 9.1,
+        "service": 9.1,
+        "space": 9.0
+    },
+    "review_count": 18,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-tam-an-com-van-phong-cao-cap-an-vat-online"
+}

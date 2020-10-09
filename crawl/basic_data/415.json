@@ -1,0 +1,25 @@
+{
+    "name": "L\u00f2ng TIMES",
+    "address": "2 TT2A Ng\u00f5 622 Minh Khai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.4,
+        "location": 7.5,
+        "space": 6.6,
+        "quality": 6.3,
+        "service": 6.1,
+        "price": null
+    },
+    "review_count": 8,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/long-times"
+}

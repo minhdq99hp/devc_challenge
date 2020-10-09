@@ -1,0 +1,23 @@
+{
+    "name": "B\u00fan Tr\u1ed9n & Mi\u1ebfn Tr\u1ed9n C\u00f4 Nga - Ng\u00f5 Tr\u00e0ng Ti\u1ec1n",
+    "address": "7 Ng\u00f5 Tr\u00e0ng Ti\u1ec1n, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.6,
+        "location": 7.7,
+        "price": 7.0,
+        "quality": 7.0,
+        "space": 6.3,
+        "service": null
+    },
+    "review_count": 3,
+    "opening_time": "11:00",
+    "closing_time": "18:30",
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-tron-mien-tron-co-nga-ngo-trang-tien"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n Ch\u1ecb Nui - \u0110\u1eb7ng V\u0103n Ng\u1eef",
+    "address": "10 Ng\u00f5 4C \u0110\u1eb7ng V\u0103n Ng\u1eef, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.9,
+        "price": 8.0,
+        "space": 8.0,
+        "quality": 7.5,
+        "location": 6.5,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "10.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-chi-nui-dang-van-ngu"
+}

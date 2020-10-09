@@ -1,0 +1,25 @@
+{
+    "name": "Banana - Ti\u1ec7m B\u00e1nh Online",
+    "address": "44 Ho\u00e0ng V\u0103n Th\u00e1i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.6,
+        "price": 7.8,
+        "quality": 6.3,
+        "space": 6.3,
+        "location": 6.2,
+        "service": 6.2
+    },
+    "review_count": 12,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banana-tiem-banh-online"
+}

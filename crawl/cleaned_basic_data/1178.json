@@ -1,0 +1,25 @@
+{
+    "name": "Dimsum \u0110i\u1ec3m T\u00e2m \u0110\u00e0i Loan - T\u00e2n Mai",
+    "address": "11 Ng\u00e1ch 67 Ng\u00f5 147B T\u00e2n Mai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.1,
+        "quality": 7.5,
+        "price": 7.2,
+        "service": 7.1,
+        "location": 6.8,
+        "space": 6.7
+    },
+    "review_count": 19,
+    "opening_time": "08:30",
+    "closing_time": "20:30",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/dimsum-long-truc-dai-loan-tan-mai"
+}

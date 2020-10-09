@@ -1,0 +1,25 @@
+{
+    "name": "YamYam KFood - \u0110\u1ed3 \u0102n H\u00e0n Qu\u1ed1c - T\u1ea1 Quang B\u1eedu",
+    "address": "43 T\u1ea1 Quang B\u1eedu, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 3.6,
+        "location": null,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "21:30",
+    "min_price": "30.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/yamyam-kfood-do-an-han-quoc-ta-quang-buu"
+}

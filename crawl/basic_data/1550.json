@@ -1,0 +1,26 @@
+{
+    "name": "B\u00e1nh Canh Gh\u1eb9 \u00dat C\u00f2i",
+    "address": "2B Quang Trung, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.8,
+        "location": 7.5,
+        "service": 7.1,
+        "quality": 6.9,
+        "space": 6.8,
+        "price": null
+    },
+    "review_count": 129,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-canh-ghe-ut-coi"
+}

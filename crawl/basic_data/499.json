@@ -1,0 +1,25 @@
+{
+    "name": "SugarKing - \u0110\u01b0\u1eddng N\u00e2u \u0110\u00e0i Loan - Gi\u1ea3ng V\u00f5",
+    "address": "183 Gi\u1ea3ng V\u00f5, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 1.1,
+        "price": null,
+        "location": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/sugarking-duong-nau-dai-loan-giang-vo"
+}

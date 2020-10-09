@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 Kh\u00f4ng L\u1ed1i Tho\u00e1t - Shop Online",
+    "address": "15 Ng\u00e1ch 57/16 \u0110\u1ed7 Xu\u00e2n H\u1ee3p, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.2,
+        "price": 9.1,
+        "quality": 8.9,
+        "service": 8.4,
+        "location": 7.9,
+        "space": 6.9
+    },
+    "review_count": 8,
+    "opening_time": "08:00",
+    "closing_time": "21:00",
+    "min_price": "40.000",
+    "max_price": "300.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ga-khong-loi-thoat-shop-online"
+}

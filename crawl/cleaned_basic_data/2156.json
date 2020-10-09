@@ -1,0 +1,24 @@
+{
+    "name": "Ba Mi\u1ec1n - X\u00f4i Qu\u00ea Qu\u00e0 V\u1eb7t",
+    "address": "308 Xu\u00e2n \u0110\u1ec9nh, P. Xu\u00e2n \u0110\u1ec9nh, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.2,
+        "quality": 7.8,
+        "price": 7.5,
+        "service": 7.5,
+        "location": 6.7,
+        "space": 6.7
+    },
+    "review_count": 6,
+    "opening_time": "07:30",
+    "closing_time": "21:30",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ba-mien-xoi-que-qua-vat"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "\u0110\u1ed3 H\u00e0n, G\u00e0 R\u00e1n & Burger - B\u1ea1ch Mai",
+    "address": "1 Ng\u00f5 506 B\u1ea1ch Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.1,
+        "location": 6.6,
+        "quality": 6.6,
+        "price": 6.5,
+        "service": null,
+        "space": null
+    },
+    "review_count": 76,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "100.000",
+    "max_price": "200.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/mbox-do-han-ga-ran-chan-ga-lac-thai"
+}

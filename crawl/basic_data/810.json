@@ -1,0 +1,25 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - Nguy\u1ec5n V\u0103n C\u1eeb",
+    "address": "2 Ng\u00f5 208 Nguy\u1ec5n V\u0103n C\u1eeb, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.1,
+        "location": 6.5,
+        "space": 6.4,
+        "price": 6.0,
+        "quality": 6.0,
+        "service": null
+    },
+    "review_count": 8,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-nguyen-van-cu"
+}

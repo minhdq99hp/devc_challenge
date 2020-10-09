@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n Tr\u1ed9n H\u01b0ng B\u00e9o - Shop Online - Tr\u1ea7n H\u00f2a",
+    "address": "68 Ng\u00f5 161 Tr\u1ea7n H\u00f2a, P. \u0110\u1ecbnh C\u00f4ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-tron-hung-beo-shop-online-tran-hoa"
+}

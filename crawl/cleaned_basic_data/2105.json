@@ -1,0 +1,24 @@
+{
+    "name": "T\u00edt Th\u00f2 L\u00f2 - B\u00fan \u0110\u1eadu & B\u00fan Ch\u1ea3 - Xa La",
+    "address": "Ki \u1ed0t 8 S\u1ed1 1 Xa La, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.6,
+        "service": 8.5,
+        "price": 7.5,
+        "location": 7.3,
+        "quality": 7.3,
+        "space": 7.3
+    },
+    "review_count": 4,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tit-tho-lo-bun-dau-bun-cha"
+}

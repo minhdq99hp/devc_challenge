@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp C\u00f4 Th\u1ea3o - C\u01a1m V\u0103n Ph\u00f2ng T\u1ef1 Ch\u1ecdn",
+    "address": "8 Ng\u00f5 108 L\u00f2 \u0110\u00fac, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.8,
+        "location": 6.0,
+        "price": null,
+        "quality": null,
+        "space": null,
+        "service": null
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "15:00",
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-co-thao-com-van-phong-tu-chon"
+}

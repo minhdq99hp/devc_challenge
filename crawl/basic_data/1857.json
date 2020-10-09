@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan S\u01b0\u1eddn Chua - Ho\u00e0ng C\u1ea7u",
+    "address": "9 Ng\u00f5 59 Ho\u00e0ng C\u1ea7u M\u1edbi, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "21:30",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-suon-chua-hoang-cau"
+}

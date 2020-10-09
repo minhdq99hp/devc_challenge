@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m & Ph\u1edf M\u1ea1nh - Shop Online",
+    "address": "142 \u0110\u00ea Tr\u1ea7n Kh\u00e1t Ch\u00e2n, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.6,
+        "location": 7.0,
+        "space": 7.0,
+        "price": 6.5,
+        "service": 6.5,
+        "quality": 6.0
+    },
+    "review_count": 2,
+    "opening_time": "06:00",
+    "closing_time": "23:59",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-pho-manh-shop-online"
+}

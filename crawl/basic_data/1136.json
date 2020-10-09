@@ -1,0 +1,25 @@
+{
+    "name": "Th\u01a1m - B\u00fan \u0110\u1eadu M\u1eafm T\u00f4m",
+    "address": "50 Ng\u00f5 79 C\u1ea7u Gi\u1ea5y, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.8,
+        "service": 6.6,
+        "price": 6.2,
+        "quality": 6.1,
+        "location": null,
+        "space": null
+    },
+    "review_count": 13,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-cau-giay"
+}

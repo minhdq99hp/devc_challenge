@@ -6,6 +6,7 @@ import sys
 import json
 import string
 import requests
+import traceback
 from tqdm import tqdm
 from time import sleep
 from bs4 import BeautifulSoup as bs
@@ -83,36 +84,63 @@ def scrape_basic_data(url):
     }
 
     for pt in point_tags:
-        p = pt.select('div > span.avg-txt-highlight')[0].text
-        l = pt.select('div.label')[0].text
+        p = pt.select('div > span.avg-txt-highlight')
+        l = pt.select('div.label')
 
-        data['scores'][a[l]] = float(p)
+        if not l:
+            continue
+
+        l = l[0].text
+
+        if p:
+            p = p[0].text
+            data['scores'][a[l]] = float(p)
+        else:
+            data['scores'][a[l]] = None
+        
+        
 
     # get opening and closing time
-    time_tag = s.select('div.micro-timesopen > span')[2]
-    time_texts = time_tag.text.strip().split(' - ')
+    time_tag = s.select('div.micro-timesopen > span')
 
-    data['opening_time'] = time_texts[0]
-    data['closing_time'] = time_texts[1]
+    if time_tag:
+        time_texts = time_tag[2].text.strip().split(' - ')
+
+        if time_texts and len(time_texts) == 2:
+            data['opening_time'] = time_texts[0]
+            data['closing_time'] = time_texts[1]
+        else:
+            data['opening_time'] = None
+            data['closing_time'] = None
+    else:
+        data['opening_time'] = None
+        data['closing_time'] = None
 
     # get price min max
-    price_tag = s.select('span[itemprop=priceRange]')[0]
-    price_tag = price_tag.text.strip().split(' - ')
-
-    data['min_price'] = price_tag[0][:-1]
-    data['max_price'] = price_tag[1][:-1]
-
+    price_tag = s.select('span[itemprop=priceRange]')
+    if price_tag:
+        price_tag = price_tag[0].text.strip().split(' - ')
+        data['min_price'] = price_tag[0][:-1]
+        data['max_price'] = price_tag[1][:-1]
+    else:
+        data['min_price'] = None
+        data['max_price'] = None
+    
     # get audiences
-    audiences = s.select('div.audiences', limit=1)[0].text
-
-    audiences = audiences.replace('\xa0', '').replace('\r', '').replace('-', '').strip().split(',')
-
-    data['audiences'] = audiences
-
+    audiences = s.select('div.audiences', limit=1)
+    if audiences:
+        audiences = audiences[0].text.replace('\xa0', '').replace('\r', '').replace('-', '').strip().split(',')
+        data['audiences'] = audiences
+    else:
+        data['audiences'] = None
+    
     # get cuisine
-    cuisine = s.select('a.microsite-cuisine', limit=1)[0].text.strip()
-
-    data['cuisine'] = cuisine
+    cuisine = s.select('a.microsite-cuisine', limit=1)
+    if cuisine:
+        cuisine = cuisine[0].text.strip()
+        data['cuisine'] = cuisine
+    else:
+        data['cuisine'] = None
 
     # get url
     data['url'] = url
@@ -140,16 +168,18 @@ if __name__ == '__main__':
                 with open(cache_path, 'w') as f:
                     f.write(json.dumps(data, indent=4))
                 
-                fail_count = 0
+                # fail_count = 0
             except Exception as e:
-                # print(f'Failed {i} {e}')
-                fail_count += 1
+                traceback.print_exc()
+                sys.exit(0) 
+                print(f'Failed {i} {e}')
+                # fail_count += 1
             
 
-            if fail_count == 700:
-                print('Fail too much ! Sleep for 3 mins.')
-                sleep(180)
-                continue
+            # if fail_count == 700:
+            #     print('Fail too much ! Sleep for 3 mins.')
+            #     sleep(180)
+            #     continue
     
 
     print("Done !")

@@ -1,0 +1,24 @@
+{
+    "name": "Ngan Ngon - Tr\u1ea7n Huy Li\u1ec7u",
+    "address": "101B1 Tr\u1ea7n Huy Li\u1ec7u, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.0,
+        "price": 6.2,
+        "service": 6.2,
+        "location": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 13,
+    "opening_time": "07:00",
+    "closing_time": "23:59",
+    "min_price": "30.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ngan-ngon-tran-huy-lieu"
+}

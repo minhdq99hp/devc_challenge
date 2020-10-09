@@ -1,0 +1,26 @@
+{
+    "name": "ThaiExpress - Royal City",
+    "address": "T\u1ea7ng H\u1ea7m 2,\u00a0B2 Royal City, 72A Nguy\u1ec5n Tr\u00e3i, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.7,
+        "quality": 7.2,
+        "location": 7.1,
+        "service": 6.8,
+        "space": 6.8,
+        "price": null
+    },
+    "review_count": 62,
+    "opening_time": "11:00",
+    "closing_time": "20:00",
+    "min_price": "10.000",
+    "max_price": "90.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Th\u00e1i",
+    "url": "https://www.foody.vn/ha-noi/thai-express-royal-city"
+}

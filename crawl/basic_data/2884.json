@@ -1,0 +1,26 @@
+{
+    "name": "Burger King - Gi\u1ea3ng V\u00f5",
+    "address": "C4 Gi\u1ea3ng V\u00f5, P. Gi\u1ea3ng V\u00f5, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.3,
+        "location": 6.7,
+        "quality": 6.4,
+        "space": 6.3,
+        "service": 6.3,
+        "price": null
+    },
+    "review_count": 114,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/burger-king-giang-vo"
+}

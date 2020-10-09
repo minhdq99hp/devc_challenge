@@ -1,0 +1,25 @@
+{
+    "name": "M\u00f4i Qu\u00e1n - B\u00e1nh Cu\u1ed1n & B\u00fan Ch\u1ea3",
+    "address": "39A Ph\u00e1o \u0110\u00e0i L\u00e1ng (\u0110\u1ed1i Di\u1ec7n Ng\u00f5 10 Nh\u00ecn Sang), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.2,
+        "quality": 8.0,
+        "price": 7.5,
+        "location": 7.0,
+        "service": 7.0,
+        "space": 6.5
+    },
+    "review_count": 2,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "12.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/moi-quan-banh-cuon-bun-cha"
+}

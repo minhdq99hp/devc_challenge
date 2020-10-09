@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Ngon 16 - D\u1ecbch V\u1ecdng",
+    "address": "16 D\u1ecbch V\u1ecdng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.9,
+        "service": 7.3,
+        "location": 7.1,
+        "price": 6.8,
+        "space": 6.8,
+        "quality": 6.6
+    },
+    "review_count": 8,
+    "opening_time": "08:30",
+    "closing_time": "14:30 | 15:00",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ngon-16-dich-vong"
+}

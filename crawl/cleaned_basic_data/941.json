@@ -1,0 +1,25 @@
+{
+    "name": "Xin Ch\u00e0o Thanh Xu\u00e2n - C\u01a1m H\u1ed9p & Kimbap H\u00e0n Qu\u1ed1c - V\u0169 H\u1eefu",
+    "address": "307 V\u0169 H\u1eefu, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 8.3,
+        "service": 8.7,
+        "quality": 8.5,
+        "price": 8.1,
+        "location": 8.1,
+        "space": 7.9
+    },
+    "review_count": 35,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "50.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/xin-chao-thanh-xuan-com-hop-kimbap-han-quoc"
+}

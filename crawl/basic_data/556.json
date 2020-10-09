@@ -1,0 +1,26 @@
+{
+    "name": "Sushi Kei - Lotte Center Li\u1ec5u Giai",
+    "address": "T\u1ea7ng 3,\u00a0T\u1ea7ng 3, Lotte Center, 54 Li\u1ec5u Giai, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 6.3,
+        "location": 7.7,
+        "space": 7.0,
+        "service": 6.3,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 6,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "10.000",
+    "max_price": "199.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Nh\u1eadt",
+    "url": "https://www.foody.vn/ha-noi/sushi-kei-lotte-center"
+}

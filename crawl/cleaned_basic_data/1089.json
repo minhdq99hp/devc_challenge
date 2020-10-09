@@ -1,0 +1,25 @@
+{
+    "name": "Crepes Box - Fastfood & Drinks - Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u",
+    "address": "50 Nguy\u1ec5n \u0110\u00ecnh Chi\u1ec3u, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.1,
+        "quality": 8.4,
+        "price": 8.4,
+        "service": 8.1,
+        "location": 8.0,
+        "space": 7.4
+    },
+    "review_count": 22,
+    "opening_time": "06:30",
+    "closing_time": "18:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t,",
+    "url": "https://www.foody.vn/ha-noi/crepes-box-fastfood-drinks"
+}

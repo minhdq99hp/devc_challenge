@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u1ed0c S\u01b0\u1eddn C\u00f4 S\u00e1u - Kim \u0110\u1ed3ng",
+    "address": "47 Kim \u0110\u1ed3ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.6,
+        "location": null,
+        "space": null,
+        "service": null,
+        "quality": null,
+        "price": null
+    },
+    "review_count": 2,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-oc-suon-co-sau-kim-dong"
+}

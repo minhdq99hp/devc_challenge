@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Tocotoco - Ph\u1ed1 Nh\u1ed5n",
+    "address": "20 Ph\u1ed1 Nh\u1ed5n, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "quality": 7.3,
+        "space": 7.3,
+        "location": 7.1,
+        "price": 7.1,
+        "service": 7.0
+    },
+    "review_count": 8,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "25.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-tocotoco-pho-nhon"
+}

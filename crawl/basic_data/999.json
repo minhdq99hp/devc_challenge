@@ -1,0 +1,25 @@
+{
+    "name": "Tuy\u1ebft Mai - Ch\u00e8 D\u1eeba D\u1ea7m & Ch\u00e8 B\u01b0\u1edfi - Minh Khai",
+    "address": "12/622 Minh Khai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 4.6,
+        "location": 6.0,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tuyet-mai-che-dua-dam-che-buoi-minh-khai"
+}

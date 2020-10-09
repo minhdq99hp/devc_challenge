@@ -1,0 +1,25 @@
+{
+    "name": "Mi\u1ebfn Tr\u1ed9n Th\u00fay B\u00e9o - Th\u00e0nh C\u00f4ng ",
+    "address": "106B A4 TT. Th\u00e0nh C\u00f4ng (101 A4 R\u1ebd Ph\u1ea3i), Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 5.2,
+        "space": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 5,
+    "opening_time": "08:00",
+    "closing_time": "19:30",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nom-thuy-beo"
+}

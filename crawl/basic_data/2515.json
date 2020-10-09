@@ -1,0 +1,25 @@
+{
+    "name": "Coffee B\u00e0 B\u00f9i - Cafe Bu\u00f4n M\u00ea Thu\u1eadt",
+    "address": "110B - A8 Ngh\u0129a T\u00e2n, P. Ngh\u0129a T\u00e2n, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "20.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/coffee-ba-bui-cafe-buon-me-thuat"
+}

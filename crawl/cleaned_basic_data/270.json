@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Ng\u1ecdc B\u00edch - C\u01a1m G\u00e0 & C\u01a1m S\u01b0\u1eddn",
+    "address": "Ki \u1ed0t 9 CT1 B1 K\u0110T Xa La, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.0,
+        "location": 6.0,
+        "price": 6.0,
+        "quality": 6.0,
+        "service": 6.0,
+        "space": 6.0
+    },
+    "review_count": 4,
+    "opening_time": "06:00",
+    "closing_time": "22:30",
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ngoc-bich-com-ga-com-suon"
+}

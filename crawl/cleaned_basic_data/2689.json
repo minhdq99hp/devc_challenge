@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Chay Thi\u1ec7n T\u00e2m - T\u1ea1 Quang B\u1eedu",
+    "address": "P5Z8 Ng\u00e1ch 1 Ng\u00f5 1 T\u1ea1 Quang B\u1eedu, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n chay",
+    "scores": {
+        "avg_score": 8.4,
+        "location": 8.7,
+        "price": 8.7,
+        "service": 8.7,
+        "quality": 8.5,
+        "space": 7.5
+    },
+    "review_count": 6,
+    "opening_time": "10:30",
+    "closing_time": "14:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-chay-thien-tam-ta-quang-buu"
+}

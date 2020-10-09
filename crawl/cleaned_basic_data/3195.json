@@ -1,0 +1,25 @@
+{
+    "name": "Quang Nguy\u00ean - Ch\u00e8 Kh\u00fac B\u1ea1ch - \u0110\u1ed9i C\u1ea5n",
+    "address": "171 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.2,
+        "service": 7.5,
+        "location": 7.3,
+        "price": 7.2,
+        "quality": 7.0,
+        "space": 7.0
+    },
+    "review_count": 40,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "10.000",
+    "max_price": "25.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quang-nguyen-che-khuc-bach"
+}

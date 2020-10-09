@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m T\u1ea5m & C\u01a1m Ni\u00eau - Th\u00e1i Th\u1ecbnh",
+    "address": "198 Th\u00e1i Th\u1ecbnh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "price": 6.8,
+        "location": 6.6,
+        "service": 6.3,
+        "quality": 6.2,
+        "space": null
+    },
+    "review_count": 12,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "40.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-tam-com-nieu-thai-thinh"
+}

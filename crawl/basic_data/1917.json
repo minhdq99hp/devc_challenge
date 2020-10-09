@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e8 Dung - H\u00e0ng B\u1ea1c",
+    "address": "95 H\u00e0ng B\u1ea1c, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.0,
+        "location": 6.3,
+        "price": 6.2,
+        "service": 6.1,
+        "quality": 6.1,
+        "space": null
+    },
+    "review_count": 37,
+    "opening_time": "09:00",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/che-dung-hang-bac"
+}

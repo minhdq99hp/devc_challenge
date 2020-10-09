@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - Tr\u00e0 S\u1eefa H\u1ed3ng K\u00f4ng - H\u00e0ng B\u00e0i",
+    "address": "21B H\u00e0ng B\u00e0i, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.9,
+        "location": 6.7,
+        "price": 6.1,
+        "service": null,
+        "quality": null,
+        "space": null
+    },
+    "review_count": 17,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-tra-sua-hong-kong-hang-bai"
+}

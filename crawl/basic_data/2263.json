@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u0110\u1eadu Th\u00f9y T\u01b0\u01a1i - Ph\u00fa \u0110\u00f4",
+    "address": "23 Ng\u00f5 93 T\u1ed5 3 Ph\u00fa \u0110\u00f4, P. Ph\u00fa \u0110\u00f4, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "6.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-thuy-tuoi-phu-do"
+}

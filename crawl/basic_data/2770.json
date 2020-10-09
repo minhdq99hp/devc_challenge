@@ -1,0 +1,25 @@
+{
+    "name": "G\u00f3c B\u1ebfp H\u1ea1nh Nguy\u00ean - C\u01a1m C\u00e1c M\u00f3n",
+    "address": "Nh\u00e0 2 Bi\u1ec7t Th\u1ef1 Li\u1ec1n K\u1ec1 3, K\u0110T \u0110\u1ea1i Thanh, Huy\u1ec7n Thanh Tr\u00ec H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "18:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/goc-bep-hanh-nguyen-com-cac-mon"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "\u0110\u00f4ng Hi\u1ec1n - B\u00e1nh Cu\u1ed1n, B\u00fan Ch\u1ea3 & G\u00e0 T\u1ea7n - Tr\u1ea7n Ph\u00fa",
+    "address": "47 Ng\u00f5 55 Tr\u1ea7n Ph\u00fa (C\u1ed5ng \u0110\u1ea1i h\u1ecdc SP Ngh\u1ec7 thu\u1eadt Trung \u01af\u01a1ng), Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.1,
+        "service": 6.3,
+        "price": null,
+        "quality": null,
+        "location": null,
+        "space": null
+    },
+    "review_count": 3,
+    "opening_time": "06:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/dong-hien-banh-cuon-nong-bun-cha-ga-tan"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Quang Nh\u1ea5t - B\u00fan Ri\u00eau Cua, B\u00fan \u1ed0c, B\u00fan B\u00f2",
+    "address": "216 \u0110\u1ed9i C\u1ea5n, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 3.4,
+        "location": null,
+        "price": null,
+        "space": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "06:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quang-nhat-bun-rieu-cua-bun-oc-bun-bo"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Khao Lao - Vincom Center Metropolis",
+    "address": "T\u1ea7ng L3, Vincom Center Metropolis, Li\u1ec5u Giai, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Nh\u00e0 h\u00e0ng",
+    "scores": {
+        "avg_score": 8.0,
+        "service": 8.7,
+        "quality": 8.2,
+        "space": 7.8,
+        "location": 7.7,
+        "price": 7.7
+    },
+    "review_count": 6,
+    "opening_time": "11:00",
+    "closing_time": "13:30 | 18:00",
+    "min_price": "10.000",
+    "max_price": "79.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/khao-lao-vincom-center-metropolis"
+}

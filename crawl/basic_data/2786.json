@@ -1,0 +1,25 @@
+{
+    "name": "Hoa Qu\u1ea3 D\u1ea7m Bon Fruits - Shop Online",
+    "address": "T\u00f2a B6 Nguy\u1ec5n C\u01a1 Th\u1ea1ch, K\u0110T M\u1ef9 \u0110\u00ecnh 1, P. C\u1ea7u Di\u1ec5n, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hoa-qua-dam-bon-fruits-shop-online"
+}

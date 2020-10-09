@@ -1,0 +1,24 @@
+{
+    "name": "Duy T\u00f9ng - M\u00ec Tr\u1ed9n Indomie - \u0110\u00e0o T\u1ea5n",
+    "address": "Ng\u00f5 101 \u0110\u00e0o T\u1ea5n (T\u1edbi S\u1ed1 50 R\u1ebd Tr\u00e1i), Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.9,
+        "price": 8.5,
+        "quality": 8.5,
+        "service": 7.9,
+        "location": 7.7,
+        "space": 6.9
+    },
+    "review_count": 22,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/mi-tron-indomie"
+}

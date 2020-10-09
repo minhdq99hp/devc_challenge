@@ -1,0 +1,25 @@
+{
+    "name": "Chi - B\u00fan \u0110\u1eadu M\u1eb9t",
+    "address": "97 B\u1ebf V\u0103n \u0110\u00e0n, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.6,
+        "price": 6.1,
+        "quality": null,
+        "location": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 11,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "25.000",
+    "max_price": "35.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chi-bun-dau-met-bun-gia-cay"
+}

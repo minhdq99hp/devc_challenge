@@ -1,0 +1,24 @@
+{
+    "name": "\u0110\u00f4 \u0110\u00f4 - Ti\u1ec7m G\u00e0 R\u00e1n",
+    "address": "110 M\u1ec5 Tr\u00ec Th\u01b0\u1ee3ng, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.5,
+        "quality": 7.4,
+        "price": 6.8,
+        "location": 6.2,
+        "service": 6.2,
+        "space": null
+    },
+    "review_count": 5,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/do-do-tiem-ga-ran"
+}

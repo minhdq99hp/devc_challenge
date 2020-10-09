@@ -1,0 +1,25 @@
+{
+    "name": "P\u00f4's Cake - B\u00f4ng Lan Tr\u1ee9ng Mu\u1ed1i & Kh\u00f4 G\u00e0 Online - B\u1eb1ng B",
+    "address": "78 Ng\u00f5 2 B\u1eb1ng B, P. Ho\u00e0ng Li\u1ec7t, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 5.2,
+        "location": null,
+        "service": null,
+        "space": null,
+        "quality": null,
+        "price": null
+    },
+    "review_count": 7,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "150.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/po-s-cake-bong-lan-trung-muoi-kho-ga-online-bang-b"
+}

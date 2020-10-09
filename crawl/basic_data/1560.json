@@ -1,0 +1,25 @@
+{
+    "name": "BBQ C\u01a1m S\u01b0\u1eddn Ph\u1ed1 C\u1ed5 - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "241 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a, P. \u0110\u1ed3ng T\u00e2m, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.8,
+        "location": null,
+        "quality": null,
+        "price": null,
+        "space": null,
+        "service": null
+    },
+    "review_count": 10,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bbq-com-suon-pho-co-nguyen-chinh"
+}

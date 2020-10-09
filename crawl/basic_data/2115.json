@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u1ed0c S\u01b0\u1eddn C\u00f4 S\u00e1u - T\u00f4n Th\u1ea5t T\u00f9ng",
+    "address": "107 A11 T\u00f4n Th\u1ea5t T\u00f9ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.6,
+        "location": null,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "130.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-oc-suon-co-sau-ton-that-tung"
+}

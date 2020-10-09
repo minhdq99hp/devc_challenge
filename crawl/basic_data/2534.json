@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp C\u00f4 Vi - G\u00e0 R\u00e1n, C\u01a1m G\u00e0 & Tr\u00e0 Hong Kong",
+    "address": "228A H\u1ed3ng Mai, P. Qu\u1ef3nh L\u00f4i, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "07:00",
+    "closing_time": "20:00",
+    "min_price": "5.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-co-vi-ga-ran-com-ga-tra-hong-kong"
+}

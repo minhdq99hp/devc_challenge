@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e8 S\u1ea7u Li\u00ean \u0110\u00e0 N\u1eb5ng - Nguy\u1ec5n Qu\u00fd \u0110\u1ee9c",
+    "address": "1 Nguy\u1ec5n Qu\u00fd \u0110\u1ee9c (Trung T\u00e2m Tin H\u1ecdc), Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 5.9,
+        "service": 6.3,
+        "location": 6.2,
+        "quality": null,
+        "price": null,
+        "space": null
+    },
+    "review_count": 11,
+    "opening_time": "09:00",
+    "closing_time": "23:00",
+    "min_price": "15.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/che-sau-lien-da-nang-nguyen-quy-duc"
+}

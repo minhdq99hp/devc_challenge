@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec K\u1eb9p Th\u1ecbt - Tr\u1ea7n Th\u00e1i T\u00f4ng",
+    "address": "76 Ng\u00f5 44 Tr\u1ea7n Th\u00e1i T\u00f4ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.1,
+        "price": 7.0,
+        "location": 6.5,
+        "space": 6.0,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 2,
+    "opening_time": "06:00",
+    "closing_time": "22:30",
+    "min_price": "15.000",
+    "max_price": "20.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-kep-thit-tran-thai-tong"
+}

@@ -1,0 +1,24 @@
+{
+    "name": "KCC - Ph\u1edf & C\u01a1m G\u00e0 X\u1ed1i M\u1eafm - Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh",
+    "address": "26 Nguy\u1ec5n Th\u1ecb \u0110\u1ecbnh, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 2.7,
+        "location": null,
+        "space": null,
+        "price": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Mi\u1ec1n Nam",
+    "url": "https://www.foody.vn/ha-noi/pho-kcc-nguyen-thi-dinh"
+}

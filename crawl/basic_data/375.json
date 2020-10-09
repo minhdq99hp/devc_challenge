@@ -1,0 +1,26 @@
+{
+    "name": "PuMin - C\u01a1m V\u0103n Ph\u00f2ng & \u0110\u1ed3 \u0102n V\u1eb7t Online - Kh\u01b0\u01a1ng Trung",
+    "address": "10 Ng\u00e1ch 77 Ng\u00f5 211 Kh\u01b0\u01a1ng Trung, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/pumin-com-van-phong-do-an-vat-online-khuong-trung"
+}

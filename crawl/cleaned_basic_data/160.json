@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e1o Dinh D\u01b0\u1ee1ng Bika Vi\u1ec7t Nam - S\u01a1n T\u00e2y",
+    "address": "3A S\u01a1n T\u00e2y, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n, ",
+    "scores": {
+        "avg_score": 9.9,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0,
+        "location": 9.4
+    },
+    "review_count": 5,
+    "opening_time": "07:00",
+    "closing_time": "20:00",
+    "min_price": "19.200",
+    "max_price": "26.500",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Tr\u1ebb em"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-dinh-duong-bika-viet-nam-son-tay"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Qu\u00e1n Kh\u00f3i - C\u01a1m V\u0103n Ph\u00f2ng & N\u01b0\u1edbc \u00c9p Tr\u00e1i C\u00e2y",
+    "address": "25 C\u1ef1 L\u1ed9c, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.6,
+        "price": 7.2,
+        "service": 6.9,
+        "quality": 6.8,
+        "location": 6.2,
+        "space": null
+    },
+    "review_count": 11,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/quan-khoi-com-van-phong-nuoc-ep-trai-cay"
+}

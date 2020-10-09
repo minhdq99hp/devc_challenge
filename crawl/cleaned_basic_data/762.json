@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m S\u1ea1ch M\u1eb9 Shin - Kim \u0110\u1ed3ng - Shop Online",
+    "address": "203 C\u1ea7u Thang 1 Ng\u00f5 1 Kim \u0110\u1ed3ng, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.9,
+        "location": 7.3,
+        "price": 7.2,
+        "quality": 7.1,
+        "space": 6.7,
+        "service": 6.2
+    },
+    "review_count": 9,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "20.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-sach-me-shin-kim-dong-shop-online"
+}

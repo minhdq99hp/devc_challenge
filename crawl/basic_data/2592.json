@@ -1,0 +1,25 @@
+{
+    "name": "Th\u1eafm Nguy\u1ec5n - X\u00f4i 100",
+    "address": "100 Ng\u00f5 44 T\u1ed5 24 Tr\u1ea7n Th\u00e1i T\u00f4ng, P. D\u1ecbch V\u1ecdng H\u1eadu, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.6,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": 8.0,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "35.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tham-nguyen-xoi-100"
+}

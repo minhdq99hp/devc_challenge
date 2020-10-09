@@ -1,0 +1,24 @@
+{
+    "name": "Ch\u00e2n G\u00e0 S\u1ea3 \u1edat 36 - Shop Online",
+    "address": "T\u00f2a FLC Complex, 36 Ph\u1ea1m H\u00f9ng , Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 5.7,
+        "location": 6.1,
+        "service": 6.1,
+        "price": null,
+        "quality": null,
+        "space": null
+    },
+    "review_count": 10,
+    "opening_time": "00:01",
+    "closing_time": "23:59",
+    "min_price": "60.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chan-ga-sa-ot-36-shop-online"
+}

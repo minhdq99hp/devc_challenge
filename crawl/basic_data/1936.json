@@ -1,0 +1,24 @@
+{
+    "name": "Ng\u1ecdc Th\u1ea1ch Qu\u00e1n - T\u00f4 Hi\u1ec7u",
+    "address": "Ki \u1ed0t 8 C\u1ea7u \u0110\u01a1 (G\u1ea7n Ng\u00e3 T\u01b0 Nh\u00e0 Thi \u0110\u1ea5u H\u00e0 \u0110\u00f4ng), Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 5.8,
+        "location": 6.3,
+        "price": 6.3,
+        "space": 6.3,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 4,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ngoc-thach-quan-ha-dong"
+}

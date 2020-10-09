@@ -1,0 +1,25 @@
+{
+    "name": "Th\u1eafm Food - C\u01a1m & \u0102n V\u1eb7t H\u00e0n Qu\u1ed1c - Gia Qu\u00e2\u0301t",
+    "address": "103 Gia Qu\u00e2\u0301t, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "35.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/tham-food-com-an-vat-han-quoc-gia-quat"
+}

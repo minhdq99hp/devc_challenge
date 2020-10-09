@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan S\u01b0\u1eddn Chua - Ph\u1ed1 C\u1ed5",
+    "address": "33 Ng\u00e1ch 32 Ng\u00f5 564 Nguy\u1ec5n V\u0103n C\u1eeb (C\u1ed5ng \u0110\u01a1n Nguy\u00ean B - Chung C\u01b0 Gia Th\u1ee5y), Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:00",
+    "closing_time": "14:00",
+    "min_price": "40.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-suon-chua-pho-co"
+}

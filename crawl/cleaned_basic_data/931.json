@@ -1,0 +1,24 @@
+{
+    "name": "Royaltea Plus - Nguy\u1ec5n Tu\u00e2n",
+    "address": "1 Ng\u00f5 161 Nguy\u1ec5n Tu\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.8,
+        "location": 7.9,
+        "service": 7.9,
+        "price": 7.8,
+        "space": 7.7,
+        "quality": 7.6
+    },
+    "review_count": 23,
+    "opening_time": "08:30",
+    "closing_time": "22:30",
+    "min_price": "45.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/royaltea-plus-nguyen-tuan"
+}

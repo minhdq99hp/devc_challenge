@@ -1,0 +1,24 @@
+{
+    "name": "Tiger Sugar Delivery - \u0110\u01b0\u1eddng N\u00e2u S\u1eefa \u0110\u00e0i Loan - Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch",
+    "address": "20B10 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.1,
+        "price": 7.5,
+        "quality": 7.4,
+        "service": 7.3,
+        "location": 7.1,
+        "space": 6.4
+    },
+    "review_count": 124,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "29.000",
+    "max_price": "66.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-duong-nau-sua-dai-loan-pham-ngoc-thach"
+}

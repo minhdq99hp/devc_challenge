@@ -1,0 +1,25 @@
+{
+    "name": "B\u1ebfp T\u00e2m An - C\u01a1m & \u0102n V\u1eb7t Online",
+    "address": "75 Hoa B\u1eb1ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.5,
+        "quality": 9.0,
+        "service": 8.7,
+        "location": 8.3,
+        "price": 8.3,
+        "space": 8.3
+    },
+    "review_count": 3,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "220.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bep-tam-an-com-an-vat-online"
+}

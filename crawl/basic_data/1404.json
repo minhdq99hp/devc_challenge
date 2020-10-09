@@ -1,0 +1,25 @@
+{
+    "name": "LuuAnh's Kitchen - M\u00f3n Ngon Th\u00e1i & H\u00e0n",
+    "address": "68 Ch\u00f9a Qu\u1ef3nh (M\u1eb7t Ph\u1ed1 Ch\u00f9a Qu\u1ef3nh \u0110\u1ed1i Di\u1ec7n Showroom Yakult), Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "space": 6.6,
+        "location": 6.5,
+        "service": 6.5,
+        "quality": null,
+        "price": null
+    },
+    "review_count": 18,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "65.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/luuanh-s-kitchen-mon-ngon-thai-han"
+}

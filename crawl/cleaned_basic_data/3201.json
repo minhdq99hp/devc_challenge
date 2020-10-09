@@ -1,0 +1,25 @@
+{
+    "name": "\u0102n V\u1eb7t Online Kh\u01b0\u01a1ng \u0110\u00ecnh",
+    "address": "36 Ng\u00f5 420 Kh\u01b0\u01a1ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 8.1,
+        "price": 9.5,
+        "quality": 9.5,
+        "service": 9.0,
+        "location": 6.5,
+        "space": 6.0
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "10.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/an-vat-online-khuong-dinh"
+}

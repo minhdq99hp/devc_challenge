@@ -1,0 +1,24 @@
+{
+    "name": "Tiger Sugar - Tr\u01b0\u01a1ng \u0110\u1ecbnh",
+    "address": "36 Ng\u00f5 20 Tr\u01b0\u01a1ng \u0110\u1ecbnh, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 2.7,
+        "price": null,
+        "location": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "30.000",
+    "max_price": "70.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tiger-sugar-duong-nau-sua-dai-loan-truong-dinh"
+}

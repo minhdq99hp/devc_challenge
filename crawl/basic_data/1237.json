@@ -1,0 +1,24 @@
+{
+    "name": "HM 187 - G\u00e0 R\u00e1n, B\u00e1nh G\u00e0 & Khoai L\u1eafc - H\u1ed3ng Mai",
+    "address": "187B H\u1ed3ng Mai, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 5.4,
+        "service": null,
+        "price": null,
+        "quality": null,
+        "location": null,
+        "space": null
+    },
+    "review_count": 20,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/hm-187-ga-ran-banh-ga-khoai-lac-hong-mai"
+}

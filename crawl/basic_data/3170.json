@@ -1,0 +1,24 @@
+{
+    "name": "V\u0169 Thu H\u1eb1ng - C\u01a1m Ngon Hanoi - Shop Online - Ba La",
+    "address": "9 Ng\u00e1ch 103 Ng\u00f5 Ga H\u00e0 \u0110\u00f4ng (Cu\u1ed1i Ng\u00f5 R\u1ebd Ph\u1ea3i), Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 2,
+    "opening_time": "09:30",
+    "closing_time": "20:30",
+    "min_price": "44.000",
+    "max_price": "55.000",
+    "audiences": [
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/vu-thu-hang-com-ngon-hanoi-shop-online-ba-la"
+}

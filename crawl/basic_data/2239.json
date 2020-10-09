@@ -1,0 +1,24 @@
+{
+    "name": "B\u00e1nh Cu\u1ed1n N\u00f3ng, B\u00fan Ch\u1ea3 & G\u00e0 T\u1ea7n - Quan Nh\u00e2n",
+    "address": "120 Quan Nh\u00e2n, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "location": 6.5,
+        "quality": 6.5,
+        "service": 6.5,
+        "space": null,
+        "price": null
+    },
+    "review_count": 4,
+    "opening_time": "06:00",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "40.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-cuon-nong-bun-cha-ga-tan-quan-nhan"
+}

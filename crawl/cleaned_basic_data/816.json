@@ -1,0 +1,26 @@
+{
+    "name": "C\u1ed9ng C\u00e0 Ph\u00ea - Nh\u00e0 Th\u1edd",
+    "address": "27 Nh\u00e0 Th\u1edd, Qu\u1eadn Ho\u00e0n Ki\u1ebfm H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "location": 8.0,
+        "space": 7.6,
+        "quality": 7.2,
+        "service": 6.9,
+        "price": 6.4
+    },
+    "review_count": 94,
+    "opening_time": "07:30",
+    "closing_time": "23:30",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/cong-caphe-nha-tho"
+}

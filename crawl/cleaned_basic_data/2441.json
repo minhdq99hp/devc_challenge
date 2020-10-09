@@ -1,0 +1,24 @@
+{
+    "name": "L\u1eafc Tea - Tr\u00e0 T\u1eafc X\u00ed Mu\u1ed9i - Th\u01b0\u1ee3ng \u0110\u00ecnh",
+    "address": "234 Th\u01b0\u1ee3ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.7,
+        "price": 8.7,
+        "location": 7.7,
+        "quality": 7.7,
+        "service": 7.7,
+        "space": 6.7
+    },
+    "review_count": 3,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "8.000",
+    "max_price": "12.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/lac-tea-tra-tac-xi-muoi"
+}

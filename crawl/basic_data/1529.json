@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec Minh Nh\u1eadt - T\u00f4n Th\u1ea5t T\u00f9ng",
+    "address": "109A11 T\u00f4n Th\u1ea5t T\u00f9ng, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 6.6,
+        "location": 7.6,
+        "space": 6.7,
+        "quality": 6.6,
+        "price": 6.1,
+        "service": null
+    },
+    "review_count": 14,
+    "opening_time": "07:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "T\u00e2y B\u1eafc,",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-minh-nhat-ton-that-tung"
+}

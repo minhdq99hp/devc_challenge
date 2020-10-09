@@ -1,0 +1,25 @@
+{
+    "name": "Four Season Juice - N\u01b0\u1edbc \u00c9p Tr\u00e1i C\u00e2y Theo M\u00f9a",
+    "address": "29G Nguy\u1ec5n Th\u00e1i H\u1ecdc, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.5,
+        "quality": 8.1,
+        "price": 7.9,
+        "service": 7.4,
+        "location": 7.1,
+        "space": 6.9
+    },
+    "review_count": 70,
+    "opening_time": "10:30",
+    "closing_time": "23:30",
+    "min_price": "25.000",
+    "max_price": "45.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/four-season-juice-nuoc-ep-trai-cay-theo-mua"
+}

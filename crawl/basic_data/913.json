@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e0 Ph\u01b0\u01a1ng - B\u00e1nh M\u00ec H\u00e0 N\u1ed9i X\u01b0a - Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch",
+    "address": "2 Ho\u00e0ng Ng\u1ecdc Ph\u00e1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 7.6,
+        "price": 10.0,
+        "service": 10.0,
+        "quality": 8.0,
+        "location": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "06:30",
+    "closing_time": "21:00",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ba-phuong-banh-mi-ha-noi-xua-hoang-ngoc-phach"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "Ti\u1ec7m M\u00ec Hana - M\u00ec Tr\u1ed9n Indomie",
+    "address": "21 Ng\u00e1ch 27 (\u0110\u1ea7u Ng\u00e1ch 27 R\u1ebd Ph\u1ea3i) Ng\u00f5 Ch\u00f9a Li\u00ean Ph\u00e1i, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "10:00",
+    "closing_time": "23:59",
+    "min_price": "20.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/tiem-mi-hana-mi-tron-indomie"
+}

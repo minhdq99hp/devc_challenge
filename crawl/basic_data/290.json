@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m G\u00e0 S\u01a1n La - Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a",
+    "address": "101 KTT Q41 Ng\u00f5 385 Tr\u1ea7n \u0110\u1ea1i Ngh\u0129a (R\u1ebd Ph\u1ea3i \u0110i V\u00e0o 100m), Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.9,
+        "location": null,
+        "price": null,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 3,
+    "opening_time": "10:45",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-ga-son-la-tran-dai-nghia"
+}

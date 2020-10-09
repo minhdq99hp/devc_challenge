@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u00e1o S\u1ee5n N\u1ea5m - V\u00f5 Ch\u00ed C\u00f4ng",
+    "address": "68A V\u00f5 Ch\u00ed C\u00f4ng (\u0110i H\u1ebft Ng\u00f5 445 L\u1ea1c Long Qu\u00e2n R\u1ebd Ph\u1ea3i 20m), Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 9.6,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "15:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "30.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chao-sun-nam-vo-chi-cong"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "V1996 - Tr\u00e0 Chanh & \u0102n V\u1eb7t - Shop Online",
+    "address": "38 Ng\u00f5 32 Ngh\u00e1ch 48 \u0110\u1ed7 \u0110\u1ee9c D\u1ee5c, P. M\u1ec5 Tr\u00ec, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 4.5,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 2,
+    "opening_time": "10:00",
+    "closing_time": "22:00",
+    "min_price": "10.000",
+    "max_price": "120.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/v1996-tra-chanh-an-vat-shop-online"
+}

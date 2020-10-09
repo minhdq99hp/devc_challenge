@@ -1,0 +1,24 @@
+{
+    "name": "Gia Huy - Ch\u00e8 Kh\u00fac B\u1ea1ch Online",
+    "address": "39B Ng\u00f5 120 Ho\u00e0ng Mai, Qu\u1eadn Ho\u00e0ng Mai H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.2,
+        "service": 6.6,
+        "space": 6.5,
+        "quality": 6.1,
+        "price": null,
+        "location": null
+    },
+    "review_count": 14,
+    "opening_time": "10:00",
+    "closing_time": "20:00",
+    "min_price": "12.000",
+    "max_price": "22.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/gia-huy-che-khuc-bach-tiramisu-online"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "G\u00e0 R\u00e1n Popeyes - Mac Plaza",
+    "address": "T\u1ea7ng 4,\u00a0T\u1ea7ng 4 Mac Plaza, 10 Tr\u1ea7n Ph\u00fa, P. M\u1ed9 Lao, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.8,
+        "space": 7.4,
+        "location": 7.3,
+        "price": 6.8,
+        "service": 6.6,
+        "quality": null
+    },
+    "review_count": 24,
+    "opening_time": "10:00",
+    "closing_time": "21:00",
+    "min_price": "30.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/ga-ran-popeyes-tttm-machinco"
+}

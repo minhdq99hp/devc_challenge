@@ -1,0 +1,21 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Pozaa Tea - T\u1ea7ng B1 Savico Long Bi\u00ean",
+    "address": "T\u1ea7ng 3, TTTM Savico Long Bi\u00ean, 7 - 9 Nguy\u1ec5n V\u0103n Linh, P. Gia Th\u1ee5y, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": null,
+    "cuisine": null,
+    "url": "https://www.foody.vn/ha-noi/tra-sua-pozaa-tea-tang-b1-savico-long-bien"
+}

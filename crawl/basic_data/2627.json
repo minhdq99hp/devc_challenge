@@ -1,0 +1,25 @@
+{
+    "name": "Kh\u00e1nh Linh - B\u00fan, Ch\u00e1o H\u1ea3i S\u1ea3n & Ph\u1edf Cu\u1ed1n",
+    "address": "101A Ng\u00f5 211 Kh\u01b0\u01a1ng Trung, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "40.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/khanh-linh-bun-chao-hai-san-pho-cuon"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan C\u00e1 Ch\u1ea5m CCG - Ngo\u0323c L\u00e2m",
+    "address": "142 Ngo\u0323c L\u00e2m, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 4.0,
+        "service": null,
+        "space": null,
+        "location": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 1,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "100.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/ca-cham-gion-bun-ca-cham-ngoc-lam"
+}

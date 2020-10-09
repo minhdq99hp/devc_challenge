@@ -1,0 +1,25 @@
+{
+    "name": "Twitter Beans Coffee - Quang Minh Tower",
+    "address": "T\u1ea7ng 1,\u00a0T\u1ea7ng 1, N02T3, Quang Minh Tower, Khu Ngo\u1ea1i Giao \u0110o\u00e0n, Ng\u00f4 Quang Huy, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.2,
+        "quality": 7.0,
+        "service": 7.0,
+        "space": 7.0,
+        "location": null,
+        "price": null
+    },
+    "review_count": 1,
+    "opening_time": "07:00",
+    "closing_time": "22:00",
+    "min_price": "25.000",
+    "max_price": "65.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/twitter-beans-coffee-quang-minh-tower"
+}

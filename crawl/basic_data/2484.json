@@ -1,0 +1,25 @@
+{
+    "name": "B\u00fan \u0110\u1eadu T\u00e2m An - Tu Ho\u00e0ng",
+    "address": "Ng\u00e3 T\u01b0 C\u00e2y \u0110a, T\u1ed5 D\u00e2n Ph\u1ed1 8 Tu Ho\u00e0ng, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 6.2,
+        "price": 6.6,
+        "quality": 6.4,
+        "location": 6.2,
+        "service": 6.0,
+        "space": null
+    },
+    "review_count": 5,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "40.000",
+    "max_price": "60.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/bun-dau-tam-an-tu-hoang"
+}

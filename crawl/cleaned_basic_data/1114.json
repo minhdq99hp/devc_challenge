@@ -1,0 +1,25 @@
+{
+    "name": "C\u01a1m Chay Ly\u0301 S\u01a1n - Shop Online",
+    "address": "37 Ng\u00f5 46 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch (57 Ng\u00f5 29 X\u00e3 \u0110\u00e0n), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 7.8,
+        "price": 10.0,
+        "quality": 9.5,
+        "service": 7.5,
+        "location": 6.0,
+        "space": 6.0
+    },
+    "review_count": 2,
+    "opening_time": "10:00",
+    "closing_time": "14:00 | 17:00",
+    "min_price": "35.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/com-chay-ly-son-shop-online"
+}

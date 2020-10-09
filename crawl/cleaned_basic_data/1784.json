@@ -1,0 +1,25 @@
+{
+    "name": "Bin Bon - M\u00ec Tr\u1ed9n Indomie - Shop Online",
+    "address": "543 V\u0169 T\u00f4ng Phan, P. Kh\u01b0\u01a1ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 10.0,
+        "location": 10.0,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "space": 10.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "Malaysia",
+    "url": "https://www.foody.vn/ha-noi/bin-bon-mi-tron-indomie-shop-online"
+}

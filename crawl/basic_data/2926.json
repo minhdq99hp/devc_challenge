@@ -1,0 +1,25 @@
+{
+    "name": "Cha Go Tea & Caf'e - BigC Th\u0103ng Long",
+    "address": "C\u1ed5ng Ch\u00ednh BigC Th\u0103ng Long, 222 Tr\u1ea7n Duy H\u01b0ng, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 4.3,
+        "location": 7.0,
+        "space": null,
+        "price": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": "08:30",
+    "closing_time": "22:00",
+    "min_price": "30.000",
+    "max_price": "80.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/cha-go-tea-caf-e-bigc-thang-long"
+}

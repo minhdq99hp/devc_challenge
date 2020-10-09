@@ -1,0 +1,25 @@
+{
+    "name": "Ch\u1ecb C\u00fac - B\u00fan Tr\u1ed9n Nam B\u1ed9 - Tri\u1ec7u Vi\u1ec7t V\u01b0\u01a1ng",
+    "address": "14 Tri\u1ec7u Vi\u1ec7t V\u01b0\u01a1ng, P. B\u00f9i Th\u1ecb Xu\u00e2n, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "06:45",
+    "closing_time": "21:00",
+    "min_price": "45.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/chi-cuc-bun-tron-nam-bo-trieu-viet-vuong"
+}

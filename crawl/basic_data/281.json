@@ -1,0 +1,25 @@
+{
+    "name": "\u0110\u1ee9c Th\u1eafng - B\u00e1nh M\u00ec H\u1ed9i An",
+    "address": "7 H\u1ebbm 87 Ng\u00e1ch 64 Ng\u00f5 193 T\u1ed5 15, Ph\u00fa Di\u1ec5n, Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 1.0,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "15.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Mi\u1ec1n Trung",
+    "url": "https://www.foody.vn/ha-noi/duc-thang-banh-mi-hoi-an"
+}

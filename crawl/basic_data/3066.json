@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Pozaa Tea - Th\u01b0\u1ee3ng Thanh",
+    "address": "S\u1ed1 11, Ng\u00e1ch 96/71/15 Ph\u1ed1 Th\u01b0\u1ee3ng Thanh, Long Bi\u00ean, Qu\u1eadn Long Bi\u00ean H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "08:30",
+    "closing_time": "22:30",
+    "min_price": "20.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "H\u00e0 N\u1ed9i",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-pozaa-tea-thuong-thanh"
+}

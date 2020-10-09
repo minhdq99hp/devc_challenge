@@ -1,0 +1,25 @@
+{
+    "name": "Bimbimbap - C\u01a1m Tr\u1ed9n & C\u01a1m G\u00e0 H\u00e0n Qu\u1ed1c - Ao Sen ",
+    "address": "12B Ng\u00f5 4 Ao Sen, Qu\u1eadn H\u00e0 \u0110\u00f4ng H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 7.7,
+        "price": 8.3,
+        "quality": 7.9,
+        "service": 7.9,
+        "location": 7.8,
+        "space": 6.8
+    },
+    "review_count": 14,
+    "opening_time": "09:00",
+    "closing_time": "22:00",
+    "min_price": "50.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n H\u00e0n",
+    "url": "https://www.foody.vn/ha-noi/bimbimbap-com-tron-com-ga-han-quoc-ao-sen"
+}

@@ -1,0 +1,25 @@
+{
+    "name": "B\u00e1nh M\u00ec B\u1eafp - G\u00e0 Popcorn & B\u00e1nh M\u00ec G\u00e0 Nem",
+    "address": "1 Ng\u00f5 30 Kh\u00fac Th\u1eeba D\u1ee5, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": 8.5,
+        "price": 9.1,
+        "quality": 9.0,
+        "service": 8.8,
+        "location": 8.2,
+        "space": 7.3
+    },
+    "review_count": 32,
+    "opening_time": "07:00",
+    "closing_time": "23:00",
+    "min_price": "15.000",
+    "max_price": "25.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/banh-mi-bap-banh-mi-com"
+}

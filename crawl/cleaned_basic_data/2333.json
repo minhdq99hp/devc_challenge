@@ -1,0 +1,25 @@
+{
+    "name": "TacoZone - Shop Online - \u0110\u1ea1i C\u1ed3 Vi\u1ec7t",
+    "address": "28 \u0110\u1ea1i C\u1ed3 Vi\u1ec7t, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 9.2,
+        "price": 10.0,
+        "quality": 10.0,
+        "service": 10.0,
+        "location": 8.0,
+        "space": 8.0
+    },
+    "review_count": 1,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "40.000",
+    "max_price": "100.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/tacozone-shop-online-dai-co-viet"
+}

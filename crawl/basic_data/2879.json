@@ -1,0 +1,25 @@
+{
+    "name": "M\u1eb9t Qu\u00e1n Sinh Vi\u00ean",
+    "address": "95 Ng\u00f5 418 La Th\u00e0nh, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.9,
+        "price": 6.1,
+        "location": 6.0,
+        "space": null,
+        "service": null,
+        "quality": null
+    },
+    "review_count": 54,
+    "opening_time": "09:00",
+    "closing_time": "19:00",
+    "min_price": "5.000",
+    "max_price": "60.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/met-quan-sinh-vien"
+}

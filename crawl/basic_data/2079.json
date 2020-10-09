@@ -1,0 +1,25 @@
+{
+    "name": "Mr. Spaghetti - Shop Online - Kim M\u00e3",
+    "address": "283 Kim M\u00e3, Qu\u1eadn Ba \u0110\u00ecnh H\u00e0 N\u1ed9i",
+    "category": "Shop Online",
+    "scores": {
+        "avg_score": 6.5,
+        "location": 7.5,
+        "service": 7.5,
+        "quality": 6.0,
+        "space": 6.0,
+        "price": null
+    },
+    "review_count": 2,
+    "opening_time": "09:00",
+    "closing_time": "21:30",
+    "min_price": "30.000",
+    "max_price": "200.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "Qu\u1ed1c t\u1ebf",
+    "url": "https://www.foody.vn/ha-noi/mr-spaghetti-shop-online-kim-ma"
+}

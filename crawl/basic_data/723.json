@@ -1,0 +1,25 @@
+{
+    "name": "Royaltea - Tr\u00e0 S\u1eefa H\u1ed3ng K\u00f4ng - T\u00e2y S\u01a1n",
+    "address": "110 Nh\u00e0 A5 Ng\u00f5 167 T\u00e2y S\u01a1n, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 2.6,
+        "location": null,
+        "space": null,
+        "price": null,
+        "quality": null,
+        "service": null
+    },
+    "review_count": 1,
+    "opening_time": "08:00",
+    "closing_time": "23:00",
+    "min_price": "30.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/royaltea-tra-sua-hong-kong-tay-son"
+}

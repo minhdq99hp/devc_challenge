@@ -1,0 +1,25 @@
+{
+    "name": "Zone 236 - B\u00e1nh M\u00ec & Tr\u00e0 Hoa Qu\u1ea3",
+    "address": "7 Ng\u00f5 236 \u00c2u C\u01a1, P. Qu\u1ea3ng An, Qu\u1eadn T\u00e2y H\u1ed3 H\u00e0 N\u1ed9i",
+    "category": "\u0102n v\u1eb7t/v\u1ec9a h\u00e8",
+    "scores": {
+        "avg_score": null,
+        "location": null,
+        "price": null,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": null,
+    "opening_time": "05:00",
+    "closing_time": "22:00",
+    "min_price": "12.000",
+    "max_price": "30.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Nh\u00f3m h\u1ed9i",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/zone-236-banh-mi-tra-hoa-qua"
+}

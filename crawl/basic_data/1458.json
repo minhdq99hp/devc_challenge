@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Pozaa Tea - Kh\u01b0\u01a1ng \u0110\u00ecnh",
+    "address": "20B Ng\u00f5 460 Kh\u01b0\u01a1ng \u0110\u00ecnh, Qu\u1eadn Thanh Xu\u00e2n H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 6.0,
+        "price": 7.0,
+        "location": 6.5,
+        "quality": null,
+        "service": null,
+        "space": null
+    },
+    "review_count": 4,
+    "opening_time": "08:30",
+    "closing_time": "22:30",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-pozaa-tea-khuong-dinh"
+}

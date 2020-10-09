@@ -1,0 +1,24 @@
+{
+    "name": "The 1989 - Vietnam Milktea - T\u00f4n Th\u00e2\u0301t Tu\u0300ng",
+    "address": "103 Tam Kh\u01b0\u01a1ng (Ngo\u0303 10 T\u00f4n Th\u00e2\u0301t Tu\u0300ng), Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.2,
+        "price": 8.2,
+        "location": 7.4,
+        "quality": 7.4,
+        "service": 6.8,
+        "space": 6.4
+    },
+    "review_count": 5,
+    "opening_time": "12:00",
+    "closing_time": "21:00",
+    "min_price": "15.000",
+    "max_price": "40.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/the-1989-vietnam-milktea-ton-that-tung"
+}

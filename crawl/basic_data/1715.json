@@ -1,0 +1,24 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Pozaa Tea - Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t",
+    "address": "405 Ho\u00e0ng Qu\u1ed1c Vi\u1ec7t, Qu\u1eadn C\u1ea7u Gi\u1ea5y H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 4.0,
+        "location": null,
+        "price": null,
+        "service": null,
+        "space": null,
+        "quality": null
+    },
+    "review_count": 4,
+    "opening_time": "08:00",
+    "closing_time": "22:30",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "C\u1eb7p \u0111\u00f4i",
+        "Nh\u00f3m h\u1ed9i"
+    ],
+    "cuisine": "M\u00f3n \u00c1",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-pozaa-tea-hoang-quoc-viet"
+}

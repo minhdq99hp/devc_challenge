@@ -1,0 +1,25 @@
+{
+    "name": "Tr\u00e0 S\u1eefa Bobapop - L\u00ea \u0110\u1ea1i H\u00e0nh",
+    "address": "7B L\u00ea \u0110\u1ea1i H\u00e0nh, Qu\u1eadn Hai B\u00e0 Tr\u01b0ng H\u00e0 N\u1ed9i",
+    "category": "Caf\u00e9/Dessert",
+    "scores": {
+        "avg_score": 7.4,
+        "location": 7.8,
+        "quality": 7.5,
+        "service": 7.3,
+        "price": 7.3,
+        "space": 7.1
+    },
+    "review_count": 71,
+    "opening_time": "09:00",
+    "closing_time": "21:00",
+    "min_price": "25.000",
+    "max_price": "50.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "\u0110\u00e0i Loan",
+    "url": "https://www.foody.vn/ha-noi/tra-sua-bobapop-le-dai-hanh"
+}

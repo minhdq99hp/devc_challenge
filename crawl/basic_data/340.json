@@ -1,0 +1,24 @@
+{
+    "name": "Nh\u1ea5t Ch\u00e1o - Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch",
+    "address": "10 Ph\u1ea1m Ng\u1ecdc Th\u1ea1ch, Qu\u1eadn \u0110\u1ed1ng \u0110a H\u00e0 N\u1ed9i",
+    "category": "Qu\u00e1n \u0103n",
+    "scores": {
+        "avg_score": 5.8,
+        "quality": 6.5,
+        "location": 6.3,
+        "service": null,
+        "space": null,
+        "price": null
+    },
+    "review_count": 21,
+    "opening_time": null,
+    "closing_time": null,
+    "min_price": "30.000",
+    "max_price": "150.000",
+    "audiences": [
+        "Gia \u0111\u00ecnh",
+        "Gi\u1edbi v\u0103n ph\u00f2ng"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/nhat-chao-xa-dan"
+}

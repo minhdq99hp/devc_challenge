@@ -1,0 +1,25 @@
+{
+    "name": "Gia B\u1ea3o - B\u00e1nh Cu\u1ed9n & \u0102n V\u1eb7t",
+    "address": "12 Ng\u00e1ch 32/48 \u0110\u1ed7 \u0110\u1ee9c D\u1ee5c, Qu\u1eadn Nam T\u1eeb Li\u00eam H\u00e0 N\u1ed9i",
+    "category": "Ti\u1ec7m b\u00e1nh",
+    "scores": {
+        "avg_score": 3.1,
+        "location": null,
+        "service": null,
+        "space": null,
+        "price": null,
+        "quality": null
+    },
+    "review_count": 10,
+    "opening_time": "08:00",
+    "closing_time": "22:00",
+    "min_price": "20.000",
+    "max_price": "250.000",
+    "audiences": [
+        "Sinh vi\u00ean",
+        "C\u1eb7p \u0111\u00f4i",
+        "Gia \u0111\u00ecnh"
+    ],
+    "cuisine": "M\u00f3n Vi\u1ec7t",
+    "url": "https://www.foody.vn/ha-noi/gia-bao-banh-cuon-an-vat"
+}
