@@ -18,17 +18,21 @@ from selenium.webdriver.support import expected_conditions as EC
 if __name__ == '__main__':
     # start web driver
     options = webdriver.FirefoxOptions()
-    # options.headless = True
+    options.headless = True
     driver = webdriver.Firefox(options=options)
+
     print("Driver is started !")
 
     urls = []
 
     with open('now_urls.txt', 'r') as f:
         urls = f.readlines()
-    
-    for i, url in enumerate(tqdm(urls)):
-        cache_path = os.path.join('menu_html_cache', f"{i}.html")
+
+    init = 2000
+    end = 3000
+
+    for i, url in enumerate(tqdm(urls[init:end], initial=init, total=len(urls))):
+        cache_path = os.path.join('menu_html_cache', f"{i+init}.html")
 
         if os.path.exists(cache_path):
             continue

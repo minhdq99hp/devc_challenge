@@ -238,3 +238,123 @@ console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "res
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1602245109096	geckodriver	INFO	Listening on 127.0.0.1:44373
+1602245109101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSUqLjg"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602245111944	Marionette	INFO	Listening on port 39705
+1602245112011	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602245220690	geckodriver	INFO	Listening on 127.0.0.1:47945
+1602245220696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOePFvZ"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602245223406	Marionette	INFO	Listening on port 43523
+1602245223507	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602245244400	geckodriver	INFO	Listening on 127.0.0.1:56961
+1602245244407	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile7wf88Y"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602245247216	Marionette	INFO	Listening on port 36355
+1602245247328	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 19078, MediaDecoderStateMachine #1] WARNING: Decoder=7f9243625c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Ryrp1v/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+1602246112121	geckodriver	INFO	Listening on 127.0.0.1:32883
+1602246112126	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileejn2gw"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602246114892	Marionette	INFO	Listening on port 41541
+1602246114933	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+[Child 21138, MediaDecoderStateMachine #1] WARNING: Decoder=7f05fd066c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Ryrp1v/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602248882560	Marionette	ERROR	[15] No reply from Marionette:Register
+1602248883210	Marionette	INFO	Stopped listening on port 36355
+1602249090706	geckodriver	INFO	Listening on 127.0.0.1:37497
+1602249090714	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiley9pvoW"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602249093446	Marionette	INFO	Listening on port 45297
+1602249093522	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 21138, MediaDecoderStateMachine #1] WARNING: Decoder=7f059c845400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Ryrp1v/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602251005647	Marionette	ERROR	[15] No reply from Marionette:Register
+1602251006704	Marionette	INFO	Stopped listening on port 41541
+1602251055821	geckodriver	INFO	Listening on 127.0.0.1:41553
+1602251056834	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKwVMlh"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602251059408	Marionette	INFO	Listening on port 42255
+1602251059512	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24426, MediaDecoderStateMachine #1] WARNING: Decoder=7fc3bad8f000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Ryrp1v/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1602253305073	Marionette	ERROR	[15] No reply from Marionette:Register
+1602253305405	Marionette	INFO	Stopped listening on port 45297
+1602253355445	geckodriver	INFO	Listening on 127.0.0.1:50845
+1602253356455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet5RO4o"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602253359339	Marionette	INFO	Listening on port 32777
+1602253359381	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 24426, MediaDecoderStateMachine #1] WARNING: Decoder=7fc3b026a400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Ryrp1v/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1602254523040	geckodriver	INFO	Listening on 127.0.0.1:54011
+1602254523045	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLRGnBu"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602254525770	Marionette	INFO	Listening on port 43053
+1602254525854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7059: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 26163, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a1cec6400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Ryrp1v/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript error: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7059: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+[Child 26163, MediaDecoderStateMachine #1] WARNING: Decoder=7f7a3caba400 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /build/firefox-Ryrp1v/firefox-81.0+build2/dom/media/MediaDecoderStateMachine.cpp, line 3470
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://www.youtube.com/s/player/1a1b48e5/player_ias.vflset/en_US/base.js, line 7147: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1602293747730	geckodriver	INFO	Listening on 127.0.0.1:51981
+1602293748737	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3QKlP2"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602293751941	Marionette	INFO	Listening on port 32895
+1602293751949	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1602293769836	geckodriver	INFO	Listening on 127.0.0.1:40427
+1602293769841	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemor2wv"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1602293772428	Marionette	INFO	Listening on port 38871
+1602293772451	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
